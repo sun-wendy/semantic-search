@@ -1,0 +1,4000 @@
+1-----
+SENTENCE: there is a reptile
+SEM_REP: ,animal,reptiles_amphibians
+
+2-----
+SENTENCE: i see a donkey
+SEM_REP: ,DOMESTIC,beasts_of_burden,animal,farm_animals
+
+3-----
+SENTENCE: a bat walks by
+SEM_REP: ,animal,insectivores
+
+4-----
+SENTENCE: look at the parrot
+SEM_REP: ,birds,animal,DOMESTIC,pets
+
+5-----
+SENTENCE: the possum is here
+SEM_REP: ,animal,REGION,australian_animals
+
+6-----
+SENTENCE: look at the trout
+SEM_REP: ,animal,fish
+
+7-----
+SENTENCE: look at the ray
+SEM_REP: ,animal,water_animals
+
+8-----
+SENTENCE: i see a dove
+SEM_REP: ,birds,animal
+
+9-----
+SENTENCE: the crow is here
+SEM_REP: ,birds,animal
+
+10-----
+SENTENCE: look at the ass
+SEM_REP: ,DOMESTIC,beasts_of_burden,animal,farm_animals
+
+11-----
+SENTENCE: i see a raccoon
+SEM_REP: ,animal,north_american_animals,REGION
+
+12-----
+SENTENCE: there is a fawn
+SEM_REP: ,animal,deers
+
+13-----
+SENTENCE: look at the horse
+SEM_REP: ,DOMESTIC,beasts_of_burden,animal,farm_animals
+
+14-----
+SENTENCE: there is a deer
+SEM_REP: ,animal,north_american_animals,REGION,deers
+
+15-----
+SENTENCE: look at the bear
+SEM_REP: ,animal,north_american_animals,REGION
+
+16-----
+SENTENCE: a clam walks by
+SEM_REP: ,animal,water_animals
+
+17-----
+SENTENCE: a turtle walks by
+SEM_REP: ,animal,water_animals,reptiles_amphibians
+
+18-----
+SENTENCE: i see a eagle
+SEM_REP: ,birds,animal
+
+19-----
+SENTENCE: a walrus walks by
+SEM_REP: ,animal,REGION,arctic_far_north_animals
+
+20-----
+SENTENCE: i see a lobster
+SEM_REP: ,animal,water_animals
+
+21-----
+SENTENCE: the maggot is here
+SEM_REP: ,animal,insects
+
+22-----
+SENTENCE: i see a hog
+SEM_REP: ,farm_animals,animal,DOMESTIC
+
+23-----
+SENTENCE: a calf walks by
+SEM_REP: ,farm_animals,animal,DOMESTIC,bovine,FAMILY
+
+24-----
+SENTENCE: look at the zebra
+SEM_REP: ,animal,african_animals,REGION
+
+25-----
+SENTENCE: the tick is here
+SEM_REP: ,animal,insects
+
+26-----
+SENTENCE: there is a bird
+SEM_REP: ,birds,animal
+
+27-----
+SENTENCE: the butterfly is here
+SEM_REP: ,animal,insects
+
+28-----
+SENTENCE: look at the fish
+SEM_REP: ,animal,water_animals,fish
+
+29-----
+SENTENCE: a toad walks by
+SEM_REP: ,animal,water_animals,reptiles_amphibians
+
+30-----
+SENTENCE: a ray walks by
+SEM_REP: ,animal,water_animals
+
+31-----
+SENTENCE: look at the husky
+SEM_REP: ,animal,FAMILY,canine
+
+32-----
+SENTENCE: look at the chipmunk
+SEM_REP: ,animal,north_american_animals,REGION,rodents
+
+33-----
+SENTENCE: a cub walks by
+SEM_REP: ,animal,north_american_animals,REGION
+
+34-----
+SENTENCE: the worm is here
+SEM_REP: ,animal,insects
+
+35-----
+SENTENCE: look at the camel
+SEM_REP: ,beasts_of_burden,REGION,african_animals,animal,DOMESTIC
+
+36-----
+SENTENCE: i see a rail
+SEM_REP: 
+
+37-----
+SENTENCE: a lion walks by
+SEM_REP: ,REGION,african_animals,feline,animal,FAMILY
+
+38-----
+SENTENCE: a bull walks by
+SEM_REP: ,animal,FAMILY,feline
+
+39-----
+SENTENCE: the trout is here
+SEM_REP: ,animal,fish
+
+40-----
+SENTENCE: a bluejay walks by
+SEM_REP: ,birds,animal
+
+41-----
+SENTENCE: a chipmunk walks by
+SEM_REP: ,animal,north_american_animals,REGION,rodents
+
+42-----
+SENTENCE: there is a shark
+SEM_REP: ,animal,water_animals,fish
+
+43-----
+SENTENCE: i see a bug
+SEM_REP: ,animal,insects
+
+44-----
+SENTENCE: a octopus walks by
+SEM_REP: ,animal,water_animals
+
+45-----
+SENTENCE: look at the calf
+SEM_REP: ,farm_animals,animal,DOMESTIC,bovine,FAMILY
+
+46-----
+SENTENCE: there is a dove
+SEM_REP: ,birds,animal
+
+47-----
+SENTENCE: there is a dog
+SEM_REP: ,animal,DOMESTIC,pets,FAMILY,canine
+
+48-----
+SENTENCE: a lion walks by
+SEM_REP: ,REGION,african_animals,feline,animal,FAMILY
+
+49-----
+SENTENCE: there is a bunny
+SEM_REP: ,animal,rabbits
+
+50-----
+SENTENCE: look at the owl
+SEM_REP: ,birds,animal
+
+51-----
+SENTENCE: a bird walks by
+SEM_REP: ,birds,animal
+
+52-----
+SENTENCE: a ox walks by
+SEM_REP: ,DOMESTIC,beasts_of_burden,animal
+
+53-----
+SENTENCE: a slug walks by
+SEM_REP: ,animal,water_animals
+
+54-----
+SENTENCE: there is a bat
+SEM_REP: ,animal,insectivores
+
+55-----
+SENTENCE: i see a pigeon
+SEM_REP: ,birds,animal
+
+56-----
+SENTENCE: a buck walks by
+SEM_REP: ,animal,deers
+
+57-----
+SENTENCE: look at the fox
+SEM_REP: ,REGION,animals_used_for_fur,north_american_animals,animal,FAMILY,canine
+
+58-----
+SENTENCE: there is a mouse
+SEM_REP: ,birds,animal,rodents
+
+59-----
+SENTENCE: there is a penguin
+SEM_REP: ,birds,REGION,arctic_far_north_animals,animal,water_animals
+
+60-----
+SENTENCE: i see a stag
+SEM_REP: ,animal,deers
+
+61-----
+SENTENCE: there is a monkey
+SEM_REP: ,animal,african_animals,REGION,primates
+
+62-----
+SENTENCE: there is a butterfly
+SEM_REP: ,animal,insects
+
+63-----
+SENTENCE: look at the chicken
+SEM_REP: ,birds,animal,farm_animals,DOMESTIC
+
+64-----
+SENTENCE: there is a cow
+SEM_REP: ,farm_animals,animal,DOMESTIC,bovine,FAMILY
+
+65-----
+SENTENCE: the donkey is here
+SEM_REP: ,DOMESTIC,beasts_of_burden,animal,farm_animals
+
+66-----
+SENTENCE: look at the chicken
+SEM_REP: ,birds,animal,farm_animals,DOMESTIC
+
+67-----
+SENTENCE: the anteater is here
+SEM_REP: ,animal,insectivores
+
+68-----
+SENTENCE: a raccoon walks by
+SEM_REP: ,animal,north_american_animals,REGION
+
+69-----
+SENTENCE: i see a crab
+SEM_REP: ,animal,water_animals
+
+70-----
+SENTENCE: there is a gazelle
+SEM_REP: ,animal,african_animals,REGION,deers
+
+71-----
+SENTENCE: i see a gazelle
+SEM_REP: ,animal,african_animals,REGION,deers
+
+72-----
+SENTENCE: i see a oyster
+SEM_REP: ,animal,water_animals
+
+73-----
+SENTENCE: the mouse is here
+SEM_REP: ,birds,animal,rodents
+
+74-----
+SENTENCE: a mole walks by
+SEM_REP: ,animal,insectivores,rodents
+
+75-----
+SENTENCE: look at the pig
+SEM_REP: ,farm_animals,animal,DOMESTIC
+
+76-----
+SENTENCE: look at the cobra
+SEM_REP: ,animal,african_animals,REGION,reptiles_amphibians
+
+77-----
+SENTENCE: there is a rooster
+SEM_REP: ,farm_animals,animal,DOMESTIC
+
+78-----
+SENTENCE: look at the leopard
+SEM_REP: ,REGION,african_animals,feline,animal,FAMILY
+
+79-----
+SENTENCE: the pike is here
+SEM_REP: ,animal,fish
+
+80-----
+SENTENCE: the canary is here
+SEM_REP: ,birds,animal,DOMESTIC,pets
+
+81-----
+SENTENCE: the robin is here
+SEM_REP: ,birds,animal
+
+82-----
+SENTENCE: there is a swallow
+SEM_REP: ,birds,animal
+
+83-----
+SENTENCE: there is a bunny
+SEM_REP: ,animal,rabbits
+
+84-----
+SENTENCE: there is a sheep
+SEM_REP: ,farm_animals,animal,DOMESTIC
+
+85-----
+SENTENCE: i see a clam
+SEM_REP: ,animal,water_animals
+
+86-----
+SENTENCE: there is a leopard
+SEM_REP: ,REGION,african_animals,feline,animal,FAMILY
+
+87-----
+SENTENCE: i see a parrot
+SEM_REP: ,birds,animal,DOMESTIC,pets
+
+88-----
+SENTENCE: look at the bull
+SEM_REP: ,animal,FAMILY,feline
+
+89-----
+SENTENCE: look at the elk
+SEM_REP: ,animal,north_american_animals,REGION,deers
+
+90-----
+SENTENCE: look at the human
+SEM_REP: ,animal,primates
+
+91-----
+SENTENCE: look at the moose
+SEM_REP: ,animal,north_american_animals,REGION,deers
+
+92-----
+SENTENCE: a bison walks by
+SEM_REP: ,REGION,north_american_animals,animal,bovine,FAMILY
+
+93-----
+SENTENCE: there is a hog
+SEM_REP: ,farm_animals,animal,DOMESTIC
+
+94-----
+SENTENCE: look at the panther
+SEM_REP: ,REGION,african_animals,feline,animal,FAMILY
+
+95-----
+SENTENCE: i see a elk
+SEM_REP: ,animal,north_american_animals,REGION,deers
+
+96-----
+SENTENCE: a goose walks by
+SEM_REP: ,animal,water_animals
+
+97-----
+SENTENCE: the panther is here
+SEM_REP: ,REGION,african_animals,feline,animal,FAMILY
+
+98-----
+SENTENCE: a panther walks by
+SEM_REP: ,REGION,african_animals,feline,animal,FAMILY
+
+99-----
+SENTENCE: i see a walrus
+SEM_REP: ,animal,REGION,arctic_far_north_animals
+
+100-----
+SENTENCE: there is a bunny
+SEM_REP: ,animal,rabbits
+
+101-----
+SENTENCE: a aardvark walks by
+SEM_REP: ,animal,african_animals,REGION,insectivores
+
+102-----
+SENTENCE: look at the mink
+SEM_REP: ,animal,animals_used_for_fur,weasels
+
+103-----
+SENTENCE: i see a cardinal
+SEM_REP: ,birds,animal
+
+104-----
+SENTENCE: a mare walks by
+SEM_REP: ,DOMESTIC,beasts_of_burden,animal,farm_animals
+
+105-----
+SENTENCE: i see a rail
+SEM_REP: 
+
+106-----
+SENTENCE: a octopus walks by
+SEM_REP: ,animal,water_animals
+
+107-----
+SENTENCE: look at the lizard
+SEM_REP: ,animal,reptiles_amphibians
+
+108-----
+SENTENCE: i see a anteater
+SEM_REP: ,animal,insectivores
+
+109-----
+SENTENCE: the maggot is here
+SEM_REP: ,animal,insects
+
+110-----
+SENTENCE: i see a fox
+SEM_REP: ,REGION,animals_used_for_fur,north_american_animals,animal,FAMILY,canine
+
+111-----
+SENTENCE: i see a worm
+SEM_REP: ,animal,insects
+
+112-----
+SENTENCE: there is a clam
+SEM_REP: ,animal,water_animals
+
+113-----
+SENTENCE: the pelican is here
+SEM_REP: ,birds,animal
+
+114-----
+SENTENCE: there is a kite
+SEM_REP: ,birds,animal
+
+115-----
+SENTENCE: i see a sow
+SEM_REP: ,farm_animals,animal,DOMESTIC
+
+116-----
+SENTENCE: the worm is here
+SEM_REP: ,animal,insects
+
+117-----
+SENTENCE: the tiger is here
+SEM_REP: ,REGION,african_animals,feline,animal,FAMILY
+
+118-----
+SENTENCE: the sponge is here
+SEM_REP: ,animal,water_animals
+
+119-----
+SENTENCE: the monkey is here
+SEM_REP: ,animal,african_animals,REGION,primates
+
+120-----
+SENTENCE: there is a mole
+SEM_REP: ,animal,insectivores,rodents
+
+121-----
+SENTENCE: i see a bluejay
+SEM_REP: ,birds,animal
+
+122-----
+SENTENCE: the moth is here
+SEM_REP: ,animal,insects
+
+123-----
+SENTENCE: i see a camel
+SEM_REP: ,beasts_of_burden,REGION,african_animals,animal,DOMESTIC
+
+124-----
+SENTENCE: i see a devil
+SEM_REP: ,animal,REGION,australian_animals
+
+125-----
+SENTENCE: a rooster walks by
+SEM_REP: ,farm_animals,animal,DOMESTIC
+
+126-----
+SENTENCE: there is a penguin
+SEM_REP: ,birds,REGION,arctic_far_north_animals,animal,water_animals
+
+127-----
+SENTENCE: a ewe walks by
+SEM_REP: ,birds,animal
+
+128-----
+SENTENCE: look at the spider
+SEM_REP: ,farm_animals,animal,DOMESTIC
+
+129-----
+SENTENCE: look at the mosquito
+SEM_REP: ,animal,insects
+
+130-----
+SENTENCE: a zebra walks by
+SEM_REP: ,animal,african_animals,REGION
+
+131-----
+SENTENCE: there is a gorilla
+SEM_REP: ,animal,african_animals,REGION,primates
+
+132-----
+SENTENCE: there is a shrimp
+SEM_REP: ,animal,fish
+
+133-----
+SENTENCE: look at the toad
+SEM_REP: ,animal,water_animals,reptiles_amphibians
+
+134-----
+SENTENCE: a aardvark walks by
+SEM_REP: ,animal,african_animals,REGION,insectivores
+
+135-----
+SENTENCE: the horse is here
+SEM_REP: ,DOMESTIC,beasts_of_burden,animal,farm_animals
+
+136-----
+SENTENCE: the sow is here
+SEM_REP: ,farm_animals,animal,DOMESTIC
+
+137-----
+SENTENCE: there is a trout
+SEM_REP: ,animal,fish
+
+138-----
+SENTENCE: the caterpillar is here
+SEM_REP: ,animal,insects
+
+139-----
+SENTENCE: a ape walks by
+SEM_REP: ,animal,primates
+
+140-----
+SENTENCE: look at the frog
+SEM_REP: ,animal,water_animals,reptiles_amphibians
+
+141-----
+SENTENCE: look at the swan
+SEM_REP: ,birds,animal
+
+142-----
+SENTENCE: a beaver walks by
+SEM_REP: ,REGION,rodents,animals_used_for_fur,north_american_animals,animal,water_animals
+
+143-----
+SENTENCE: i see a tortoise
+SEM_REP: ,animal,reptiles_amphibians
+
+144-----
+SENTENCE: i see a bunny
+SEM_REP: ,animal,rabbits
+
+145-----
+SENTENCE: look at the owl
+SEM_REP: ,birds,animal
+
+146-----
+SENTENCE: i see a panther
+SEM_REP: ,REGION,african_animals,feline,animal,FAMILY
+
+147-----
+SENTENCE: i see a possum
+SEM_REP: ,animal,REGION,australian_animals
+
+148-----
+SENTENCE: i see a tuna
+SEM_REP: ,animal,fish
+
+149-----
+SENTENCE: a squirrel walks by
+SEM_REP: ,animal,north_american_animals,REGION,rodents
+
+150-----
+SENTENCE: look at the canary
+SEM_REP: ,birds,animal,DOMESTIC,pets
+
+151-----
+SENTENCE: the spider is here
+SEM_REP: ,farm_animals,animal,DOMESTIC
+
+152-----
+SENTENCE: i see a rodent
+SEM_REP: ,animal,rodents
+
+153-----
+SENTENCE: the cattle is here
+SEM_REP: ,animal,bovine,FAMILY
+
+154-----
+SENTENCE: there is a gorilla
+SEM_REP: ,animal,african_animals,REGION,primates
+
+155-----
+SENTENCE: a elephant walks by
+SEM_REP: ,animal,african_animals,REGION
+
+156-----
+SENTENCE: the cub is here
+SEM_REP: ,animal,north_american_animals,REGION
+
+157-----
+SENTENCE: there is a sugar
+SEM_REP: 
+
+158-----
+SENTENCE: there is a donkey
+SEM_REP: ,DOMESTIC,beasts_of_burden,animal,farm_animals
+
+159-----
+SENTENCE: a slug walks by
+SEM_REP: ,animal,water_animals
+
+160-----
+SENTENCE: a lobster walks by
+SEM_REP: ,animal,water_animals
+
+161-----
+SENTENCE: look at the rodent
+SEM_REP: ,animal,rodents
+
+162-----
+SENTENCE: look at the dragon
+SEM_REP: ,animal,reptiles_amphibians
+
+163-----
+SENTENCE: there is a shrimp
+SEM_REP: ,animal,fish
+
+164-----
+SENTENCE: there is a sponge
+SEM_REP: ,animal,water_animals
+
+165-----
+SENTENCE: a insect walks by
+SEM_REP: ,animal,insects
+
+166-----
+SENTENCE: i see a ape
+SEM_REP: ,animal,primates
+
+167-----
+SENTENCE: a canary walks by
+SEM_REP: ,birds,animal,DOMESTIC,pets
+
+168-----
+SENTENCE: a elk walks by
+SEM_REP: ,animal,north_american_animals,REGION,deers
+
+169-----
+SENTENCE: there is a donkey
+SEM_REP: ,DOMESTIC,beasts_of_burden,animal,farm_animals
+
+170-----
+SENTENCE: a ray walks by
+SEM_REP: ,animal,water_animals
+
+171-----
+SENTENCE: look at the gull
+SEM_REP: ,birds,animal
+
+172-----
+SENTENCE: there is a moose
+SEM_REP: ,animal,north_american_animals,REGION,deers
+
+173-----
+SENTENCE: i see a bass
+SEM_REP: ,animal,fish
+
+174-----
+SENTENCE: there is a rodent
+SEM_REP: ,animal,rodents
+
+175-----
+SENTENCE: a scallop walks by
+SEM_REP: ,animal,water_animals
+
+176-----
+SENTENCE: the mongoose is here
+SEM_REP: ,animal,african_animals,REGION,weasels
+
+177-----
+SENTENCE: the reindeer is here
+SEM_REP: ,animal,REGION,deers,arctic_far_north_animals
+
+178-----
+SENTENCE: look at the pelican
+SEM_REP: ,birds,animal
+
+179-----
+SENTENCE: i see a pigeon
+SEM_REP: ,birds,animal
+
+180-----
+SENTENCE: i see a gander
+SEM_REP: ,birds,animal
+
+181-----
+SENTENCE: look at the cat
+SEM_REP: ,feline,animal,DOMESTIC,pets,FAMILY
+
+182-----
+SENTENCE: look at the possum
+SEM_REP: ,animal,REGION,australian_animals
+
+183-----
+SENTENCE: a goat walks by
+SEM_REP: ,farm_animals,animal,DOMESTIC
+
+184-----
+SENTENCE: look at the seagull
+SEM_REP: ,birds,animal
+
+185-----
+SENTENCE: a jack walks by
+SEM_REP: ,animal,fish
+
+186-----
+SENTENCE: a mussel walks by
+SEM_REP: ,animal,water_animals
+
+187-----
+SENTENCE: the gander is here
+SEM_REP: ,birds,animal
+
+188-----
+SENTENCE: a rail walks by
+SEM_REP: 
+
+189-----
+SENTENCE: there is a moose
+SEM_REP: ,animal,north_american_animals,REGION,deers
+
+190-----
+SENTENCE: there is a dog
+SEM_REP: ,animal,DOMESTIC,pets,FAMILY,canine
+
+191-----
+SENTENCE: i see a mosquito
+SEM_REP: ,animal,insects
+
+192-----
+SENTENCE: there is a fish
+SEM_REP: ,animal,water_animals,fish
+
+193-----
+SENTENCE: i see a fawn
+SEM_REP: ,animal,deers
+
+194-----
+SENTENCE: i see a alligator
+SEM_REP: ,animal,water_animals,reptiles_amphibians
+
+195-----
+SENTENCE: look at the sheep
+SEM_REP: ,farm_animals,animal,DOMESTIC
+
+196-----
+SENTENCE: there is a cougar
+SEM_REP: ,REGION,north_american_animals,feline,animal,FAMILY
+
+197-----
+SENTENCE: a kiwi walks by
+SEM_REP: ,animal,birds,REGION,australian_animals
+
+198-----
+SENTENCE: the bear is here
+SEM_REP: ,animal,north_american_animals,REGION
+
+199-----
+SENTENCE: there is a sponge
+SEM_REP: ,animal,water_animals
+
+200-----
+SENTENCE: look at the crow
+SEM_REP: ,birds,animal
+
+201-----
+SENTENCE: the eagle is here
+SEM_REP: ,birds,animal
+
+202-----
+SENTENCE: look at the shrimp
+SEM_REP: ,animal,fish
+
+203-----
+SENTENCE: look at the crocodile
+SEM_REP: ,animal,reptiles_amphibians
+
+204-----
+SENTENCE: a buffalo walks by
+SEM_REP: ,REGION,african_animals,animal,bovine,FAMILY
+
+205-----
+SENTENCE: look at the pigeon
+SEM_REP: ,birds,animal
+
+206-----
+SENTENCE: look at the worm
+SEM_REP: ,animal,insects
+
+207-----
+SENTENCE: there is a hog
+SEM_REP: ,farm_animals,animal,DOMESTIC
+
+208-----
+SENTENCE: a dove walks by
+SEM_REP: ,birds,animal
+
+209-----
+SENTENCE: there is a mussel
+SEM_REP: ,animal,water_animals
+
+210-----
+SENTENCE: a devil walks by
+SEM_REP: ,animal,REGION,australian_animals
+
+211-----
+SENTENCE: the stallion is here
+SEM_REP: ,farm_animals,animal,DOMESTIC
+
+212-----
+SENTENCE: i see a bunny
+SEM_REP: ,animal,rabbits
+
+213-----
+SENTENCE: look at the cat
+SEM_REP: ,feline,animal,DOMESTIC,pets,FAMILY
+
+214-----
+SENTENCE: a doe walks by
+SEM_REP: ,animal,deers
+
+215-----
+SENTENCE: there is a pony
+SEM_REP: ,DOMESTIC,beasts_of_burden,animal,farm_animals
+
+216-----
+SENTENCE: look at the porcupine
+SEM_REP: ,animal,rodents
+
+217-----
+SENTENCE: there is a porpoise
+SEM_REP: ,animal,water_animals
+
+218-----
+SENTENCE: the antelope is here
+SEM_REP: ,animal,african_animals,REGION
+
+219-----
+SENTENCE: the hawk is here
+SEM_REP: ,birds,animal
+
+220-----
+SENTENCE: look at the mole
+SEM_REP: ,animal,insectivores,rodents
+
+221-----
+SENTENCE: look at the puppy
+SEM_REP: ,DOMESTIC,animal,pets
+
+222-----
+SENTENCE: there is a parrot
+SEM_REP: ,birds,animal,DOMESTIC,pets
+
+223-----
+SENTENCE: there is a mongoose
+SEM_REP: ,animal,african_animals,REGION,weasels
+
+224-----
+SENTENCE: look at the swan
+SEM_REP: ,birds,animal
+
+225-----
+SENTENCE: there is a shrimp
+SEM_REP: ,animal,fish
+
+226-----
+SENTENCE: a shark walks by
+SEM_REP: ,animal,water_animals,fish
+
+227-----
+SENTENCE: i see a mule
+SEM_REP: ,DOMESTIC,beasts_of_burden,animal,farm_animals
+
+228-----
+SENTENCE: there is a elk
+SEM_REP: ,animal,north_american_animals,REGION,deers
+
+229-----
+SENTENCE: look at the fish
+SEM_REP: ,animal,water_animals,fish
+
+230-----
+SENTENCE: there is a puppy
+SEM_REP: ,DOMESTIC,animal,pets
+
+231-----
+SENTENCE: i see a quail
+SEM_REP: ,birds,animal
+
+232-----
+SENTENCE: a rat walks by
+SEM_REP: ,animal,rodents
+
+233-----
+SENTENCE: the grasshopper is here
+SEM_REP: ,animal,insects
+
+234-----
+SENTENCE: a bear walks by
+SEM_REP: ,animal,north_american_animals,REGION
+
+235-----
+SENTENCE: the parrot is here
+SEM_REP: ,birds,animal,DOMESTIC,pets
+
+236-----
+SENTENCE: a pelican walks by
+SEM_REP: ,birds,animal
+
+237-----
+SENTENCE: look at the dove
+SEM_REP: ,birds,animal
+
+238-----
+SENTENCE: i see a kitten
+SEM_REP: ,DOMESTIC,animal,pets
+
+239-----
+SENTENCE: there is a panther
+SEM_REP: ,REGION,african_animals,feline,animal,FAMILY
+
+240-----
+SENTENCE: a sheep walks by
+SEM_REP: ,farm_animals,animal,DOMESTIC
+
+241-----
+SENTENCE: the possum is here
+SEM_REP: ,animal,REGION,australian_animals
+
+242-----
+SENTENCE: look at the salmon
+SEM_REP: ,animal,fish
+
+243-----
+SENTENCE: the leopard is here
+SEM_REP: ,REGION,african_animals,feline,animal,FAMILY
+
+244-----
+SENTENCE: there is a fawn
+SEM_REP: ,animal,deers
+
+245-----
+SENTENCE: there is a kid
+SEM_REP: ,farm_animals,animal,DOMESTIC
+
+246-----
+SENTENCE: the spider is here
+SEM_REP: ,farm_animals,animal,DOMESTIC
+
+247-----
+SENTENCE: look at the dragon
+SEM_REP: ,animal,reptiles_amphibians
+
+248-----
+SENTENCE: a otter walks by
+SEM_REP: ,animal,water_animals,weasels
+
+249-----
+SENTENCE: i see a seagull
+SEM_REP: ,birds,animal
+
+250-----
+SENTENCE: there is a frog
+SEM_REP: ,animal,water_animals,reptiles_amphibians
+
+251-----
+SENTENCE: a possum walks by
+SEM_REP: ,animal,REGION,australian_animals
+
+252-----
+SENTENCE: there is a pigeon
+SEM_REP: ,birds,animal
+
+253-----
+SENTENCE: there is a toad
+SEM_REP: ,animal,water_animals,reptiles_amphibians
+
+254-----
+SENTENCE: i see a crocodile
+SEM_REP: ,animal,reptiles_amphibians
+
+255-----
+SENTENCE: the seal is here
+SEM_REP: ,animal,water_animals,REGION,arctic_far_north_animals
+
+256-----
+SENTENCE: a owl walks by
+SEM_REP: ,birds,animal
+
+257-----
+SENTENCE: i see a raccoon
+SEM_REP: ,animal,north_american_animals,REGION
+
+258-----
+SENTENCE: a crow walks by
+SEM_REP: ,birds,animal
+
+259-----
+SENTENCE: a eagle walks by
+SEM_REP: ,birds,animal
+
+260-----
+SENTENCE: the cattle is here
+SEM_REP: ,animal,bovine,FAMILY
+
+261-----
+SENTENCE: i see a coral
+SEM_REP: ,animal,water_animals
+
+262-----
+SENTENCE: the fly is here
+SEM_REP: ,animal,insects
+
+263-----
+SENTENCE: look at the cattle
+SEM_REP: ,animal,bovine,FAMILY
+
+264-----
+SENTENCE: a shrimp walks by
+SEM_REP: ,animal,fish
+
+265-----
+SENTENCE: the rail is here
+SEM_REP: 
+
+266-----
+SENTENCE: a kite walks by
+SEM_REP: ,birds,animal
+
+267-----
+SENTENCE: i see a lion
+SEM_REP: ,REGION,african_animals,feline,animal,FAMILY
+
+268-----
+SENTENCE: a gull walks by
+SEM_REP: ,birds,animal
+
+269-----
+SENTENCE: i see a gazelle
+SEM_REP: ,animal,african_animals,REGION,deers
+
+270-----
+SENTENCE: look at the seagull
+SEM_REP: ,birds,animal
+
+271-----
+SENTENCE: a coyote walks by
+SEM_REP: ,animal,FAMILY,canine
+
+272-----
+SENTENCE: look at the swallow
+SEM_REP: ,birds,animal
+
+273-----
+SENTENCE: there is a giraffe
+SEM_REP: ,animal,african_animals,REGION
+
+274-----
+SENTENCE: a bear walks by
+SEM_REP: ,animal,north_american_animals,REGION
+
+275-----
+SENTENCE: look at the moth
+SEM_REP: ,animal,insects
+
+276-----
+SENTENCE: look at the lion
+SEM_REP: ,REGION,african_animals,feline,animal,FAMILY
+
+277-----
+SENTENCE: a swan walks by
+SEM_REP: ,birds,animal
+
+278-----
+SENTENCE: i see a tiger
+SEM_REP: ,REGION,african_animals,feline,animal,FAMILY
+
+279-----
+SENTENCE: there is a sparrow
+SEM_REP: ,birds,animal
+
+280-----
+SENTENCE: i see a cricket
+SEM_REP: ,animal,insects
+
+281-----
+SENTENCE: the chicken is here
+SEM_REP: ,birds,animal,farm_animals,DOMESTIC
+
+282-----
+SENTENCE: the moose is here
+SEM_REP: ,animal,north_american_animals,REGION,deers
+
+283-----
+SENTENCE: i see a octopus
+SEM_REP: ,animal,water_animals
+
+284-----
+SENTENCE: look at the seal
+SEM_REP: ,animal,water_animals,REGION,arctic_far_north_animals
+
+285-----
+SENTENCE: i see a pelican
+SEM_REP: ,birds,animal
+
+286-----
+SENTENCE: a antelope walks by
+SEM_REP: ,animal,african_animals,REGION
+
+287-----
+SENTENCE: there is a buck
+SEM_REP: ,animal,deers
+
+288-----
+SENTENCE: i see a whale
+SEM_REP: ,animal,water_animals
+
+289-----
+SENTENCE: a pony walks by
+SEM_REP: ,DOMESTIC,beasts_of_burden,animal,farm_animals
+
+290-----
+SENTENCE: i see a husky
+SEM_REP: ,animal,FAMILY,canine
+
+291-----
+SENTENCE: look at the cardinal
+SEM_REP: ,birds,animal
+
+292-----
+SENTENCE: the coral is here
+SEM_REP: ,animal,water_animals
+
+293-----
+SENTENCE: there is a doe
+SEM_REP: ,animal,deers
+
+294-----
+SENTENCE: there is a sparrow
+SEM_REP: ,birds,animal
+
+295-----
+SENTENCE: the wolf is here
+SEM_REP: ,REGION,north_american_animals,animal,FAMILY,canine
+
+296-----
+SENTENCE: the termite is here
+SEM_REP: ,animal,insects
+
+297-----
+SENTENCE: a dove walks by
+SEM_REP: ,birds,animal
+
+298-----
+SENTENCE: there is a slug
+SEM_REP: ,animal,water_animals
+
+299-----
+SENTENCE: look at the smelt
+SEM_REP: ,animal,fish
+
+300-----
+SENTENCE: there is a pike
+SEM_REP: ,animal,fish
+
+301-----
+SENTENCE: the stag is here
+SEM_REP: ,animal,deers
+
+302-----
+SENTENCE: look at the ram
+SEM_REP: ,farm_animals,animal,DOMESTIC
+
+303-----
+SENTENCE: look at the coral
+SEM_REP: ,animal,water_animals
+
+304-----
+SENTENCE: there is a shark
+SEM_REP: ,animal,water_animals,fish
+
+305-----
+SENTENCE: a rabbit walks by
+SEM_REP: ,REGION,animals_used_for_fur,north_american_animals,animal,DOMESTIC,rabbits,pets
+
+306-----
+SENTENCE: i see a fish
+SEM_REP: ,animal,water_animals,fish
+
+307-----
+SENTENCE: a ant walks by
+SEM_REP: ,animal,insects
+
+308-----
+SENTENCE: look at the fish
+SEM_REP: ,animal,water_animals,fish
+
+309-----
+SENTENCE: a kite walks by
+SEM_REP: ,birds,animal
+
+310-----
+SENTENCE: there is a caterpillar
+SEM_REP: ,animal,insects
+
+311-----
+SENTENCE: the hornet is here
+SEM_REP: ,animal,insects
+
+312-----
+SENTENCE: a kitten walks by
+SEM_REP: ,DOMESTIC,animal,pets
+
+313-----
+SENTENCE: look at the reindeer
+SEM_REP: ,animal,REGION,deers,arctic_far_north_animals
+
+314-----
+SENTENCE: i see a kiwi
+SEM_REP: ,animal,birds,REGION,australian_animals
+
+315-----
+SENTENCE: look at the cardinal
+SEM_REP: ,birds,animal
+
+316-----
+SENTENCE: look at the worm
+SEM_REP: ,animal,insects
+
+317-----
+SENTENCE: there is a cardinal
+SEM_REP: ,birds,animal
+
+318-----
+SENTENCE: i see a moth
+SEM_REP: ,animal,insects
+
+319-----
+SENTENCE: the chicken is here
+SEM_REP: ,birds,animal,farm_animals,DOMESTIC
+
+320-----
+SENTENCE: i see a puppy
+SEM_REP: ,DOMESTIC,animal,pets
+
+321-----
+SENTENCE: the oyster is here
+SEM_REP: ,animal,water_animals
+
+322-----
+SENTENCE: look at the kid
+SEM_REP: ,farm_animals,animal,DOMESTIC
+
+323-----
+SENTENCE: there is a cobra
+SEM_REP: ,animal,african_animals,REGION,reptiles_amphibians
+
+324-----
+SENTENCE: a spider walks by
+SEM_REP: ,farm_animals,animal,DOMESTIC
+
+325-----
+SENTENCE: the eagle is here
+SEM_REP: ,birds,animal
+
+326-----
+SENTENCE: there is a dolphin
+SEM_REP: ,animal,water_animals,insects
+
+327-----
+SENTENCE: a ram walks by
+SEM_REP: ,farm_animals,animal,DOMESTIC
+
+328-----
+SENTENCE: there is a colt
+SEM_REP: ,DOMESTIC,beasts_of_burden,animal,farm_animals
+
+329-----
+SENTENCE: i see a seagull
+SEM_REP: ,birds,animal
+
+330-----
+SENTENCE: a leopard walks by
+SEM_REP: ,REGION,african_animals,feline,animal,FAMILY
+
+331-----
+SENTENCE: look at the kid
+SEM_REP: ,farm_animals,animal,DOMESTIC
+
+332-----
+SENTENCE: i see a whale
+SEM_REP: ,animal,water_animals
+
+333-----
+SENTENCE: look at the cat
+SEM_REP: ,feline,animal,DOMESTIC,pets,FAMILY
+
+334-----
+SENTENCE: the smelt is here
+SEM_REP: ,animal,fish
+
+335-----
+SENTENCE: the canary is here
+SEM_REP: ,birds,animal,DOMESTIC,pets
+
+336-----
+SENTENCE: there is a parrot
+SEM_REP: ,birds,animal,DOMESTIC,pets
+
+337-----
+SENTENCE: i see a parrot
+SEM_REP: ,birds,animal,DOMESTIC,pets
+
+338-----
+SENTENCE: look at the clam
+SEM_REP: ,animal,water_animals
+
+339-----
+SENTENCE: i see a moose
+SEM_REP: ,animal,north_american_animals,REGION,deers
+
+340-----
+SENTENCE: i see a dolphin
+SEM_REP: ,animal,water_animals,insects
+
+341-----
+SENTENCE: there is a rabbit
+SEM_REP: ,REGION,animals_used_for_fur,north_american_animals,animal,DOMESTIC,rabbits,pets
+
+342-----
+SENTENCE: a sugar walks by
+SEM_REP: 
+
+343-----
+SENTENCE: look at the wasp
+SEM_REP: ,animal,insects
+
+344-----
+SENTENCE: a lobster walks by
+SEM_REP: ,animal,water_animals
+
+345-----
+SENTENCE: the swallow is here
+SEM_REP: ,birds,animal
+
+346-----
+SENTENCE: look at the lamb
+SEM_REP: ,farm_animals,animal,DOMESTIC
+
+347-----
+SENTENCE: i see a insect
+SEM_REP: ,animal,insects
+
+348-----
+SENTENCE: there is a bullock
+SEM_REP: ,farm_animals,animal,DOMESTIC,bovine,FAMILY
+
+349-----
+SENTENCE: the moth is here
+SEM_REP: ,animal,insects
+
+350-----
+SENTENCE: look at the gander
+SEM_REP: ,birds,animal
+
+351-----
+SENTENCE: i see a bullock
+SEM_REP: ,farm_animals,animal,DOMESTIC,bovine,FAMILY
+
+352-----
+SENTENCE: a canary walks by
+SEM_REP: ,birds,animal,DOMESTIC,pets
+
+353-----
+SENTENCE: there is a sow
+SEM_REP: ,farm_animals,animal,DOMESTIC
+
+354-----
+SENTENCE: a turtle walks by
+SEM_REP: ,animal,water_animals,reptiles_amphibians
+
+355-----
+SENTENCE: there is a coral
+SEM_REP: ,animal,water_animals
+
+356-----
+SENTENCE: a buffalo walks by
+SEM_REP: ,REGION,african_animals,animal,bovine,FAMILY
+
+357-----
+SENTENCE: look at the seagull
+SEM_REP: ,birds,animal
+
+358-----
+SENTENCE: the panther is here
+SEM_REP: ,REGION,african_animals,feline,animal,FAMILY
+
+359-----
+SENTENCE: i see a raccoon
+SEM_REP: ,animal,north_american_animals,REGION
+
+360-----
+SENTENCE: the camel is here
+SEM_REP: ,beasts_of_burden,REGION,african_animals,animal,DOMESTIC
+
+361-----
+SENTENCE: the eagle is here
+SEM_REP: ,birds,animal
+
+362-----
+SENTENCE: look at the bison
+SEM_REP: ,REGION,north_american_animals,animal,bovine,FAMILY
+
+363-----
+SENTENCE: there is a crab
+SEM_REP: ,animal,water_animals
+
+364-----
+SENTENCE: look at the bullock
+SEM_REP: ,farm_animals,animal,DOMESTIC,bovine,FAMILY
+
+365-----
+SENTENCE: the rat is here
+SEM_REP: ,animal,rodents
+
+366-----
+SENTENCE: there is a worm
+SEM_REP: ,animal,insects
+
+367-----
+SENTENCE: i see a porcupine
+SEM_REP: ,animal,rodents
+
+368-----
+SENTENCE: look at the salmon
+SEM_REP: ,animal,fish
+
+369-----
+SENTENCE: the crab is here
+SEM_REP: ,animal,water_animals
+
+370-----
+SENTENCE: the hawk is here
+SEM_REP: ,birds,animal
+
+371-----
+SENTENCE: there is a giraffe
+SEM_REP: ,animal,african_animals,REGION
+
+372-----
+SENTENCE: the kangaroo is here
+SEM_REP: ,animal,REGION,australian_animals
+
+373-----
+SENTENCE: the sparrow is here
+SEM_REP: ,birds,animal
+
+374-----
+SENTENCE: there is a elk
+SEM_REP: ,animal,north_american_animals,REGION,deers
+
+375-----
+SENTENCE: there is a barracuda
+SEM_REP: ,animal,fish
+
+376-----
+SENTENCE: a caterpillar walks by
+SEM_REP: ,animal,insects
+
+377-----
+SENTENCE: a bunny walks by
+SEM_REP: ,animal,rabbits
+
+378-----
+SENTENCE: i see a bass
+SEM_REP: ,animal,fish
+
+379-----
+SENTENCE: there is a dragon
+SEM_REP: ,animal,reptiles_amphibians
+
+380-----
+SENTENCE: look at the leopard
+SEM_REP: ,REGION,african_animals,feline,animal,FAMILY
+
+381-----
+SENTENCE: the bull is here
+SEM_REP: ,animal,FAMILY,feline
+
+382-----
+SENTENCE: i see a lamb
+SEM_REP: ,farm_animals,animal,DOMESTIC
+
+383-----
+SENTENCE: i see a otter
+SEM_REP: ,animal,water_animals,weasels
+
+384-----
+SENTENCE: there is a lamb
+SEM_REP: ,farm_animals,animal,DOMESTIC
+
+385-----
+SENTENCE: there is a bluejay
+SEM_REP: ,birds,animal
+
+386-----
+SENTENCE: the butterfly is here
+SEM_REP: ,animal,insects
+
+387-----
+SENTENCE: the leopard is here
+SEM_REP: ,REGION,african_animals,feline,animal,FAMILY
+
+388-----
+SENTENCE: i see a seagull
+SEM_REP: ,birds,animal
+
+389-----
+SENTENCE: i see a beaver
+SEM_REP: ,REGION,rodents,animals_used_for_fur,north_american_animals,animal,water_animals
+
+390-----
+SENTENCE: look at the husky
+SEM_REP: ,animal,FAMILY,canine
+
+391-----
+SENTENCE: there is a elk
+SEM_REP: ,animal,north_american_animals,REGION,deers
+
+392-----
+SENTENCE: i see a beaver
+SEM_REP: ,REGION,rodents,animals_used_for_fur,north_american_animals,animal,water_animals
+
+393-----
+SENTENCE: the rooster is here
+SEM_REP: ,farm_animals,animal,DOMESTIC
+
+394-----
+SENTENCE: look at the serpent
+SEM_REP: ,animal,reptiles_amphibians
+
+395-----
+SENTENCE: look at the duck
+SEM_REP: ,birds,animal
+
+396-----
+SENTENCE: i see a rabbit
+SEM_REP: ,REGION,animals_used_for_fur,north_american_animals,animal,DOMESTIC,rabbits,pets
+
+397-----
+SENTENCE: look at the mongoose
+SEM_REP: ,animal,african_animals,REGION,weasels
+
+398-----
+SENTENCE: look at the steer
+SEM_REP: ,animal,bovine,FAMILY
+
+399-----
+SENTENCE: look at the pig
+SEM_REP: ,farm_animals,animal,DOMESTIC
+
+400-----
+SENTENCE: there is a sparrow
+SEM_REP: ,birds,animal
+
+401-----
+SENTENCE: the cobra is here
+SEM_REP: ,animal,african_animals,REGION,reptiles_amphibians
+
+402-----
+SENTENCE: the dove is here
+SEM_REP: ,birds,animal
+
+403-----
+SENTENCE: the butterfly is here
+SEM_REP: ,animal,insects
+
+404-----
+SENTENCE: look at the panther
+SEM_REP: ,REGION,african_animals,feline,animal,FAMILY
+
+405-----
+SENTENCE: a barracuda walks by
+SEM_REP: ,animal,fish
+
+406-----
+SENTENCE: i see a chick
+SEM_REP: ,farm_animals,animal,DOMESTIC
+
+407-----
+SENTENCE: a rabbit walks by
+SEM_REP: ,REGION,animals_used_for_fur,north_american_animals,animal,DOMESTIC,rabbits,pets
+
+408-----
+SENTENCE: a squirrel walks by
+SEM_REP: ,animal,north_american_animals,REGION,rodents
+
+409-----
+SENTENCE: a pelican walks by
+SEM_REP: ,birds,animal
+
+410-----
+SENTENCE: there is a sow
+SEM_REP: ,farm_animals,animal,DOMESTIC
+
+411-----
+SENTENCE: there is a sheep
+SEM_REP: ,farm_animals,animal,DOMESTIC
+
+412-----
+SENTENCE: the rodent is here
+SEM_REP: ,animal,rodents
+
+413-----
+SENTENCE: i see a swan
+SEM_REP: ,birds,animal
+
+414-----
+SENTENCE: there is a snake
+SEM_REP: ,farm_animals,animal,DOMESTIC,reptiles_amphibians
+
+415-----
+SENTENCE: look at the fish
+SEM_REP: ,animal,water_animals,fish
+
+416-----
+SENTENCE: there is a giraffe
+SEM_REP: ,animal,african_animals,REGION
+
+417-----
+SENTENCE: i see a pigeon
+SEM_REP: ,birds,animal
+
+418-----
+SENTENCE: the canary is here
+SEM_REP: ,birds,animal,DOMESTIC,pets
+
+419-----
+SENTENCE: a porpoise walks by
+SEM_REP: ,animal,water_animals
+
+420-----
+SENTENCE: there is a barracuda
+SEM_REP: ,animal,fish
+
+421-----
+SENTENCE: there is a deer
+SEM_REP: ,animal,north_american_animals,REGION,deers
+
+422-----
+SENTENCE: look at the bunny
+SEM_REP: ,animal,rabbits
+
+423-----
+SENTENCE: the quail is here
+SEM_REP: ,birds,animal
+
+424-----
+SENTENCE: look at the hog
+SEM_REP: ,farm_animals,animal,DOMESTIC
+
+425-----
+SENTENCE: i see a mouse
+SEM_REP: ,birds,animal,rodents
+
+426-----
+SENTENCE: look at the rat
+SEM_REP: ,animal,rodents
+
+427-----
+SENTENCE: i see a toad
+SEM_REP: ,animal,water_animals,reptiles_amphibians
+
+428-----
+SENTENCE: a oyster walks by
+SEM_REP: ,animal,water_animals
+
+429-----
+SENTENCE: i see a wolf
+SEM_REP: ,REGION,north_american_animals,animal,FAMILY,canine
+
+430-----
+SENTENCE: look at the mule
+SEM_REP: ,DOMESTIC,beasts_of_burden,animal,farm_animals
+
+431-----
+SENTENCE: look at the quail
+SEM_REP: ,birds,animal
+
+432-----
+SENTENCE: there is a fly
+SEM_REP: ,animal,insects
+
+433-----
+SENTENCE: the hawk is here
+SEM_REP: ,birds,animal
+
+434-----
+SENTENCE: there is a fly
+SEM_REP: ,animal,insects
+
+435-----
+SENTENCE: the frog is here
+SEM_REP: ,animal,water_animals,reptiles_amphibians
+
+436-----
+SENTENCE: i see a dinosaur
+SEM_REP: ,animal,reptiles_amphibians
+
+437-----
+SENTENCE: the robin is here
+SEM_REP: ,birds,animal
+
+438-----
+SENTENCE: look at the oyster
+SEM_REP: ,animal,water_animals
+
+439-----
+SENTENCE: there is a tortoise
+SEM_REP: ,animal,reptiles_amphibians
+
+440-----
+SENTENCE: the crab is here
+SEM_REP: ,animal,water_animals
+
+441-----
+SENTENCE: the anteater is here
+SEM_REP: ,animal,insectivores
+
+442-----
+SENTENCE: a swallow walks by
+SEM_REP: ,birds,animal
+
+443-----
+SENTENCE: look at the grasshopper
+SEM_REP: ,animal,insects
+
+444-----
+SENTENCE: i see a dolphin
+SEM_REP: ,animal,water_animals,insects
+
+445-----
+SENTENCE: a gorilla walks by
+SEM_REP: ,animal,african_animals,REGION,primates
+
+446-----
+SENTENCE: the clam is here
+SEM_REP: ,animal,water_animals
+
+447-----
+SENTENCE: a hare walks by
+SEM_REP: ,animal,rabbits
+
+448-----
+SENTENCE: the walrus is here
+SEM_REP: ,animal,REGION,arctic_far_north_animals
+
+449-----
+SENTENCE: look at the mongoose
+SEM_REP: ,animal,african_animals,REGION,weasels
+
+450-----
+SENTENCE: i see a flea
+SEM_REP: ,animal,insects
+
+451-----
+SENTENCE: a crow walks by
+SEM_REP: ,birds,animal
+
+452-----
+SENTENCE: a scallop walks by
+SEM_REP: ,animal,water_animals
+
+453-----
+SENTENCE: i see a porpoise
+SEM_REP: ,animal,water_animals
+
+454-----
+SENTENCE: look at the whale
+SEM_REP: ,animal,water_animals
+
+455-----
+SENTENCE: a ox walks by
+SEM_REP: ,DOMESTIC,beasts_of_burden,animal
+
+456-----
+SENTENCE: look at the hare
+SEM_REP: ,animal,rabbits
+
+457-----
+SENTENCE: look at the dinosaur
+SEM_REP: ,animal,reptiles_amphibians
+
+458-----
+SENTENCE: look at the chicken
+SEM_REP: ,birds,animal,farm_animals,DOMESTIC
+
+459-----
+SENTENCE: the ass is here
+SEM_REP: ,DOMESTIC,beasts_of_burden,animal,farm_animals
+
+460-----
+SENTENCE: the porcupine is here
+SEM_REP: ,animal,rodents
+
+461-----
+SENTENCE: there is a dove
+SEM_REP: ,birds,animal
+
+462-----
+SENTENCE: i see a porpoise
+SEM_REP: ,animal,water_animals
+
+463-----
+SENTENCE: there is a lion
+SEM_REP: ,REGION,african_animals,feline,animal,FAMILY
+
+464-----
+SENTENCE: there is a smelt
+SEM_REP: ,animal,fish
+
+465-----
+SENTENCE: a kite walks by
+SEM_REP: ,birds,animal
+
+466-----
+SENTENCE: there is a kite
+SEM_REP: ,birds,animal
+
+467-----
+SENTENCE: look at the sponge
+SEM_REP: ,animal,water_animals
+
+468-----
+SENTENCE: the chipmunk is here
+SEM_REP: ,animal,north_american_animals,REGION,rodents
+
+469-----
+SENTENCE: the rabbit is here
+SEM_REP: ,REGION,animals_used_for_fur,north_american_animals,animal,DOMESTIC,rabbits,pets
+
+470-----
+SENTENCE: i see a mare
+SEM_REP: ,DOMESTIC,beasts_of_burden,animal,farm_animals
+
+471-----
+SENTENCE: a kiwi walks by
+SEM_REP: ,animal,birds,REGION,australian_animals
+
+472-----
+SENTENCE: a butterfly walks by
+SEM_REP: ,animal,insects
+
+473-----
+SENTENCE: the pony is here
+SEM_REP: ,DOMESTIC,beasts_of_burden,animal,farm_animals
+
+474-----
+SENTENCE: there is a sparrow
+SEM_REP: ,birds,animal
+
+475-----
+SENTENCE: a cat walks by
+SEM_REP: ,feline,animal,DOMESTIC,pets,FAMILY
+
+476-----
+SENTENCE: there is a horse
+SEM_REP: ,DOMESTIC,beasts_of_burden,animal,farm_animals
+
+477-----
+SENTENCE: the dove is here
+SEM_REP: ,birds,animal
+
+478-----
+SENTENCE: the swallow is here
+SEM_REP: ,birds,animal
+
+479-----
+SENTENCE: look at the robin
+SEM_REP: ,birds,animal
+
+480-----
+SENTENCE: there is a fox
+SEM_REP: ,REGION,animals_used_for_fur,north_american_animals,animal,FAMILY,canine
+
+481-----
+SENTENCE: look at the buck
+SEM_REP: ,animal,deers
+
+482-----
+SENTENCE: look at the zebra
+SEM_REP: ,animal,african_animals,REGION
+
+483-----
+SENTENCE: the anteater is here
+SEM_REP: ,animal,insectivores
+
+484-----
+SENTENCE: look at the octopus
+SEM_REP: ,animal,water_animals
+
+485-----
+SENTENCE: a swift walks by
+SEM_REP: ,birds,animal
+
+486-----
+SENTENCE: the gazelle is here
+SEM_REP: ,animal,african_animals,REGION,deers
+
+487-----
+SENTENCE: look at the duck
+SEM_REP: ,birds,animal
+
+488-----
+SENTENCE: i see a hog
+SEM_REP: ,farm_animals,animal,DOMESTIC
+
+489-----
+SENTENCE: look at the mussel
+SEM_REP: ,animal,water_animals
+
+490-----
+SENTENCE: the seagull is here
+SEM_REP: ,birds,animal
+
+491-----
+SENTENCE: look at the canary
+SEM_REP: ,birds,animal,DOMESTIC,pets
+
+492-----
+SENTENCE: look at the mule
+SEM_REP: ,DOMESTIC,beasts_of_burden,animal,farm_animals
+
+493-----
+SENTENCE: the lizard is here
+SEM_REP: ,animal,reptiles_amphibians
+
+494-----
+SENTENCE: a dolphin walks by
+SEM_REP: ,animal,water_animals,insects
+
+495-----
+SENTENCE: a slug walks by
+SEM_REP: ,animal,water_animals
+
+496-----
+SENTENCE: a buck walks by
+SEM_REP: ,animal,deers
+
+497-----
+SENTENCE: there is a seal
+SEM_REP: ,animal,water_animals,REGION,arctic_far_north_animals
+
+498-----
+SENTENCE: look at the sheep
+SEM_REP: ,farm_animals,animal,DOMESTIC
+
+499-----
+SENTENCE: the mouse is here
+SEM_REP: ,birds,animal,rodents
+
+500-----
+SENTENCE: there is a cricket
+SEM_REP: ,animal,insects
+
+501-----
+SENTENCE: i see a chipmunk
+SEM_REP: ,animal,north_american_animals,REGION,rodents
+
+502-----
+SENTENCE: the lion is here
+SEM_REP: ,REGION,african_animals,feline,animal,FAMILY
+
+503-----
+SENTENCE: the ewe is here
+SEM_REP: ,birds,animal
+
+504-----
+SENTENCE: i see a tuna
+SEM_REP: ,animal,fish
+
+505-----
+SENTENCE: there is a lamb
+SEM_REP: ,farm_animals,animal,DOMESTIC
+
+506-----
+SENTENCE: there is a rodent
+SEM_REP: ,animal,rodents
+
+507-----
+SENTENCE: there is a swan
+SEM_REP: ,birds,animal
+
+508-----
+SENTENCE: there is a bug
+SEM_REP: ,animal,insects
+
+509-----
+SENTENCE: the serpent is here
+SEM_REP: ,animal,reptiles_amphibians
+
+510-----
+SENTENCE: look at the kangaroo
+SEM_REP: ,animal,REGION,australian_animals
+
+511-----
+SENTENCE: look at the cat
+SEM_REP: ,feline,animal,DOMESTIC,pets,FAMILY
+
+512-----
+SENTENCE: i see a wasp
+SEM_REP: ,animal,insects
+
+513-----
+SENTENCE: look at the sponge
+SEM_REP: ,animal,water_animals
+
+514-----
+SENTENCE: look at the sparrow
+SEM_REP: ,birds,animal
+
+515-----
+SENTENCE: i see a frog
+SEM_REP: ,animal,water_animals,reptiles_amphibians
+
+516-----
+SENTENCE: a pig walks by
+SEM_REP: ,farm_animals,animal,DOMESTIC
+
+517-----
+SENTENCE: the fish is here
+SEM_REP: ,animal,water_animals,fish
+
+518-----
+SENTENCE: i see a fly
+SEM_REP: ,animal,insects
+
+519-----
+SENTENCE: a chick walks by
+SEM_REP: ,farm_animals,animal,DOMESTIC
+
+520-----
+SENTENCE: the elk is here
+SEM_REP: ,animal,north_american_animals,REGION,deers
+
+521-----
+SENTENCE: the buck is here
+SEM_REP: ,animal,deers
+
+522-----
+SENTENCE: there is a parrot
+SEM_REP: ,birds,animal,DOMESTIC,pets
+
+523-----
+SENTENCE: look at the cow
+SEM_REP: ,farm_animals,animal,DOMESTIC,bovine,FAMILY
+
+524-----
+SENTENCE: look at the ewe
+SEM_REP: ,birds,animal
+
+525-----
+SENTENCE: a steer walks by
+SEM_REP: ,animal,bovine,FAMILY
+
+526-----
+SENTENCE: a ant walks by
+SEM_REP: ,animal,insects
+
+527-----
+SENTENCE: a crane walks by
+SEM_REP: ,animal,FAMILY,feline
+
+528-----
+SENTENCE: a dog walks by
+SEM_REP: ,animal,DOMESTIC,pets,FAMILY,canine
+
+529-----
+SENTENCE: there is a dolphin
+SEM_REP: ,animal,water_animals,insects
+
+530-----
+SENTENCE: there is a gorilla
+SEM_REP: ,animal,african_animals,REGION,primates
+
+531-----
+SENTENCE: a flea walks by
+SEM_REP: ,animal,insects
+
+532-----
+SENTENCE: a cub walks by
+SEM_REP: ,animal,north_american_animals,REGION
+
+533-----
+SENTENCE: i see a pigeon
+SEM_REP: ,birds,animal
+
+534-----
+SENTENCE: a pig walks by
+SEM_REP: ,farm_animals,animal,DOMESTIC
+
+535-----
+SENTENCE: the sheep is here
+SEM_REP: ,farm_animals,animal,DOMESTIC
+
+536-----
+SENTENCE: look at the chick
+SEM_REP: ,farm_animals,animal,DOMESTIC
+
+537-----
+SENTENCE: i see a penguin
+SEM_REP: ,birds,REGION,arctic_far_north_animals,animal,water_animals
+
+538-----
+SENTENCE: i see a lobster
+SEM_REP: ,animal,water_animals
+
+539-----
+SENTENCE: a gazelle walks by
+SEM_REP: ,animal,african_animals,REGION,deers
+
+540-----
+SENTENCE: look at the fox
+SEM_REP: ,REGION,animals_used_for_fur,north_american_animals,animal,FAMILY,canine
+
+541-----
+SENTENCE: there is a trout
+SEM_REP: ,animal,fish
+
+542-----
+SENTENCE: i see a cat
+SEM_REP: ,feline,animal,DOMESTIC,pets,FAMILY
+
+543-----
+SENTENCE: there is a dinosaur
+SEM_REP: ,animal,reptiles_amphibians
+
+544-----
+SENTENCE: there is a hare
+SEM_REP: ,animal,rabbits
+
+545-----
+SENTENCE: the swift is here
+SEM_REP: ,birds,animal
+
+546-----
+SENTENCE: the rail is here
+SEM_REP: 
+
+547-----
+SENTENCE: look at the reptile
+SEM_REP: ,animal,reptiles_amphibians
+
+548-----
+SENTENCE: a sparrow walks by
+SEM_REP: ,birds,animal
+
+549-----
+SENTENCE: a ray walks by
+SEM_REP: ,animal,water_animals
+
+550-----
+SENTENCE: a robin walks by
+SEM_REP: ,birds,animal
+
+551-----
+SENTENCE: i see a smelt
+SEM_REP: ,animal,fish
+
+552-----
+SENTENCE: the bear is here
+SEM_REP: ,animal,north_american_animals,REGION
+
+553-----
+SENTENCE: a mink walks by
+SEM_REP: ,animal,animals_used_for_fur,weasels
+
+554-----
+SENTENCE: the flea is here
+SEM_REP: ,animal,insects
+
+555-----
+SENTENCE: look at the seagull
+SEM_REP: ,birds,animal
+
+556-----
+SENTENCE: the coral is here
+SEM_REP: ,animal,water_animals
+
+557-----
+SENTENCE: a squid walks by
+SEM_REP: ,animal,water_animals
+
+558-----
+SENTENCE: look at the pigeon
+SEM_REP: ,birds,animal
+
+559-----
+SENTENCE: i see a frog
+SEM_REP: ,animal,water_animals,reptiles_amphibians
+
+560-----
+SENTENCE: the horse is here
+SEM_REP: ,DOMESTIC,beasts_of_burden,animal,farm_animals
+
+561-----
+SENTENCE: the rooster is here
+SEM_REP: ,farm_animals,animal,DOMESTIC
+
+562-----
+SENTENCE: look at the pig
+SEM_REP: ,farm_animals,animal,DOMESTIC
+
+563-----
+SENTENCE: i see a squirrel
+SEM_REP: ,animal,north_american_animals,REGION,rodents
+
+564-----
+SENTENCE: there is a pelican
+SEM_REP: ,birds,animal
+
+565-----
+SENTENCE: the serpent is here
+SEM_REP: ,animal,reptiles_amphibians
+
+566-----
+SENTENCE: i see a dog
+SEM_REP: ,animal,DOMESTIC,pets,FAMILY,canine
+
+567-----
+SENTENCE: there is a ram
+SEM_REP: ,farm_animals,animal,DOMESTIC
+
+568-----
+SENTENCE: the parrot is here
+SEM_REP: ,birds,animal,DOMESTIC,pets
+
+569-----
+SENTENCE: there is a insect
+SEM_REP: ,animal,insects
+
+570-----
+SENTENCE: the cobra is here
+SEM_REP: ,animal,african_animals,REGION,reptiles_amphibians
+
+571-----
+SENTENCE: the husky is here
+SEM_REP: ,animal,FAMILY,canine
+
+572-----
+SENTENCE: a hog walks by
+SEM_REP: ,farm_animals,animal,DOMESTIC
+
+573-----
+SENTENCE: look at the swallow
+SEM_REP: ,birds,animal
+
+574-----
+SENTENCE: i see a pigeon
+SEM_REP: ,birds,animal
+
+575-----
+SENTENCE: a gull walks by
+SEM_REP: ,birds,animal
+
+576-----
+SENTENCE: there is a ram
+SEM_REP: ,farm_animals,animal,DOMESTIC
+
+577-----
+SENTENCE: the donkey is here
+SEM_REP: ,DOMESTIC,beasts_of_burden,animal,farm_animals
+
+578-----
+SENTENCE: i see a donkey
+SEM_REP: ,DOMESTIC,beasts_of_burden,animal,farm_animals
+
+579-----
+SENTENCE: a hornet walks by
+SEM_REP: ,animal,insects
+
+580-----
+SENTENCE: there is a mosquito
+SEM_REP: ,animal,insects
+
+581-----
+SENTENCE: i see a tick
+SEM_REP: ,animal,insects
+
+582-----
+SENTENCE: there is a oyster
+SEM_REP: ,animal,water_animals
+
+583-----
+SENTENCE: a porcupine walks by
+SEM_REP: ,animal,rodents
+
+584-----
+SENTENCE: look at the skunk
+SEM_REP: ,animal,north_american_animals,REGION,weasels
+
+585-----
+SENTENCE: the steer is here
+SEM_REP: ,animal,bovine,FAMILY
+
+586-----
+SENTENCE: a slug walks by
+SEM_REP: ,animal,water_animals
+
+587-----
+SENTENCE: a mink walks by
+SEM_REP: ,animal,animals_used_for_fur,weasels
+
+588-----
+SENTENCE: i see a barracuda
+SEM_REP: ,animal,fish
+
+589-----
+SENTENCE: i see a slug
+SEM_REP: ,animal,water_animals
+
+590-----
+SENTENCE: a giraffe walks by
+SEM_REP: ,animal,african_animals,REGION
+
+591-----
+SENTENCE: a parrot walks by
+SEM_REP: ,birds,animal,DOMESTIC,pets
+
+592-----
+SENTENCE: look at the trout
+SEM_REP: ,animal,fish
+
+593-----
+SENTENCE: look at the crane
+SEM_REP: ,animal,FAMILY,feline
+
+594-----
+SENTENCE: look at the cow
+SEM_REP: ,farm_animals,animal,DOMESTIC,bovine,FAMILY
+
+595-----
+SENTENCE: i see a coral
+SEM_REP: ,animal,water_animals
+
+596-----
+SENTENCE: the kitten is here
+SEM_REP: ,DOMESTIC,animal,pets
+
+597-----
+SENTENCE: look at the moth
+SEM_REP: ,animal,insects
+
+598-----
+SENTENCE: look at the wolf
+SEM_REP: ,REGION,north_american_animals,animal,FAMILY,canine
+
+599-----
+SENTENCE: a kitten walks by
+SEM_REP: ,DOMESTIC,animal,pets
+
+600-----
+SENTENCE: i see a bird
+SEM_REP: ,birds,animal
+
+601-----
+SENTENCE: the cub is here
+SEM_REP: ,animal,north_american_animals,REGION
+
+602-----
+SENTENCE: i see a wasp
+SEM_REP: ,animal,insects
+
+603-----
+SENTENCE: a tick walks by
+SEM_REP: ,animal,insects
+
+604-----
+SENTENCE: a canary walks by
+SEM_REP: ,birds,animal,DOMESTIC,pets
+
+605-----
+SENTENCE: there is a alligator
+SEM_REP: ,animal,water_animals,reptiles_amphibians
+
+606-----
+SENTENCE: there is a serpent
+SEM_REP: ,animal,reptiles_amphibians
+
+607-----
+SENTENCE: there is a rodent
+SEM_REP: ,animal,rodents
+
+608-----
+SENTENCE: i see a quail
+SEM_REP: ,birds,animal
+
+609-----
+SENTENCE: the whale is here
+SEM_REP: ,animal,water_animals
+
+610-----
+SENTENCE: a coral walks by
+SEM_REP: ,animal,water_animals
+
+611-----
+SENTENCE: a sponge walks by
+SEM_REP: ,animal,water_animals
+
+612-----
+SENTENCE: a chipmunk walks by
+SEM_REP: ,animal,north_american_animals,REGION,rodents
+
+613-----
+SENTENCE: there is a ewe
+SEM_REP: ,birds,animal
+
+614-----
+SENTENCE: i see a barracuda
+SEM_REP: ,animal,fish
+
+615-----
+SENTENCE: look at the rat
+SEM_REP: ,animal,rodents
+
+616-----
+SENTENCE: look at the rabbit
+SEM_REP: ,REGION,animals_used_for_fur,north_american_animals,animal,DOMESTIC,rabbits,pets
+
+617-----
+SENTENCE: the gull is here
+SEM_REP: ,birds,animal
+
+618-----
+SENTENCE: look at the swan
+SEM_REP: ,birds,animal
+
+619-----
+SENTENCE: i see a eagle
+SEM_REP: ,birds,animal
+
+620-----
+SENTENCE: there is a salmon
+SEM_REP: ,animal,fish
+
+621-----
+SENTENCE: i see a canary
+SEM_REP: ,birds,animal,DOMESTIC,pets
+
+622-----
+SENTENCE: look at the snake
+SEM_REP: ,farm_animals,animal,DOMESTIC,reptiles_amphibians
+
+623-----
+SENTENCE: there is a zebra
+SEM_REP: ,animal,african_animals,REGION
+
+624-----
+SENTENCE: i see a robin
+SEM_REP: ,birds,animal
+
+625-----
+SENTENCE: the lizard is here
+SEM_REP: ,animal,reptiles_amphibians
+
+626-----
+SENTENCE: there is a bee
+SEM_REP: ,animal,insects
+
+627-----
+SENTENCE: a clam walks by
+SEM_REP: ,animal,water_animals
+
+628-----
+SENTENCE: there is a caterpillar
+SEM_REP: ,animal,insects
+
+629-----
+SENTENCE: look at the swallow
+SEM_REP: ,birds,animal
+
+630-----
+SENTENCE: i see a husky
+SEM_REP: ,animal,FAMILY,canine
+
+631-----
+SENTENCE: the gazelle is here
+SEM_REP: ,animal,african_animals,REGION,deers
+
+632-----
+SENTENCE: look at the duck
+SEM_REP: ,birds,animal
+
+633-----
+SENTENCE: look at the dog
+SEM_REP: ,animal,DOMESTIC,pets,FAMILY,canine
+
+634-----
+SENTENCE: the bee is here
+SEM_REP: ,animal,insects
+
+635-----
+SENTENCE: the pigeon is here
+SEM_REP: ,birds,animal
+
+636-----
+SENTENCE: a jack walks by
+SEM_REP: ,animal,fish
+
+637-----
+SENTENCE: a stallion walks by
+SEM_REP: ,farm_animals,animal,DOMESTIC
+
+638-----
+SENTENCE: the crane is here
+SEM_REP: ,animal,FAMILY,feline
+
+639-----
+SENTENCE: look at the kitten
+SEM_REP: ,DOMESTIC,animal,pets
+
+640-----
+SENTENCE: i see a parrot
+SEM_REP: ,birds,animal,DOMESTIC,pets
+
+641-----
+SENTENCE: a moth walks by
+SEM_REP: ,animal,insects
+
+642-----
+SENTENCE: a cat walks by
+SEM_REP: ,feline,animal,DOMESTIC,pets,FAMILY
+
+643-----
+SENTENCE: there is a dolphin
+SEM_REP: ,animal,water_animals,insects
+
+644-----
+SENTENCE: the crab is here
+SEM_REP: ,animal,water_animals
+
+645-----
+SENTENCE: there is a mosquito
+SEM_REP: ,animal,insects
+
+646-----
+SENTENCE: i see a stallion
+SEM_REP: ,farm_animals,animal,DOMESTIC
+
+647-----
+SENTENCE: there is a buffalo
+SEM_REP: ,REGION,african_animals,animal,bovine,FAMILY
+
+648-----
+SENTENCE: there is a walrus
+SEM_REP: ,animal,REGION,arctic_far_north_animals
+
+649-----
+SENTENCE: i see a barracuda
+SEM_REP: ,animal,fish
+
+650-----
+SENTENCE: i see a snake
+SEM_REP: ,farm_animals,animal,DOMESTIC,reptiles_amphibians
+
+651-----
+SENTENCE: look at the bunny
+SEM_REP: ,animal,rabbits
+
+652-----
+SENTENCE: there is a whale
+SEM_REP: ,animal,water_animals
+
+653-----
+SENTENCE: i see a bee
+SEM_REP: ,animal,insects
+
+654-----
+SENTENCE: the raccoon is here
+SEM_REP: ,animal,north_american_animals,REGION
+
+655-----
+SENTENCE: i see a lion
+SEM_REP: ,REGION,african_animals,feline,animal,FAMILY
+
+656-----
+SENTENCE: a leopard walks by
+SEM_REP: ,REGION,african_animals,feline,animal,FAMILY
+
+657-----
+SENTENCE: i see a sugar
+SEM_REP: 
+
+658-----
+SENTENCE: the scallop is here
+SEM_REP: ,animal,water_animals
+
+659-----
+SENTENCE: i see a chimpanzee
+SEM_REP: ,animal,african_animals,REGION,primates
+
+660-----
+SENTENCE: the serpent is here
+SEM_REP: ,animal,reptiles_amphibians
+
+661-----
+SENTENCE: the parrot is here
+SEM_REP: ,birds,animal,DOMESTIC,pets
+
+662-----
+SENTENCE: i see a donkey
+SEM_REP: ,DOMESTIC,beasts_of_burden,animal,farm_animals
+
+663-----
+SENTENCE: a insect walks by
+SEM_REP: ,animal,insects
+
+664-----
+SENTENCE: a bug walks by
+SEM_REP: ,animal,insects
+
+665-----
+SENTENCE: the fawn is here
+SEM_REP: ,animal,deers
+
+666-----
+SENTENCE: the grasshopper is here
+SEM_REP: ,animal,insects
+
+667-----
+SENTENCE: the cobra is here
+SEM_REP: ,animal,african_animals,REGION,reptiles_amphibians
+
+668-----
+SENTENCE: the frog is here
+SEM_REP: ,animal,water_animals,reptiles_amphibians
+
+669-----
+SENTENCE: look at the horse
+SEM_REP: ,DOMESTIC,beasts_of_burden,animal,farm_animals
+
+670-----
+SENTENCE: the bat is here
+SEM_REP: ,animal,insectivores
+
+671-----
+SENTENCE: the whale is here
+SEM_REP: ,animal,water_animals
+
+672-----
+SENTENCE: a monkey walks by
+SEM_REP: ,animal,african_animals,REGION,primates
+
+673-----
+SENTENCE: i see a camel
+SEM_REP: ,beasts_of_burden,REGION,african_animals,animal,DOMESTIC
+
+674-----
+SENTENCE: look at the slug
+SEM_REP: ,animal,water_animals
+
+675-----
+SENTENCE: a bug walks by
+SEM_REP: ,animal,insects
+
+676-----
+SENTENCE: the whale is here
+SEM_REP: ,animal,water_animals
+
+677-----
+SENTENCE: the ass is here
+SEM_REP: ,DOMESTIC,beasts_of_burden,animal,farm_animals
+
+678-----
+SENTENCE: there is a trout
+SEM_REP: ,animal,fish
+
+679-----
+SENTENCE: i see a octopus
+SEM_REP: ,animal,water_animals
+
+680-----
+SENTENCE: there is a coyote
+SEM_REP: ,animal,FAMILY,canine
+
+681-----
+SENTENCE: i see a crow
+SEM_REP: ,birds,animal
+
+682-----
+SENTENCE: the steer is here
+SEM_REP: ,animal,bovine,FAMILY
+
+683-----
+SENTENCE: there is a raccoon
+SEM_REP: ,animal,north_american_animals,REGION
+
+684-----
+SENTENCE: i see a kangaroo
+SEM_REP: ,animal,REGION,australian_animals
+
+685-----
+SENTENCE: look at the trout
+SEM_REP: ,animal,fish
+
+686-----
+SENTENCE: look at the hen
+SEM_REP: ,farm_animals,animal,DOMESTIC
+
+687-----
+SENTENCE: look at the deer
+SEM_REP: ,animal,north_american_animals,REGION,deers
+
+688-----
+SENTENCE: i see a dove
+SEM_REP: ,birds,animal
+
+689-----
+SENTENCE: look at the steer
+SEM_REP: ,animal,bovine,FAMILY
+
+690-----
+SENTENCE: the goat is here
+SEM_REP: ,farm_animals,animal,DOMESTIC
+
+691-----
+SENTENCE: i see a ass
+SEM_REP: ,DOMESTIC,beasts_of_burden,animal,farm_animals
+
+692-----
+SENTENCE: a alligator walks by
+SEM_REP: ,animal,water_animals,reptiles_amphibians
+
+693-----
+SENTENCE: i see a robin
+SEM_REP: ,birds,animal
+
+694-----
+SENTENCE: the sow is here
+SEM_REP: ,farm_animals,animal,DOMESTIC
+
+695-----
+SENTENCE: i see a mole
+SEM_REP: ,animal,insectivores,rodents
+
+696-----
+SENTENCE: i see a goose
+SEM_REP: ,animal,water_animals
+
+697-----
+SENTENCE: the butterfly is here
+SEM_REP: ,animal,insects
+
+698-----
+SENTENCE: i see a crocodile
+SEM_REP: ,animal,reptiles_amphibians
+
+699-----
+SENTENCE: the rabbit is here
+SEM_REP: ,REGION,animals_used_for_fur,north_american_animals,animal,DOMESTIC,rabbits,pets
+
+700-----
+SENTENCE: a smelt walks by
+SEM_REP: ,animal,fish
+
+701-----
+SENTENCE: there is a penguin
+SEM_REP: ,birds,REGION,arctic_far_north_animals,animal,water_animals
+
+702-----
+SENTENCE: a mosquito walks by
+SEM_REP: ,animal,insects
+
+703-----
+SENTENCE: there is a fly
+SEM_REP: ,animal,insects
+
+704-----
+SENTENCE: i see a fly
+SEM_REP: ,animal,insects
+
+705-----
+SENTENCE: look at the pelican
+SEM_REP: ,birds,animal
+
+706-----
+SENTENCE: i see a canary
+SEM_REP: ,birds,animal,DOMESTIC,pets
+
+707-----
+SENTENCE: a spider walks by
+SEM_REP: ,farm_animals,animal,DOMESTIC
+
+708-----
+SENTENCE: i see a bear
+SEM_REP: ,animal,north_american_animals,REGION
+
+709-----
+SENTENCE: the chimpanzee is here
+SEM_REP: ,animal,african_animals,REGION,primates
+
+710-----
+SENTENCE: the possum is here
+SEM_REP: ,animal,REGION,australian_animals
+
+711-----
+SENTENCE: the cub is here
+SEM_REP: ,animal,north_american_animals,REGION
+
+712-----
+SENTENCE: a camel walks by
+SEM_REP: ,beasts_of_burden,REGION,african_animals,animal,DOMESTIC
+
+713-----
+SENTENCE: a tuna walks by
+SEM_REP: ,animal,fish
+
+714-----
+SENTENCE: there is a husky
+SEM_REP: ,animal,FAMILY,canine
+
+715-----
+SENTENCE: a snake walks by
+SEM_REP: ,farm_animals,animal,DOMESTIC,reptiles_amphibians
+
+716-----
+SENTENCE: a panther walks by
+SEM_REP: ,REGION,african_animals,feline,animal,FAMILY
+
+717-----
+SENTENCE: there is a smelt
+SEM_REP: ,animal,fish
+
+718-----
+SENTENCE: a sheep walks by
+SEM_REP: ,farm_animals,animal,DOMESTIC
+
+719-----
+SENTENCE: look at the chimpanzee
+SEM_REP: ,animal,african_animals,REGION,primates
+
+720-----
+SENTENCE: the gander is here
+SEM_REP: ,birds,animal
+
+721-----
+SENTENCE: the tiger is here
+SEM_REP: ,REGION,african_animals,feline,animal,FAMILY
+
+722-----
+SENTENCE: the gander is here
+SEM_REP: ,birds,animal
+
+723-----
+SENTENCE: a kitten walks by
+SEM_REP: ,DOMESTIC,animal,pets
+
+724-----
+SENTENCE: a chick walks by
+SEM_REP: ,farm_animals,animal,DOMESTIC
+
+725-----
+SENTENCE: look at the clam
+SEM_REP: ,animal,water_animals
+
+726-----
+SENTENCE: a parrot walks by
+SEM_REP: ,birds,animal,DOMESTIC,pets
+
+727-----
+SENTENCE: a squirrel walks by
+SEM_REP: ,animal,north_american_animals,REGION,rodents
+
+728-----
+SENTENCE: a bat walks by
+SEM_REP: ,animal,insectivores
+
+729-----
+SENTENCE: the smelt is here
+SEM_REP: ,animal,fish
+
+730-----
+SENTENCE: there is a flea
+SEM_REP: ,animal,insects
+
+731-----
+SENTENCE: a human walks by
+SEM_REP: ,animal,primates
+
+732-----
+SENTENCE: there is a stag
+SEM_REP: ,animal,deers
+
+733-----
+SENTENCE: the gull is here
+SEM_REP: ,birds,animal
+
+734-----
+SENTENCE: look at the ass
+SEM_REP: ,DOMESTIC,beasts_of_burden,animal,farm_animals
+
+735-----
+SENTENCE: a walrus walks by
+SEM_REP: ,animal,REGION,arctic_far_north_animals
+
+736-----
+SENTENCE: a goose walks by
+SEM_REP: ,animal,water_animals
+
+737-----
+SENTENCE: the cougar is here
+SEM_REP: ,REGION,north_american_animals,feline,animal,FAMILY
+
+738-----
+SENTENCE: i see a seagull
+SEM_REP: ,birds,animal
+
+739-----
+SENTENCE: a reptile walks by
+SEM_REP: ,animal,reptiles_amphibians
+
+740-----
+SENTENCE: i see a ape
+SEM_REP: ,animal,primates
+
+741-----
+SENTENCE: look at the tick
+SEM_REP: ,animal,insects
+
+742-----
+SENTENCE: look at the mongoose
+SEM_REP: ,animal,african_animals,REGION,weasels
+
+743-----
+SENTENCE: a mare walks by
+SEM_REP: ,DOMESTIC,beasts_of_burden,animal,farm_animals
+
+744-----
+SENTENCE: look at the oyster
+SEM_REP: ,animal,water_animals
+
+745-----
+SENTENCE: i see a hare
+SEM_REP: ,animal,rabbits
+
+746-----
+SENTENCE: look at the fly
+SEM_REP: ,animal,insects
+
+747-----
+SENTENCE: i see a duck
+SEM_REP: ,birds,animal
+
+748-----
+SENTENCE: there is a penguin
+SEM_REP: ,birds,REGION,arctic_far_north_animals,animal,water_animals
+
+749-----
+SENTENCE: look at the robin
+SEM_REP: ,birds,animal
+
+750-----
+SENTENCE: a kid walks by
+SEM_REP: ,farm_animals,animal,DOMESTIC
+
+751-----
+SENTENCE: there is a bison
+SEM_REP: ,REGION,north_american_animals,animal,bovine,FAMILY
+
+752-----
+SENTENCE: the raccoon is here
+SEM_REP: ,animal,north_american_animals,REGION
+
+753-----
+SENTENCE: a frog walks by
+SEM_REP: ,animal,water_animals,reptiles_amphibians
+
+754-----
+SENTENCE: a possum walks by
+SEM_REP: ,animal,REGION,australian_animals
+
+755-----
+SENTENCE: there is a chipmunk
+SEM_REP: ,animal,north_american_animals,REGION,rodents
+
+756-----
+SENTENCE: there is a monkey
+SEM_REP: ,animal,african_animals,REGION,primates
+
+757-----
+SENTENCE: look at the oyster
+SEM_REP: ,animal,water_animals
+
+758-----
+SENTENCE: a ray walks by
+SEM_REP: ,animal,water_animals
+
+759-----
+SENTENCE: a mule walks by
+SEM_REP: ,DOMESTIC,beasts_of_burden,animal,farm_animals
+
+760-----
+SENTENCE: i see a dragon
+SEM_REP: ,animal,reptiles_amphibians
+
+761-----
+SENTENCE: i see a maggot
+SEM_REP: ,animal,insects
+
+762-----
+SENTENCE: the sheep is here
+SEM_REP: ,farm_animals,animal,DOMESTIC
+
+763-----
+SENTENCE: look at the shark
+SEM_REP: ,animal,water_animals,fish
+
+764-----
+SENTENCE: the cougar is here
+SEM_REP: ,REGION,north_american_animals,feline,animal,FAMILY
+
+765-----
+SENTENCE: look at the bison
+SEM_REP: ,REGION,north_american_animals,animal,bovine,FAMILY
+
+766-----
+SENTENCE: a toad walks by
+SEM_REP: ,animal,water_animals,reptiles_amphibians
+
+767-----
+SENTENCE: the kangaroo is here
+SEM_REP: ,animal,REGION,australian_animals
+
+768-----
+SENTENCE: there is a worm
+SEM_REP: ,animal,insects
+
+769-----
+SENTENCE: i see a mare
+SEM_REP: ,DOMESTIC,beasts_of_burden,animal,farm_animals
+
+770-----
+SENTENCE: the sparrow is here
+SEM_REP: ,birds,animal
+
+771-----
+SENTENCE: there is a squid
+SEM_REP: ,animal,water_animals
+
+772-----
+SENTENCE: the raccoon is here
+SEM_REP: ,animal,north_american_animals,REGION
+
+773-----
+SENTENCE: there is a cougar
+SEM_REP: ,REGION,north_american_animals,feline,animal,FAMILY
+
+774-----
+SENTENCE: a crab walks by
+SEM_REP: ,animal,water_animals
+
+775-----
+SENTENCE: the fish is here
+SEM_REP: ,animal,water_animals,fish
+
+776-----
+SENTENCE: look at the rat
+SEM_REP: ,animal,rodents
+
+777-----
+SENTENCE: i see a sparrow
+SEM_REP: ,birds,animal
+
+778-----
+SENTENCE: i see a lion
+SEM_REP: ,REGION,african_animals,feline,animal,FAMILY
+
+779-----
+SENTENCE: a dinosaur walks by
+SEM_REP: ,animal,reptiles_amphibians
+
+780-----
+SENTENCE: look at the frog
+SEM_REP: ,animal,water_animals,reptiles_amphibians
+
+781-----
+SENTENCE: a turkey walks by
+SEM_REP: ,birds,animal,farm_animals,DOMESTIC
+
+782-----
+SENTENCE: i see a caterpillar
+SEM_REP: ,animal,insects
+
+783-----
+SENTENCE: look at the termite
+SEM_REP: ,animal,insects
+
+784-----
+SENTENCE: the antelope is here
+SEM_REP: ,animal,african_animals,REGION
+
+785-----
+SENTENCE: the kangaroo is here
+SEM_REP: ,animal,REGION,australian_animals
+
+786-----
+SENTENCE: the hog is here
+SEM_REP: ,farm_animals,animal,DOMESTIC
+
+787-----
+SENTENCE: look at the tortoise
+SEM_REP: ,animal,reptiles_amphibians
+
+788-----
+SENTENCE: a skunk walks by
+SEM_REP: ,animal,north_american_animals,REGION,weasels
+
+789-----
+SENTENCE: i see a dog
+SEM_REP: ,animal,DOMESTIC,pets,FAMILY,canine
+
+790-----
+SENTENCE: a kangaroo walks by
+SEM_REP: ,animal,REGION,australian_animals
+
+791-----
+SENTENCE: there is a pike
+SEM_REP: ,animal,fish
+
+792-----
+SENTENCE: i see a calf
+SEM_REP: ,farm_animals,animal,DOMESTIC,bovine,FAMILY
+
+793-----
+SENTENCE: the insect is here
+SEM_REP: ,animal,insects
+
+794-----
+SENTENCE: look at the cricket
+SEM_REP: ,animal,insects
+
+795-----
+SENTENCE: there is a kitten
+SEM_REP: ,DOMESTIC,animal,pets
+
+796-----
+SENTENCE: there is a canary
+SEM_REP: ,birds,animal,DOMESTIC,pets
+
+797-----
+SENTENCE: the trout is here
+SEM_REP: ,animal,fish
+
+798-----
+SENTENCE: i see a sparrow
+SEM_REP: ,birds,animal
+
+799-----
+SENTENCE: the spider is here
+SEM_REP: ,farm_animals,animal,DOMESTIC
+
+800-----
+SENTENCE: i see a fish
+SEM_REP: ,animal,water_animals,fish
+
+801-----
+SENTENCE: the bird is here
+SEM_REP: ,birds,animal
+
+802-----
+SENTENCE: look at the skunk
+SEM_REP: ,animal,north_american_animals,REGION,weasels
+
+803-----
+SENTENCE: look at the dog
+SEM_REP: ,animal,DOMESTIC,pets,FAMILY,canine
+
+804-----
+SENTENCE: a mosquito walks by
+SEM_REP: ,animal,insects
+
+805-----
+SENTENCE: i see a horse
+SEM_REP: ,DOMESTIC,beasts_of_burden,animal,farm_animals
+
+806-----
+SENTENCE: look at the jack
+SEM_REP: ,animal,fish
+
+807-----
+SENTENCE: i see a tortoise
+SEM_REP: ,animal,reptiles_amphibians
+
+808-----
+SENTENCE: i see a squid
+SEM_REP: ,animal,water_animals
+
+809-----
+SENTENCE: there is a turkey
+SEM_REP: ,birds,animal,farm_animals,DOMESTIC
+
+810-----
+SENTENCE: a horse walks by
+SEM_REP: ,DOMESTIC,beasts_of_burden,animal,farm_animals
+
+811-----
+SENTENCE: a kitten walks by
+SEM_REP: ,DOMESTIC,animal,pets
+
+812-----
+SENTENCE: the tiger is here
+SEM_REP: ,REGION,african_animals,feline,animal,FAMILY
+
+813-----
+SENTENCE: the gorilla is here
+SEM_REP: ,animal,african_animals,REGION,primates
+
+814-----
+SENTENCE: look at the cat
+SEM_REP: ,feline,animal,DOMESTIC,pets,FAMILY
+
+815-----
+SENTENCE: i see a serpent
+SEM_REP: ,animal,reptiles_amphibians
+
+816-----
+SENTENCE: the cat is here
+SEM_REP: ,feline,animal,DOMESTIC,pets,FAMILY
+
+817-----
+SENTENCE: i see a chimpanzee
+SEM_REP: ,animal,african_animals,REGION,primates
+
+818-----
+SENTENCE: the buck is here
+SEM_REP: ,animal,deers
+
+819-----
+SENTENCE: i see a rodent
+SEM_REP: ,animal,rodents
+
+820-----
+SENTENCE: look at the octopus
+SEM_REP: ,animal,water_animals
+
+821-----
+SENTENCE: there is a ape
+SEM_REP: ,animal,primates
+
+822-----
+SENTENCE: there is a tiger
+SEM_REP: ,REGION,african_animals,feline,animal,FAMILY
+
+823-----
+SENTENCE: look at the chipmunk
+SEM_REP: ,animal,north_american_animals,REGION,rodents
+
+824-----
+SENTENCE: the sparrow is here
+SEM_REP: ,birds,animal
+
+825-----
+SENTENCE: look at the mare
+SEM_REP: ,DOMESTIC,beasts_of_burden,animal,farm_animals
+
+826-----
+SENTENCE: a pony walks by
+SEM_REP: ,DOMESTIC,beasts_of_burden,animal,farm_animals
+
+827-----
+SENTENCE: a hornet walks by
+SEM_REP: ,animal,insects
+
+828-----
+SENTENCE: look at the octopus
+SEM_REP: ,animal,water_animals
+
+829-----
+SENTENCE: the flea is here
+SEM_REP: ,animal,insects
+
+830-----
+SENTENCE: there is a owl
+SEM_REP: ,birds,animal
+
+831-----
+SENTENCE: i see a kangaroo
+SEM_REP: ,animal,REGION,australian_animals
+
+832-----
+SENTENCE: look at the steer
+SEM_REP: ,animal,bovine,FAMILY
+
+833-----
+SENTENCE: i see a chipmunk
+SEM_REP: ,animal,north_american_animals,REGION,rodents
+
+834-----
+SENTENCE: look at the sparrow
+SEM_REP: ,birds,animal
+
+835-----
+SENTENCE: a goat walks by
+SEM_REP: ,farm_animals,animal,DOMESTIC
+
+836-----
+SENTENCE: the kitten is here
+SEM_REP: ,DOMESTIC,animal,pets
+
+837-----
+SENTENCE: look at the fawn
+SEM_REP: ,animal,deers
+
+838-----
+SENTENCE: the mosquito is here
+SEM_REP: ,animal,insects
+
+839-----
+SENTENCE: a mole walks by
+SEM_REP: ,animal,insectivores,rodents
+
+840-----
+SENTENCE: look at the bass
+SEM_REP: ,animal,fish
+
+841-----
+SENTENCE: look at the lizard
+SEM_REP: ,animal,reptiles_amphibians
+
+842-----
+SENTENCE: the buck is here
+SEM_REP: ,animal,deers
+
+843-----
+SENTENCE: look at the rat
+SEM_REP: ,animal,rodents
+
+844-----
+SENTENCE: there is a mink
+SEM_REP: ,animal,animals_used_for_fur,weasels
+
+845-----
+SENTENCE: a duck walks by
+SEM_REP: ,birds,animal
+
+846-----
+SENTENCE: the beaver is here
+SEM_REP: ,REGION,rodents,animals_used_for_fur,north_american_animals,animal,water_animals
+
+847-----
+SENTENCE: a cardinal walks by
+SEM_REP: ,birds,animal
+
+848-----
+SENTENCE: there is a sparrow
+SEM_REP: ,birds,animal
+
+849-----
+SENTENCE: i see a dinosaur
+SEM_REP: ,animal,reptiles_amphibians
+
+850-----
+SENTENCE: the ass is here
+SEM_REP: ,DOMESTIC,beasts_of_burden,animal,farm_animals
+
+851-----
+SENTENCE: a cougar walks by
+SEM_REP: ,REGION,north_american_animals,feline,animal,FAMILY
+
+852-----
+SENTENCE: there is a mussel
+SEM_REP: ,animal,water_animals
+
+853-----
+SENTENCE: look at the serpent
+SEM_REP: ,animal,reptiles_amphibians
+
+854-----
+SENTENCE: look at the dragon
+SEM_REP: ,animal,reptiles_amphibians
+
+855-----
+SENTENCE: there is a sponge
+SEM_REP: ,animal,water_animals
+
+856-----
+SENTENCE: i see a giraffe
+SEM_REP: ,animal,african_animals,REGION
+
+857-----
+SENTENCE: there is a snake
+SEM_REP: ,farm_animals,animal,DOMESTIC,reptiles_amphibians
+
+858-----
+SENTENCE: look at the ass
+SEM_REP: ,DOMESTIC,beasts_of_burden,animal,farm_animals
+
+859-----
+SENTENCE: there is a crocodile
+SEM_REP: ,animal,reptiles_amphibians
+
+860-----
+SENTENCE: there is a robin
+SEM_REP: ,birds,animal
+
+861-----
+SENTENCE: look at the gull
+SEM_REP: ,birds,animal
+
+862-----
+SENTENCE: the barracuda is here
+SEM_REP: ,animal,fish
+
+863-----
+SENTENCE: there is a bison
+SEM_REP: ,REGION,north_american_animals,animal,bovine,FAMILY
+
+864-----
+SENTENCE: a octopus walks by
+SEM_REP: ,animal,water_animals
+
+865-----
+SENTENCE: look at the octopus
+SEM_REP: ,animal,water_animals
+
+866-----
+SENTENCE: the salmon is here
+SEM_REP: ,animal,fish
+
+867-----
+SENTENCE: a owl walks by
+SEM_REP: ,birds,animal
+
+868-----
+SENTENCE: the pike is here
+SEM_REP: ,animal,fish
+
+869-----
+SENTENCE: look at the parrot
+SEM_REP: ,birds,animal,DOMESTIC,pets
+
+870-----
+SENTENCE: look at the donkey
+SEM_REP: ,DOMESTIC,beasts_of_burden,animal,farm_animals
+
+871-----
+SENTENCE: a reindeer walks by
+SEM_REP: ,animal,REGION,deers,arctic_far_north_animals
+
+872-----
+SENTENCE: there is a owl
+SEM_REP: ,birds,animal
+
+873-----
+SENTENCE: a swan walks by
+SEM_REP: ,birds,animal
+
+874-----
+SENTENCE: the fox is here
+SEM_REP: ,REGION,animals_used_for_fur,north_american_animals,animal,FAMILY,canine
+
+875-----
+SENTENCE: the calf is here
+SEM_REP: ,farm_animals,animal,DOMESTIC,bovine,FAMILY
+
+876-----
+SENTENCE: a squid walks by
+SEM_REP: ,animal,water_animals
+
+877-----
+SENTENCE: i see a sponge
+SEM_REP: ,animal,water_animals
+
+878-----
+SENTENCE: there is a ray
+SEM_REP: ,animal,water_animals
+
+879-----
+SENTENCE: there is a barracuda
+SEM_REP: ,animal,fish
+
+880-----
+SENTENCE: there is a spider
+SEM_REP: ,farm_animals,animal,DOMESTIC
+
+881-----
+SENTENCE: the deer is here
+SEM_REP: ,animal,north_american_animals,REGION,deers
+
+882-----
+SENTENCE: a rooster walks by
+SEM_REP: ,farm_animals,animal,DOMESTIC
+
+883-----
+SENTENCE: there is a wolf
+SEM_REP: ,REGION,north_american_animals,animal,FAMILY,canine
+
+884-----
+SENTENCE: a raccoon walks by
+SEM_REP: ,animal,north_american_animals,REGION
+
+885-----
+SENTENCE: a donkey walks by
+SEM_REP: ,DOMESTIC,beasts_of_burden,animal,farm_animals
+
+886-----
+SENTENCE: a husky walks by
+SEM_REP: ,animal,FAMILY,canine
+
+887-----
+SENTENCE: look at the caterpillar
+SEM_REP: ,animal,insects
+
+888-----
+SENTENCE: i see a lamb
+SEM_REP: ,farm_animals,animal,DOMESTIC
+
+889-----
+SENTENCE: the tortoise is here
+SEM_REP: ,animal,reptiles_amphibians
+
+890-----
+SENTENCE: look at the ass
+SEM_REP: ,DOMESTIC,beasts_of_burden,animal,farm_animals
+
+891-----
+SENTENCE: there is a lobster
+SEM_REP: ,animal,water_animals
+
+892-----
+SENTENCE: i see a bird
+SEM_REP: ,birds,animal
+
+893-----
+SENTENCE: the butterfly is here
+SEM_REP: ,animal,insects
+
+894-----
+SENTENCE: the bat is here
+SEM_REP: ,animal,insectivores
+
+895-----
+SENTENCE: i see a horse
+SEM_REP: ,DOMESTIC,beasts_of_burden,animal,farm_animals
+
+896-----
+SENTENCE: a stallion walks by
+SEM_REP: ,farm_animals,animal,DOMESTIC
+
+897-----
+SENTENCE: i see a rat
+SEM_REP: ,animal,rodents
+
+898-----
+SENTENCE: a grasshopper walks by
+SEM_REP: ,animal,insects
+
+899-----
+SENTENCE: the bear is here
+SEM_REP: ,animal,north_american_animals,REGION
+
+900-----
+SENTENCE: a fox walks by
+SEM_REP: ,REGION,animals_used_for_fur,north_american_animals,animal,FAMILY,canine
+
+901-----
+SENTENCE: there is a smelt
+SEM_REP: ,animal,fish
+
+902-----
+SENTENCE: there is a sow
+SEM_REP: ,farm_animals,animal,DOMESTIC
+
+903-----
+SENTENCE: i see a antelope
+SEM_REP: ,animal,african_animals,REGION
+
+904-----
+SENTENCE: the butterfly is here
+SEM_REP: ,animal,insects
+
+905-----
+SENTENCE: the swift is here
+SEM_REP: ,birds,animal
+
+906-----
+SENTENCE: look at the shark
+SEM_REP: ,animal,water_animals,fish
+
+907-----
+SENTENCE: look at the anteater
+SEM_REP: ,animal,insectivores
+
+908-----
+SENTENCE: i see a termite
+SEM_REP: ,animal,insects
+
+909-----
+SENTENCE: look at the zebra
+SEM_REP: ,animal,african_animals,REGION
+
+910-----
+SENTENCE: the ape is here
+SEM_REP: ,animal,primates
+
+911-----
+SENTENCE: look at the deer
+SEM_REP: ,animal,north_american_animals,REGION,deers
+
+912-----
+SENTENCE: there is a mosquito
+SEM_REP: ,animal,insects
+
+913-----
+SENTENCE: look at the aardvark
+SEM_REP: ,animal,african_animals,REGION,insectivores
+
+914-----
+SENTENCE: look at the mongoose
+SEM_REP: ,animal,african_animals,REGION,weasels
+
+915-----
+SENTENCE: a fawn walks by
+SEM_REP: ,animal,deers
+
+916-----
+SENTENCE: there is a shark
+SEM_REP: ,animal,water_animals,fish
+
+917-----
+SENTENCE: i see a cricket
+SEM_REP: ,animal,insects
+
+918-----
+SENTENCE: a smelt walks by
+SEM_REP: ,animal,fish
+
+919-----
+SENTENCE: the sheep is here
+SEM_REP: ,farm_animals,animal,DOMESTIC
+
+920-----
+SENTENCE: i see a sow
+SEM_REP: ,farm_animals,animal,DOMESTIC
+
+921-----
+SENTENCE: i see a otter
+SEM_REP: ,animal,water_animals,weasels
+
+922-----
+SENTENCE: i see a leopard
+SEM_REP: ,REGION,african_animals,feline,animal,FAMILY
+
+923-----
+SENTENCE: a beetle walks by
+SEM_REP: ,animal,insects
+
+924-----
+SENTENCE: look at the fish
+SEM_REP: ,animal,water_animals,fish
+
+925-----
+SENTENCE: the sow is here
+SEM_REP: ,farm_animals,animal,DOMESTIC
+
+926-----
+SENTENCE: i see a rail
+SEM_REP: 
+
+927-----
+SENTENCE: a coral walks by
+SEM_REP: ,animal,water_animals
+
+928-----
+SENTENCE: the lizard is here
+SEM_REP: ,animal,reptiles_amphibians
+
+929-----
+SENTENCE: there is a camel
+SEM_REP: ,beasts_of_burden,REGION,african_animals,animal,DOMESTIC
+
+930-----
+SENTENCE: the robin is here
+SEM_REP: ,birds,animal
+
+931-----
+SENTENCE: there is a canary
+SEM_REP: ,birds,animal,DOMESTIC,pets
+
+932-----
+SENTENCE: look at the crow
+SEM_REP: ,birds,animal
+
+933-----
+SENTENCE: a sparrow walks by
+SEM_REP: ,birds,animal
+
+934-----
+SENTENCE: a chimpanzee walks by
+SEM_REP: ,animal,african_animals,REGION,primates
+
+935-----
+SENTENCE: the shrimp is here
+SEM_REP: ,animal,fish
+
+936-----
+SENTENCE: there is a husky
+SEM_REP: ,animal,FAMILY,canine
+
+937-----
+SENTENCE: i see a parrot
+SEM_REP: ,birds,animal,DOMESTIC,pets
+
+938-----
+SENTENCE: a mosquito walks by
+SEM_REP: ,animal,insects
+
+939-----
+SENTENCE: i see a buffalo
+SEM_REP: ,REGION,african_animals,animal,bovine,FAMILY
+
+940-----
+SENTENCE: look at the canary
+SEM_REP: ,birds,animal,DOMESTIC,pets
+
+941-----
+SENTENCE: there is a fawn
+SEM_REP: ,animal,deers
+
+942-----
+SENTENCE: look at the raccoon
+SEM_REP: ,animal,north_american_animals,REGION
+
+943-----
+SENTENCE: i see a bison
+SEM_REP: ,REGION,north_american_animals,animal,bovine,FAMILY
+
+944-----
+SENTENCE: a crane walks by
+SEM_REP: ,animal,FAMILY,feline
+
+945-----
+SENTENCE: there is a swallow
+SEM_REP: ,birds,animal
+
+946-----
+SENTENCE: there is a mole
+SEM_REP: ,animal,insectivores,rodents
+
+947-----
+SENTENCE: look at the snail
+SEM_REP: ,animal,water_animals
+
+948-----
+SENTENCE: look at the cow
+SEM_REP: ,farm_animals,animal,DOMESTIC,bovine,FAMILY
+
+949-----
+SENTENCE: i see a spider
+SEM_REP: ,farm_animals,animal,DOMESTIC
+
+950-----
+SENTENCE: i see a jack
+SEM_REP: ,animal,fish
+
+951-----
+SENTENCE: i see a bat
+SEM_REP: ,animal,insectivores
+
+952-----
+SENTENCE: there is a pigeon
+SEM_REP: ,birds,animal
+
+953-----
+SENTENCE: the hog is here
+SEM_REP: ,farm_animals,animal,DOMESTIC
+
+954-----
+SENTENCE: the caterpillar is here
+SEM_REP: ,animal,insects
+
+955-----
+SENTENCE: the pigeon is here
+SEM_REP: ,birds,animal
+
+956-----
+SENTENCE: look at the gazelle
+SEM_REP: ,animal,african_animals,REGION,deers
+
+957-----
+SENTENCE: look at the bunny
+SEM_REP: ,animal,rabbits
+
+958-----
+SENTENCE: i see a ox
+SEM_REP: ,DOMESTIC,beasts_of_burden,animal
+
+959-----
+SENTENCE: there is a chick
+SEM_REP: ,farm_animals,animal,DOMESTIC
+
+960-----
+SENTENCE: the swan is here
+SEM_REP: ,birds,animal
+
+961-----
+SENTENCE: a lobster walks by
+SEM_REP: ,animal,water_animals
+
+962-----
+SENTENCE: the sugar is here
+SEM_REP: 
+
+963-----
+SENTENCE: a mink walks by
+SEM_REP: ,animal,animals_used_for_fur,weasels
+
+964-----
+SENTENCE: look at the ape
+SEM_REP: ,animal,primates
+
+965-----
+SENTENCE: there is a duck
+SEM_REP: ,birds,animal
+
+966-----
+SENTENCE: a squid walks by
+SEM_REP: ,animal,water_animals
+
+967-----
+SENTENCE: the ox is here
+SEM_REP: ,DOMESTIC,beasts_of_burden,animal
+
+968-----
+SENTENCE: the reindeer is here
+SEM_REP: ,animal,REGION,deers,arctic_far_north_animals
+
+969-----
+SENTENCE: i see a lamb
+SEM_REP: ,farm_animals,animal,DOMESTIC
+
+970-----
+SENTENCE: i see a rat
+SEM_REP: ,animal,rodents
+
+971-----
+SENTENCE: there is a rat
+SEM_REP: ,animal,rodents
+
+972-----
+SENTENCE: a bird walks by
+SEM_REP: ,birds,animal
+
+973-----
+SENTENCE: the stag is here
+SEM_REP: ,animal,deers
+
+974-----
+SENTENCE: the cougar is here
+SEM_REP: ,REGION,north_american_animals,feline,animal,FAMILY
+
+975-----
+SENTENCE: there is a rabbit
+SEM_REP: ,REGION,animals_used_for_fur,north_american_animals,animal,DOMESTIC,rabbits,pets
+
+976-----
+SENTENCE: i see a anteater
+SEM_REP: ,animal,insectivores
+
+977-----
+SENTENCE: the beetle is here
+SEM_REP: ,animal,insects
+
+978-----
+SENTENCE: there is a hornet
+SEM_REP: ,animal,insects
+
+979-----
+SENTENCE: the jack is here
+SEM_REP: ,animal,fish
+
+980-----
+SENTENCE: a mink walks by
+SEM_REP: ,animal,animals_used_for_fur,weasels
+
+981-----
+SENTENCE: a cat walks by
+SEM_REP: ,feline,animal,DOMESTIC,pets,FAMILY
+
+982-----
+SENTENCE: i see a shrimp
+SEM_REP: ,animal,fish
+
+983-----
+SENTENCE: a colt walks by
+SEM_REP: ,DOMESTIC,beasts_of_burden,animal,farm_animals
+
+984-----
+SENTENCE: look at the swift
+SEM_REP: ,birds,animal
+
+985-----
+SENTENCE: there is a rail
+SEM_REP: 
+
+986-----
+SENTENCE: look at the stallion
+SEM_REP: ,farm_animals,animal,DOMESTIC
+
+987-----
+SENTENCE: the turtle is here
+SEM_REP: ,animal,water_animals,reptiles_amphibians
+
+988-----
+SENTENCE: look at the bass
+SEM_REP: ,animal,fish
+
+989-----
+SENTENCE: look at the snake
+SEM_REP: ,farm_animals,animal,DOMESTIC,reptiles_amphibians
+
+990-----
+SENTENCE: the porcupine is here
+SEM_REP: ,animal,rodents
+
+991-----
+SENTENCE: the squid is here
+SEM_REP: ,animal,water_animals
+
+992-----
+SENTENCE: there is a reindeer
+SEM_REP: ,animal,REGION,deers,arctic_far_north_animals
+
+993-----
+SENTENCE: i see a ewe
+SEM_REP: ,birds,animal
+
+994-----
+SENTENCE: i see a alligator
+SEM_REP: ,animal,water_animals,reptiles_amphibians
+
+995-----
+SENTENCE: there is a ewe
+SEM_REP: ,birds,animal
+
+996-----
+SENTENCE: there is a mussel
+SEM_REP: ,animal,water_animals
+
+997-----
+SENTENCE: a walrus walks by
+SEM_REP: ,animal,REGION,arctic_far_north_animals
+
+998-----
+SENTENCE: a toad walks by
+SEM_REP: ,animal,water_animals,reptiles_amphibians
+
+999-----
+SENTENCE: a buffalo walks by
+SEM_REP: ,REGION,african_animals,animal,bovine,FAMILY
+
+1000-----
+SENTENCE: the tuna is here
+SEM_REP: ,animal,fish
+
