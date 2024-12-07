@@ -2,21 +2,27 @@ import random
 from typing import List, Tuple, Dict, Set
 
 # Import animal categories from animals.py
-from animals import (african_animals, animals_used_for_fur, arctic_far_north_animals,
+from data.animals import (african_animals, animals_used_for_fur, arctic_far_north_animals,
                     australian_animals, beasts_of_burden, birds, bovine, canine,
                     deers, farm_animals, feline, fish, insectivores, insects,
                     north_american_animals, pets, primates, rabbits,
                     reptiles_amphibians, rodents, water_animals, weasels,
                     ALL_CATEG_NAMES, ALL_CATEG)
 
+
 def load_base_vocabulary() -> Set[str]:
     """Load base vocabulary from animals.txt"""
-    with open('animals.txt', 'r') as f:
+    with open('data/animals.txt', 'r') as f:
         return {word.strip().lower() for word in f.readlines()}
+
 
 def get_animal_features(animal: str) -> Set[str]:
     """Get semantic features (categories) for an animal"""
     features = set()
+
+    if animal == 'animal':
+        features.add('animal')
+    
     for category, animals in zip(ALL_CATEG_NAMES, ALL_CATEG):
         if animal.lower() in [a.lower() for a in animals]:
             features.add(category)
@@ -29,7 +35,9 @@ def get_animal_features(animal: str) -> Set[str]:
             if category in ['pets', 'farm_animals', 'beasts_of_burden']:
                 features.add('DOMESTIC')
             features.add('animal')  # Add root category
+    
     return features
+
 
 def generate_utterance() -> List[str]:
     """Generate a simple utterance containing an animal word"""
@@ -42,8 +50,9 @@ def generate_utterance() -> List[str]:
     ]
     return random.choice(templates)
 
+
 def generate_corpus(num_examples: int, 
-                   output_file: str = "training_corpus.txt") -> None:
+                   output_file: str = "outputs/learning_corpus.txt") -> None:
     """Generate a corpus of utterance-scene pairs"""
     base_vocab = load_base_vocabulary()
     
@@ -67,6 +76,7 @@ def generate_corpus(num_examples: int,
             f.write(f"{i+1}-----\n")
             f.write(f"SENTENCE: {' '.join(utterance)}\n")
             f.write(f"SEM_REP: {','.join([''] + list(features))}\n\n")
+
 
 if __name__ == "__main__":
     # Generate 1000 training examples

@@ -1,10 +1,4 @@
-# from core.input import *
-# from core.wmmapping import *
-# import core.evaluate as evaluate
-# import pickle
-# from core.wgraph import *
-
-###animals from Hill et al. (2012)
+# animals from Hill et al. (2012)
 african_animals = ['aardvark', 'antelope', 'buffalo', 'camel', 'chameleon', 'cheetah', 'chimpanzee', 'cobra', 'duiker', 'eland', 'elephant', 'gazelle', 'genet', 'giraffe', 'gnu', 'gorilla', 'hippopotamus', 'hyena', 'impala', 'jackal', 'kongoni', 'kudu', 'lemur', 'leopard', 'lion', 'lioness', 'manatee', 'meerkat', 'mongoose', 'monkey', 'okapi', 'oryx', 'ostrich', 'panther', 'rhino', 'rhinoceros', 'steenbok', 'tiger', 'warthog', 'wildebeest', 'zebra']
 
 animals_used_for_fur = ['alpaca','beaver','chamois','chinchilla','ermine','fox','llama','mink','rabbit','sable','vicuna']
