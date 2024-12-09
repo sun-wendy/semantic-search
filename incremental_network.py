@@ -6,6 +6,7 @@ import re
 from pyvis.network import Network
 from hdbscan import HDBSCAN
 import os
+import argparse
 
 
 class SemanticNetworkLearner:
@@ -243,10 +244,21 @@ class SemanticNetworkLearner:
 
 
 if __name__ == "__main__":
-    learner = SemanticNetworkLearner(rho=0.8, rho_animal=0.4)
-    learner.process_corpus_file('outputs/learning_corpus.txt')
-    learner.squash_edge_weights(alpha=0.5)
-    learner.plot_network('outputs/network_plot.html')
+    parser = argparse.ArgumentParser(description="Build semantic network")
+    # 'results/category_corpus.txt' or 'results/llm_corpus.txt'
+    parser.add_argument("--corpus_file", type=str, required=True)
+    args = parser.parse_args()
+
+    if "category" in args.corpus_file:
+        learner = SemanticNetworkLearner(rho=0.8, rho_animal=0.4)
+    else:
+        learner = SemanticNetworkLearner(rho=0.6, rho_animal=0.3)
+    learner.process_corpus_file(args.corpus_file)
+    learner.squash_edge_weights(alpha=0.7)
+    if 'category' in args.corpus_file:
+        learner.plot_network('results/category_network_plot.html')
+    else:
+        learner.plot_network('results/llm_network_plot.html')
     
     stats = learner.get_network_stats()
     print("\nNetwork Statistics:")

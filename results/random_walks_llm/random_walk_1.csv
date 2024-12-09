@@ -1,0 +1,71 @@
+Step,Word,Categories
+1,rodent,rodents
+2,bug,insects
+3,worm,insects
+4,serpent,reptiles_amphibians
+5,animal,
+6,dove,birds
+7,animal,
+8,bug,insects
+9,caterpillar,insects
+10,animal,
+11,slug,water_animals
+12,animal,
+13,otter,"water_animals, weasels"
+14,kid,farm_animals
+15,animal,
+16,flea,insects
+17,caterpillar,insects
+18,grasshopper,insects
+19,rabbit,"animals_used_for_fur, north_american_animals, pets, rabbits"
+20,caterpillar,insects
+21,bunny,rabbits
+22,devil,australian_animals
+23,chipmunk,"north_american_animals, rodents"
+24,devil,australian_animals
+25,bison,"bovine, north_american_animals"
+26,devil,australian_animals
+27,chipmunk,"north_american_animals, rodents"
+28,animal,
+29,panther,"african_animals, feline"
+30,leopard,"african_animals, feline"
+31,panther,"african_animals, feline"
+32,animal,
+33,crow,birds
+34,cardinal,birds
+35,crow,birds
+36,bluejay,birds
+37,swallow,birds
+38,hawk,birds
+39,seagull,birds
+40,swallow,birds
+41,hawk,birds
+42,swallow,birds
+43,butterfly,insects
+44,swallow,birds
+45,gull,birds
+46,animal,
+47,chick,farm_animals
+48,animal,
+49,smelt,fish
+50,pike,fish
+51,swan,birds
+52,gull,birds
+53,swallow,birds
+54,kite,birds
+55,swallow,birds
+56,seagull,birds
+57,swallow,birds
+58,butterfly,insects
+59,caterpillar,insects
+60,flea,insects
+61,fly,insects
+62,caterpillar,insects
+63,animal,
+64,pony,"beasts_of_burden, farm_animals"
+65,hare,rabbits
+66,stallion,farm_animals
+67,antelope,african_animals
+68,sheep,farm_animals
+69,mare,"beasts_of_burden, farm_animals"
+70,colt,"beasts_of_burden, farm_animals"

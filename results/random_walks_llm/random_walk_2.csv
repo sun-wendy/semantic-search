@@ -1,0 +1,71 @@
+Step,Word,Categories
+1,cardinal,birds
+2,crow,birds
+3,canary,"birds, pets"
+4,bird,birds
+5,kiwi,"australian_animals, birds"
+6,quail,birds
+7,hornet,insects
+8,caterpillar,insects
+9,sugar,
+10,raccoon,north_american_animals
+11,sheep,farm_animals
+12,buffalo,"african_animals, bovine"
+13,mare,"beasts_of_burden, farm_animals"
+14,whale,water_animals
+15,moose,"deers, north_american_animals"
+16,walrus,arctic_far_north_animals
+17,moose,"deers, north_american_animals"
+18,stag,deers
+19,elk,"deers, north_american_animals"
+20,seal,"arctic_far_north_animals, water_animals"
+21,elk,"deers, north_american_animals"
+22,stag,deers
+23,moose,"deers, north_american_animals"
+24,walrus,arctic_far_north_animals
+25,mink,"animals_used_for_fur, weasels"
+26,hare,rabbits
+27,kangaroo,australian_animals
+28,coyote,canine
+29,kangaroo,australian_animals
+30,devil,australian_animals
+31,bunny,rabbits
+32,caterpillar,insects
+33,grasshopper,insects
+34,quail,birds
+35,duck,birds
+36,swan,birds
+37,elk,"deers, north_american_animals"
+38,mare,"beasts_of_burden, farm_animals"
+39,bison,"bovine, north_american_animals"
+40,chipmunk,"north_american_animals, rodents"
+41,devil,australian_animals
+42,kangaroo,australian_animals
+43,zebra,african_animals
+44,camel,"african_animals, beasts_of_burden"
+45,stallion,farm_animals
+46,bison,"bovine, north_american_animals"
+47,lamb,farm_animals
+48,ewe,birds
+49,lamb,farm_animals
+50,bison,"bovine, north_american_animals"
+51,sugar,
+52,cricket,insects
+53,sugar,
+54,raccoon,north_american_animals
+55,sugar,
+56,raccoon,north_american_animals
+57,sugar,
+58,cricket,insects
+59,sugar,
+60,hornet,insects
+61,sugar,
+62,bee,insects
+63,sugar,
+64,caterpillar,insects
+65,wasp,insects
+66,caterpillar,insects
+67,beetle,insects
+68,animal,
+69,salmon,fish
+70,pike,fish

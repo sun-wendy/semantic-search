@@ -1,0 +1,71 @@
+Step,Word,Categories
+1,snail,water_animals
+2,animal,
+3,sugar,
+4,raccoon,north_american_animals
+5,sheep,farm_animals
+6,rabbit,"animals_used_for_fur, north_american_animals, pets, rabbits"
+7,bunny,rabbits
+8,mouse,"birds, rodents"
+9,animal,
+10,otter,"water_animals, weasels"
+11,animal,
+12,beetle,insects
+13,rodent,rodents
+14,beetle,insects
+15,rodent,rodents
+16,animal,
+17,beetle,insects
+18,animal,
+19,swallow,birds
+20,butterfly,insects
+21,animal,
+22,ape,primates
+23,skunk,"north_american_animals, weasels"
+24,animal,
+25,possum,australian_animals
+26,animal,
+27,mouse,"birds, rodents"
+28,puppy,pets
+29,dolphin,"insects, water_animals"
+30,puppy,pets
+31,hare,rabbits
+32,rabbit,"animals_used_for_fur, north_american_animals, pets, rabbits"
+33,mouse,"birds, rodents"
+34,kid,farm_animals
+35,otter,"water_animals, weasels"
+36,seal,"arctic_far_north_animals, water_animals"
+37,kangaroo,australian_animals
+38,buck,deers
+39,elk,"deers, north_american_animals"
+40,stallion,farm_animals
+41,mare,"beasts_of_burden, farm_animals"
+42,buffalo,"african_animals, bovine"
+43,horse,"beasts_of_burden, farm_animals"
+44,bullock,"bovine, farm_animals"
+45,buffalo,"african_animals, bovine"
+46,bison,"bovine, north_american_animals"
+47,deer,"deers, north_american_animals"
+48,cattle,bovine
+49,sheep,farm_animals
+50,sugar,
+51,bee,insects
+52,ant,insects
+53,beetle,insects
+54,worm,insects
+55,bug,insects
+56,flea,insects
+57,animal,
+58,kangaroo,australian_animals
+59,mouse,"birds, rodents"
+60,mink,"animals_used_for_fur, weasels"
+61,walrus,arctic_far_north_animals
+62,moose,"deers, north_american_animals"
+63,ram,farm_animals
+64,moose,"deers, north_american_animals"
+65,seal,"arctic_far_north_animals, water_animals"
+66,elk,"deers, north_american_animals"
+67,kangaroo,australian_animals
+68,horse,"beasts_of_burden, farm_animals"
+69,mare,"beasts_of_burden, farm_animals"
+70,mouse,"birds, rodents"
