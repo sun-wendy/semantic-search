@@ -1,0 +1,71 @@
+Step,Word,Categories
+1,fly,insects
+2,caterpillar,insects
+3,mosquito,insects
+4,swallow,birds
+5,gull,birds
+6,penguin,"arctic_far_north_animals, birds, water_animals"
+7,pike,fish
+8,shark,"fish, water_animals"
+9,swan,birds
+10,pike,fish
+11,shark,"fish, water_animals"
+12,barracuda,fish
+13,coral,water_animals
+14,barracuda,fish
+15,pike,fish
+16,smelt,fish
+17,bass,fish
+18,ray,water_animals
+19,tuna,fish
+20,barracuda,fish
+21,ray,water_animals
+22,salmon,fish
+23,tuna,fish
+24,smelt,fish
+25,pike,fish
+26,penguin,"arctic_far_north_animals, birds, water_animals"
+27,gull,birds
+28,gander,birds
+29,gull,birds
+30,bird,birds
+31,gull,birds
+32,bird,birds
+33,chicken,"birds, farm_animals"
+34,kiwi,"australian_animals, birds"
+35,chicken,"birds, farm_animals"
+36,bird,birds
+37,robin,birds
+38,sparrow,birds
+39,swallow,birds
+40,sparrow,birds
+41,cardinal,birds
+42,canary,"birds, pets"
+43,cardinal,birds
+44,canary,"birds, pets"
+45,cardinal,birds
+46,crow,birds
+47,swallow,birds
+48,mosquito,insects
+49,bird,birds
+50,bluejay,birds
+51,swallow,birds
+52,mosquito,insects
+53,swallow,birds
+54,hawk,birds
+55,swallow,birds
+56,cardinal,birds
+57,crow,birds
+58,canary,"birds, pets"
+59,crow,birds
+60,animal,
+61,pigeon,birds
+62,sparrow,birds
+63,pigeon,birds
+64,sparrow,birds
+65,swallow,birds
+66,animal,
+67,squid,water_animals
+68,animal,
+69,cricket,insects
+70,sugar,

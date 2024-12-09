@@ -1,9 +1,11 @@
 import numpy as np
 from typing import List, Tuple, Set
 import os
+import argparse
 import csv
 
 from incremental_network import SemanticNetworkLearner
+from utils import get_word_categories
 
 
 class RandomWalkSearch:
@@ -47,20 +49,30 @@ class RandomWalkSearch:
         return walk_seq
 
 
-def save_walk_results(walk_seq: List[Tuple[str, Set[str]]], filename: str = 'outputs/random_walk/random_walk_5.csv'):
+def save_walk_results(walk_seq: List[Tuple[str, Set[str]]], filename: str):
     """Save walk results to a CSV file"""
     os.makedirs(os.path.dirname(filename), exist_ok=True)
     with open(filename, 'w', newline='', encoding='utf-8') as f:
         writer = csv.writer(f)
         writer.writerow(["Step", "Word", "Categories"])
-        for i, (word, categories) in enumerate(walk_seq, 1):
+        for i, (word, _) in enumerate(walk_seq, 1):
+            categories = get_word_categories(word)
             writer.writerow([i, word, ", ".join(sorted(categories))])
 
 
 if __name__ == "__main__":
+    parser = argparse.ArgumentParser(description="Build semantic network")
+    # 'results/category_corpus.txt' or 'results/llm_corpus.txt'
+    parser.add_argument("--corpus_file", type=str, required=True)
+    parser.add_argument("--output_file", type=str, required=True)
+    args = parser.parse_args()
+
     # Initialize & train network
-    learner = SemanticNetworkLearner(rho=0.8, rho_animal=0.4)
-    learner.process_corpus_file('outputs/learning_corpus.txt')
+    if "category" in args.corpus_file:
+        learner = SemanticNetworkLearner(rho=0.8, rho_animal=0.4)
+    else:
+        learner = SemanticNetworkLearner(rho=0.6, rho_animal=0.3)
+    learner.process_corpus_file(args.corpus_file)
     learner.squash_edge_weights(alpha=0.7)
     
     # Perform random walk
@@ -68,7 +80,9 @@ if __name__ == "__main__":
     walk_seq = walker.random_walk()
     
     # Save results
-    save_walk_results(walk_seq)
+    output_dir = f"results/random_walks_category" if "category" in args.corpus_file else "results/random_walks_llm"
+    output_path = os.path.join(output_dir, args.output_file)
+    save_walk_results(walk_seq, output_path)
     
     # Print first 10 steps
     print("\nFirst 10 steps of random walk:")
