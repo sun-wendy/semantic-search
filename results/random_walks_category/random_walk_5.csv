@@ -1,71 +1,71 @@
 Step,Word,Categories
-1,robin,"animal, birds"
-2,eagle,"animal, birds"
-3,pelican,"animal, birds"
-4,bird,"animal, birds"
-5,animal,animal
-6,wasp,"animal, insects"
-7,hornet,"animal, insects"
-8,butterfly,"animal, insects"
-9,flea,"animal, insects"
-10,termite,"animal, insects"
-11,fly,"animal, insects"
-12,animal,animal
-13,stag,"animal, deers"
-14,animal,animal
-15,elk,"REGION, animal, deers, north_american_animals"
-16,deer,"REGION, animal, deers, north_american_animals"
-17,bear,"REGION, animal, north_american_animals"
-18,chipmunk,"REGION, animal, north_american_animals, rodents"
-19,beaver,"REGION, animal, animals_used_for_fur, north_american_animals, rodents, water_animals"
-20,animal,animal
-21,turtle,"animal, reptiles_amphibians, water_animals"
-22,snail,"animal, water_animals"
-23,animal,animal
-24,owl,"animal, birds"
-25,pelican,"animal, birds"
-26,mouse,"animal, birds, rodents"
-27,dove,"animal, birds"
-28,bluejay,"animal, birds"
-29,gander,"animal, birds"
-30,robin,"animal, birds"
-31,gander,"animal, birds"
-32,duck,"animal, birds"
-33,swan,"animal, birds"
-34,bluejay,"animal, birds"
-35,bird,"animal, birds"
-36,swallow,"animal, birds"
-37,sparrow,"animal, birds"
-38,gull,"animal, birds"
-39,sparrow,"animal, birds"
-40,swan,"animal, birds"
-41,pelican,"animal, birds"
-42,robin,"animal, birds"
-43,kite,"animal, birds"
-44,quail,"animal, birds"
-45,seagull,"animal, birds"
-46,robin,"animal, birds"
-47,swift,"animal, birds"
-48,duck,"animal, birds"
-49,dove,"animal, birds"
-50,kite,"animal, birds"
-51,animal,animal
-52,doe,"animal, deers"
-53,buck,"animal, deers"
-54,fawn,"animal, deers"
-55,stag,"animal, deers"
-56,fawn,"animal, deers"
-57,animal,animal
-58,ram,"DOMESTIC, animal, farm_animals"
-59,donkey,"DOMESTIC, animal, beasts_of_burden, farm_animals"
-60,colt,"DOMESTIC, animal, beasts_of_burden, farm_animals"
-61,horse,"DOMESTIC, animal, beasts_of_burden, farm_animals"
-62,sow,"DOMESTIC, animal, farm_animals"
-63,animal,animal
-64,sow,"DOMESTIC, animal, farm_animals"
-65,mare,"DOMESTIC, animal, beasts_of_burden, farm_animals"
-66,donkey,"DOMESTIC, animal, beasts_of_burden, farm_animals"
-67,mare,"DOMESTIC, animal, beasts_of_burden, farm_animals"
-68,donkey,"DOMESTIC, animal, beasts_of_burden, farm_animals"
-69,stallion,"DOMESTIC, animal, farm_animals"
-70,lamb,"DOMESTIC, animal, farm_animals"
+1,seagull,birds
+2,gull,birds
+3,bluejay,birds
+4,kite,birds
+5,pigeon,birds
+6,ewe,birds
+7,sparrow,birds
+8,seagull,birds
+9,husky,canine
+10,ewe,birds
+11,flea,insects
+12,maggot,insects
+13,worm,insects
+14,caterpillar,insects
+15,animal,
+16,moth,insects
+17,elephant,african_animals
+18,animal,
+19,crab,water_animals
+20,animal,
+21,swallow,birds
+22,ewe,birds
+23,cardinal,birds
+24,quail,birds
+25,antelope,african_animals
+26,hawk,birds
+27,trout,fish
+28,tuna,fish
+29,pigeon,birds
+30,ant,insects
+31,rail,
+32,tuna,fish
+33,robin,birds
+34,cardinal,birds
+35,salmon,fish
+36,tuna,fish
+37,rail,
+38,ant,insects
+39,crow,birds
+40,flea,insects
+41,swallow,birds
+42,flea,insects
+43,kite,birds
+44,tuna,fish
+45,squid,water_animals
+46,pike,fish
+47,gull,birds
+48,duck,birds
+49,flea,insects
+50,ant,insects
+51,worm,insects
+52,ray,water_animals
+53,pig,farm_animals
+54,oyster,water_animals
+55,hornet,insects
+56,worm,insects
+57,oyster,water_animals
+58,porpoise,water_animals
+59,oyster,water_animals
+60,hornet,insects
+61,beetle,insects
+62,eagle,birds
+63,ant,insects
+64,insect,insects
+65,barracuda,fish
+66,owl,birds
+67,animal,
+68,buffalo,"african_animals, bovine"
+69,animal,
+70,skunk,"north_american_animals, weasels"

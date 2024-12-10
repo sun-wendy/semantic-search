@@ -8,7 +8,7 @@ from sys_prompt import SYS_PROMPT
 
 # Function adapted from: https://github.com/ChuyueSun/Clover/blob/main/clover/clover.py
 @sgl.function
-def gen_corpus_from_llm(s, model, num_pairs):
+def generate_corpus_from_llm(s, model, num_pairs):
     s += system(SYS_PROMPT)
     model_output = ""
 
@@ -28,7 +28,7 @@ def get_animal_name():
 
 
 def save_to_corpus(utterance_scene_pair):
-    corpus_file = "results/llm_corpus.txt"
+    corpus_file = "results/training_corpus/llm_corpus.txt"
     try:
         with open(corpus_file, 'r') as f:
             lines = f.readlines()
@@ -53,7 +53,7 @@ def save_to_corpus(utterance_scene_pair):
 if __name__ == "__main__":
     parser = argparse.ArgumentParser(description="Generate synthetic corpus data from LLM")
     parser.add_argument("--model", type=str, required=True)
-    parser.add_argument("--num_pairs", type=int, default=1000)
+    parser.add_argument("--num_pairs", type=int, default=5000)
     args = parser.parse_args()
     
     # Model name examples: gpt-4o, claude-3-5-sonnet-20241022
@@ -64,4 +64,4 @@ if __name__ == "__main__":
     else:
         raise ValueError("Invalid model name")
 
-    gen_corpus_from_llm(args.model, args.num_pairs)
+    generate_corpus_from_llm(args.model, args.num_pairs)

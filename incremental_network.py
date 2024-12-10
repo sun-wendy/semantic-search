@@ -27,6 +27,8 @@ class SemanticNetworkLearner:
     def process_corpus_file(self, filename: str) -> None:
         """Process the corpus file"""
         cur_sentence, cur_features = [], []
+
+        count = 1
         
         with open(filename, 'r') as f:
             for line in f:
@@ -37,6 +39,8 @@ class SemanticNetworkLearner:
                     cur_features = [f for f in line.replace('SEM_REP:', '').strip().split(',') if f]
                     if cur_sentence and cur_features:
                         self.process_utterance(cur_sentence, cur_features)
+                        print(count)
+                        count += 1
     
 
     def process_utterance(self, utterance: List[str], features: List[str]) -> None:
@@ -250,15 +254,21 @@ if __name__ == "__main__":
     args = parser.parse_args()
 
     if "category" in args.corpus_file:
-        learner = SemanticNetworkLearner(rho=0.8, rho_animal=0.4)
-    else:
         learner = SemanticNetworkLearner(rho=0.6, rho_animal=0.3)
+    elif "llm" in args.corpus_file:
+        learner = SemanticNetworkLearner(rho=0.4, rho_animal=0.2)
+    else:
+        learner = SemanticNetworkLearner(rho=0.8, rho_animal=0.4)
+    
     learner.process_corpus_file(args.corpus_file)
     learner.squash_edge_weights(alpha=0.7)
+
     if 'category' in args.corpus_file:
-        learner.plot_network('results/category_network_plot.html')
+        learner.plot_network('results/networks/category_network_plot.html')
+    elif 'llm' in args.corpus_file:
+        learner.plot_network('results/networks/llm_network_plot.html')
     else:
-        learner.plot_network('results/llm_network_plot.html')
+        learner.plot_network('results/networks/network_plot.html')
     
     stats = learner.get_network_stats()
     print("\nNetwork Statistics:")

@@ -1,71 +1,71 @@
 Step,Word,Categories
-1,fly,insects
-2,caterpillar,insects
-3,mosquito,insects
-4,swallow,birds
-5,gull,birds
-6,penguin,"arctic_far_north_animals, birds, water_animals"
-7,pike,fish
-8,shark,"fish, water_animals"
-9,swan,birds
-10,pike,fish
-11,shark,"fish, water_animals"
-12,barracuda,fish
-13,coral,water_animals
-14,barracuda,fish
-15,pike,fish
-16,smelt,fish
-17,bass,fish
-18,ray,water_animals
-19,tuna,fish
-20,barracuda,fish
-21,ray,water_animals
-22,salmon,fish
-23,tuna,fish
-24,smelt,fish
-25,pike,fish
-26,penguin,"arctic_far_north_animals, birds, water_animals"
-27,gull,birds
-28,gander,birds
-29,gull,birds
-30,bird,birds
-31,gull,birds
-32,bird,birds
-33,chicken,"birds, farm_animals"
-34,kiwi,"australian_animals, birds"
-35,chicken,"birds, farm_animals"
-36,bird,birds
-37,robin,birds
-38,sparrow,birds
-39,swallow,birds
-40,sparrow,birds
-41,cardinal,birds
-42,canary,"birds, pets"
-43,cardinal,birds
-44,canary,"birds, pets"
-45,cardinal,birds
-46,crow,birds
-47,swallow,birds
-48,mosquito,insects
-49,bird,birds
-50,bluejay,birds
-51,swallow,birds
-52,mosquito,insects
-53,swallow,birds
-54,hawk,birds
-55,swallow,birds
-56,cardinal,birds
-57,crow,birds
-58,canary,"birds, pets"
-59,crow,birds
-60,animal,
-61,pigeon,birds
-62,sparrow,birds
-63,pigeon,birds
-64,sparrow,birds
-65,swallow,birds
-66,animal,
-67,squid,water_animals
-68,animal,
-69,cricket,insects
-70,sugar,
+1,ass,"beasts_of_burden, farm_animals"
+2,mare,"beasts_of_burden, farm_animals"
+3,buffalo,"african_animals, bovine"
+4,cow,"bovine, farm_animals"
+5,mare,"beasts_of_burden, farm_animals"
+6,ass,"beasts_of_burden, farm_animals"
+7,buffalo,"african_animals, bovine"
+8,ass,"beasts_of_burden, farm_animals"
+9,bison,"bovine, north_american_animals"
+10,ewe,birds
+11,elk,"deers, north_american_animals"
+12,reindeer,"arctic_far_north_animals, deers"
+13,steer,bovine
+14,ass,"beasts_of_burden, farm_animals"
+15,steer,bovine
+16,elk,"deers, north_american_animals"
+17,reindeer,"arctic_far_north_animals, deers"
+18,elk,"deers, north_american_animals"
+19,sheep,farm_animals
+20,cow,"bovine, farm_animals"
+21,bison,"bovine, north_american_animals"
+22,calf,"bovine, farm_animals"
+23,animal,
+24,bird,birds
+25,sparrow,birds
+26,dove,birds
+27,cardinal,birds
+28,robin,birds
+29,quail,birds
+30,mole,"insectivores, rodents"
+31,rodent,rodents
+32,mole,"insectivores, rodents"
+33,rodent,rodents
+34,animal,
+35,tiger,"african_animals, feline"
+36,animal,
+37,sparrow,birds
+38,grasshopper,insects
+39,beetle,insects
+40,caterpillar,insects
+41,maggot,insects
+42,caterpillar,insects
+43,beetle,insects
+44,grasshopper,insects
+45,rabbit,"animals_used_for_fur, north_american_animals, pets, rabbits"
+46,bunny,rabbits
+47,rabbit,"animals_used_for_fur, north_american_animals, pets, rabbits"
+48,frog,"reptiles_amphibians, water_animals"
+49,toad,"reptiles_amphibians, water_animals"
+50,frog,"reptiles_amphibians, water_animals"
+51,toad,"reptiles_amphibians, water_animals"
+52,crocodile,reptiles_amphibians
+53,pike,fish
+54,tuna,fish
+55,smelt,fish
+56,tuna,fish
+57,porpoise,water_animals
+58,trout,fish
+59,animal,
+60,mare,"beasts_of_burden, farm_animals"
+61,antelope,african_animals
+62,animal,
+63,chipmunk,"north_american_animals, rodents"
+64,animal,
+65,whale,water_animals
+66,dolphin,"insects, water_animals"
+67,porpoise,water_animals
+68,trout,fish
+69,pelican,birds
+70,animal,

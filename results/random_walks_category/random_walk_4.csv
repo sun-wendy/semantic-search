@@ -1,71 +1,71 @@
 Step,Word,Categories
-1,toad,"animal, reptiles_amphibians, water_animals"
-2,goose,"animal, water_animals"
-3,porpoise,"animal, water_animals"
-4,scallop,"animal, water_animals"
-5,clam,"animal, water_animals"
-6,mussel,"animal, water_animals"
-7,snail,"animal, water_animals"
-8,porpoise,"animal, water_animals"
-9,dolphin,"animal, insects, water_animals"
-10,wasp,"animal, insects"
-11,ant,"animal, insects"
-12,maggot,"animal, insects"
-13,dolphin,"animal, insects, water_animals"
-14,hornet,"animal, insects"
-15,fly,"animal, insects"
-16,beetle,"animal, insects"
-17,hornet,"animal, insects"
-18,termite,"animal, insects"
-19,beetle,"animal, insects"
-20,insect,"animal, insects"
-21,caterpillar,"animal, insects"
-22,insect,"animal, insects"
-23,tick,"animal, insects"
-24,moth,"animal, insects"
-25,flea,"animal, insects"
-26,termite,"animal, insects"
-27,butterfly,"animal, insects"
-28,dolphin,"animal, insects, water_animals"
-29,sponge,"animal, water_animals"
-30,ray,"animal, water_animals"
-31,frog,"animal, reptiles_amphibians, water_animals"
-32,coral,"animal, water_animals"
-33,otter,"animal, water_animals, weasels"
-34,porpoise,"animal, water_animals"
-35,toad,"animal, reptiles_amphibians, water_animals"
-36,ray,"animal, water_animals"
-37,otter,"animal, water_animals, weasels"
-38,slug,"animal, water_animals"
-39,goose,"animal, water_animals"
-40,otter,"animal, water_animals, weasels"
-41,clam,"animal, water_animals"
-42,frog,"animal, reptiles_amphibians, water_animals"
-43,crab,"animal, water_animals"
-44,scallop,"animal, water_animals"
-45,animal,animal
-46,devil,"REGION, animal, australian_animals"
-47,possum,"REGION, animal, australian_animals"
-48,devil,"REGION, animal, australian_animals"
-49,kangaroo,"REGION, animal, australian_animals"
-50,animal,animal
-51,robin,"animal, birds"
-52,swift,"animal, birds"
-53,owl,"animal, birds"
-54,hawk,"animal, birds"
-55,kite,"animal, birds"
-56,robin,"animal, birds"
-57,seagull,"animal, birds"
-58,pigeon,"animal, birds"
-59,swallow,"animal, birds"
-60,bird,"animal, birds"
-61,pigeon,"animal, birds"
-62,bird,"animal, birds"
-63,eagle,"animal, birds"
-64,sparrow,"animal, birds"
-65,hawk,"animal, birds"
-66,animal,animal
-67,human,"animal, primates"
-68,animal,animal
-69,sow,"DOMESTIC, animal, farm_animals"
-70,hen,"DOMESTIC, animal, farm_animals"
+1,cardinal,birds
+2,seagull,birds
+3,kite,birds
+4,cardinal,birds
+5,pigeon,birds
+6,animal,
+7,pike,fish
+8,swallow,birds
+9,beetle,insects
+10,robin,birds
+11,cardinal,birds
+12,seagull,birds
+13,antelope,african_animals
+14,swallow,birds
+15,pigeon,birds
+16,antelope,african_animals
+17,panther,"african_animals, feline"
+18,lamb,farm_animals
+19,panther,"african_animals, feline"
+20,tiger,"african_animals, feline"
+21,camel,"african_animals, beasts_of_burden"
+22,tiger,"african_animals, feline"
+23,canary,"birds, pets"
+24,panther,"african_animals, feline"
+25,lamb,farm_animals
+26,turkey,"birds, farm_animals"
+27,lamb,farm_animals
+28,panther,"african_animals, feline"
+29,lamb,farm_animals
+30,panther,"african_animals, feline"
+31,canary,"birds, pets"
+32,antelope,african_animals
+33,turkey,"birds, farm_animals"
+34,antelope,african_animals
+35,bluejay,birds
+36,gull,birds
+37,ewe,birds
+38,quail,birds
+39,rail,
+40,bird,birds
+41,sparrow,birds
+42,robin,birds
+43,pike,fish
+44,pelican,birds
+45,pike,fish
+46,kite,birds
+47,bluejay,birds
+48,robin,birds
+49,parrot,"birds, pets"
+50,bear,north_american_animals
+51,cougar,"feline, north_american_animals"
+52,lamb,farm_animals
+53,cougar,"feline, north_american_animals"
+54,horse,"beasts_of_burden, farm_animals"
+55,cougar,"feline, north_american_animals"
+56,cat,"feline, pets"
+57,cougar,"feline, north_american_animals"
+58,horse,"beasts_of_burden, farm_animals"
+59,butterfly,insects
+60,dove,birds
+61,flea,insects
+62,kite,birds
+63,tuna,fish
+64,sparrow,birds
+65,swallow,birds
+66,sparrow,birds
+67,antelope,african_animals
+68,swallow,birds
+69,pigeon,birds
+70,rail,

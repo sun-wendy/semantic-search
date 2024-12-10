@@ -64,32 +64,33 @@ if __name__ == "__main__":
     parser = argparse.ArgumentParser(description="Build semantic network")
     # 'results/category_corpus.txt' or 'results/llm_corpus.txt'
     parser.add_argument("--corpus_file", type=str, required=True)
-    parser.add_argument("--output_file", type=str, required=True)
+    parser.add_argument("--num_runs", type=int, default=5)
     args = parser.parse_args()
 
     # Initialize & train network
     if "category" in args.corpus_file:
-        learner = SemanticNetworkLearner(rho=0.8, rho_animal=0.4)
+        learner = SemanticNetworkLearner(rho=0.7, rho_animal=0.35)
+        output_dir = "results/random_walks_category"
+    elif "llm" in args.corpus_file:
+        learner = SemanticNetworkLearner(rho=0.55, rho_animal=0.3)
+        output_dir = "results/random_walks_llm"
     else:
-        learner = SemanticNetworkLearner(rho=0.6, rho_animal=0.3)
+        learner = SemanticNetworkLearner(rho=0.8, rho_animal=0.4)
+        output_dir = "results/random_walks"
     learner.process_corpus_file(args.corpus_file)
     learner.squash_edge_weights(alpha=0.7)
     
-    # Perform random walk
+    # Perform random walk(s)
     walker = RandomWalkSearch(learner)
-    walk_seq = walker.random_walk()
+    for i in range(args.num_runs):
+        print(f"\nRandom walk {i+1}")
+        walk_seq = walker.random_walk()
+
+        # Save results
+        output_path = os.path.join(output_dir, f'random_walk_{i+1}.csv')
+        save_walk_results(walk_seq, output_path)
     
-    # Save results
-    output_dir = f"results/random_walks_category" if "category" in args.corpus_file else "results/random_walks_llm"
-    output_path = os.path.join(output_dir, args.output_file)
-    save_walk_results(walk_seq, output_path)
-    
-    # Print first 10 steps
-    print("\nFirst 10 steps of random walk:")
-    for i, (word, categories) in enumerate(walk_seq[:10], 1):
-        print(f"{i}. {word}: {', '.join(sorted(categories))}")
-    
-    # Print summary statistics
-    unique_words = len(set(word for word, _ in walk_seq))
-    print(f"\nTotal steps: {len(walk_seq)}")
-    print(f"Unique words visited: {unique_words}")
+        # Print summary statistics
+        unique_words = len(set(word for word, _ in walk_seq))
+        print(f"Total steps: {len(walk_seq)}")
+        print(f"Unique words visited: {unique_words}")

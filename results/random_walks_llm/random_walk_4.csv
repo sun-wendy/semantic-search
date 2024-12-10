@@ -1,71 +1,71 @@
 Step,Word,Categories
-1,sparrow,birds
-2,pigeon,birds
-3,robin,birds
-4,animal,
-5,trout,fish
-6,animal,
-7,lobster,water_animals
-8,crab,water_animals
-9,lobster,water_animals
-10,crab,water_animals
-11,shrimp,fish
-12,animal,
-13,caterpillar,insects
+1,antelope,african_animals
+2,mare,"beasts_of_burden, farm_animals"
+3,stallion,farm_animals
+4,hare,rabbits
+5,otter,"water_animals, weasels"
+6,quail,birds
+7,grasshopper,insects
+8,beetle,insects
+9,caterpillar,insects
+10,bee,insects
+11,wasp,insects
+12,ant,insects
+13,bee,insects
 14,fly,insects
-15,mosquito,insects
-16,caterpillar,insects
-17,bee,insects
-18,animal,
-19,horse,"beasts_of_burden, farm_animals"
-20,animal,
-21,ape,primates
+15,bee,insects
+16,animal,
+17,robin,birds
+18,quail,birds
+19,mole,"insectivores, rodents"
+20,hare,rabbits
+21,beetle,insects
 22,animal,
-23,flea,insects
-24,fly,insects
-25,caterpillar,insects
-26,sugar,
-27,caterpillar,insects
-28,ant,insects
-29,bee,insects
-30,ant,insects
-31,maggot,insects
-32,animal,
-33,lobster,water_animals
-34,shrimp,fish
-35,animal,
-36,hornet,insects
+23,aardvark,"african_animals, insectivores"
+24,anteater,insectivores
+25,aardvark,"african_animals, insectivores"
+26,animal,
+27,otter,"water_animals, weasels"
+28,bunny,rabbits
+29,stallion,farm_animals
+30,bunny,rabbits
+31,hare,rabbits
+32,otter,"water_animals, weasels"
+33,hare,rabbits
+34,grasshopper,insects
+35,snail,water_animals
+36,animal,
 37,bee,insects
-38,caterpillar,insects
-39,butterfly,insects
-40,animal,
-41,beetle,insects
-42,sparrow,birds
-43,pigeon,birds
-44,animal,
-45,ape,primates
-46,skunk,"north_american_animals, weasels"
-47,ape,primates
-48,skunk,"north_american_animals, weasels"
-49,ape,primates
-50,monkey,"african_animals, primates"
-51,ape,primates
-52,animal,
-53,slug,water_animals
-54,animal,
-55,chick,farm_animals
-56,animal,
-57,gull,birds
-58,swallow,birds
-59,kite,birds
-60,eagle,birds
-61,swallow,birds
-62,gull,birds
-63,bird,birds
-64,kiwi,"australian_animals, birds"
-65,quail,birds
-66,grasshopper,insects
-67,quail,birds
-68,bird,birds
-69,bluejay,birds
-70,bird,birds
+38,sugar,
+39,sparrow,birds
+40,butterfly,insects
+41,bee,insects
+42,bug,insects
+43,ant,insects
+44,wasp,insects
+45,bee,insects
+46,sparrow,birds
+47,bird,birds
+48,dove,birds
+49,owl,birds
+50,crow,birds
+51,bluejay,birds
+52,robin,birds
+53,crow,birds
+54,dove,birds
+55,animal,
+56,flea,insects
+57,animal,
+58,mongoose,"african_animals, weasels"
+59,animal,
+60,tick,insects
+61,animal,
+62,porpoise,water_animals
+63,tuna,fish
+64,shrimp,fish
+65,smelt,fish
+66,shrimp,fish
+67,tuna,fish
+68,porpoise,water_animals
+69,tuna,fish
+70,animal,
