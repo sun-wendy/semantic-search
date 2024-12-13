@@ -1,57 +1,56 @@
-step,word,category,irt
-1,bear,,0
-2,lion,,0.5
-3,eagle,,0.5
-4,bird,,0.5
-5,fish,,0.5
-6,shark,,0.5
-7,whale,,0.5
-8,dolphin,,0.5
-9,dog,,6.5
-10,cat,,0.5
-11,rooster,,1
-12,chicken,,0.1
-13,cow,,0.5
-14,bull,,0.5
-15,horse,,2
-16,pony,,0.5
-17,elephant,,1.5
-18,cheetah,,1.5
-19,puma,,0.5
-20,wildabeast,,2
-21,ostrich,,1
-22,penguin,,2.5
-23,emperor penguin,,6
-24,caterpillar,,9
-25,spider,,0.5
-26,bats,,0.5
-27,pigs,,2
-28,sheep,,2
-29,donkey,,2
-30,polar bear,,3
-31,salmon,,2
-32,tuna,,0.5
-33,cod,,0.5
-34,mountain lion,,1.5
-35,goat,,1
-36,mountain goat,,0.5
-37,chihwawa,,1.5
-38,mice,,4.5
-39,rats,,1.5
-40,hen,,4
-41,chicken,,1.5
-42,bald eagle,,9.5
-43,colebrian,,4
-44,capybara,,0.5
-45,centipede,,11.5
-46,millpede,,0.5
-47,lionfish,,2.5
-48,ammonite,,4.5
-49,seagull,,4.5
-50,peacock,,4.5
-51,turkey,,0.5
-52,pheasants,,1.5
-53,bears,,17
-54,"flamingos ",,12
-55,crocadile,,1
-56,alligator,,0.5
+step,word,categories,irt,associative_patch_switch,patch_entry_position
+1,bear,north_american_animals,0.0,1,1
+2,lion,"african_animals, feline",0.5,1,1
+3,eagle,birds,0.5,1,1
+4,bird,birds,0.5,0,2
+5,fish,"fish, water_animals",0.5,1,1
+6,shark,"fish, water_animals",0.5,0,2
+7,whale,water_animals,0.5,0,3
+8,dolphin,"insects, water_animals",0.5,0,4
+9,dog,"canine, pets",6.5,1,1
+10,cat,"feline, pets",0.5,0,2
+11,rooster,farm_animals,1.0,1,1
+12,chicken,"birds, farm_animals",0.1,0,2
+13,cow,"bovine, farm_animals",0.5,0,3
+14,bull,feline,0.5,1,1
+15,horse,"beasts_of_burden, farm_animals",2.0,1,1
+16,pony,"beasts_of_burden, farm_animals",0.5,0,2
+17,elephant,african_animals,1.5,1,1
+18,cheetah,"african_animals, feline",1.5,0,2
+19,puma,"feline, north_american_animals",0.5,0,3
+20,wildabeast,african_animals,2.0,1,1
+21,ostrich,"african_animals, birds",1.0,0,2
+22,penguin,"arctic_far_north_animals, birds, water_animals",2.5,0,3
+23,emperor penguin,"arctic_far_north_animals, birds, water_animals",6.0,0,4
+24,caterpillar,insects,9.0,1,1
+25,spider,farm_animals,0.5,1,1
+26,bat,insectivores,0.5,1,1
+27,pig,farm_animals,2.0,1,1
+28,sheep,farm_animals,2.0,0,2
+29,donkey,"beasts_of_burden, farm_animals",2.0,0,3
+30,polar bear,arctic_far_north_animals,3.0,1,1
+31,salmon,fish,2.0,1,1
+32,tuna,fish,0.5,0,2
+33,cod,fish,0.5,0,3
+34,mountain lion,north_american_animals,1.5,1,1
+35,goat,farm_animals,1.0,1,1
+36,mountain goat,north_american_animals,0.5,1,1
+37,chihwawa,"canine, pets",1.5,1,1
+38,mouse,rodents,4.5,1,1
+39,rats,rodents,1.5,0,2
+40,hen,farm_animals,4.0,1,1
+41,chicken,"birds, farm_animals",1.5,0,2
+42,bald eagle,birds,9.5,0,3
+43,capybara,rodents,0.5,1,1
+44,centipede,insects,11.5,1,1
+45,millpede,insects,0.5,0,2
+46,lionfish,fish,2.5,1,1
+47,ammonite,water_animals,4.5,1,1
+48,seagull,birds,4.5,1,1
+49,peacock,birds,4.5,0,2
+50,turkey,"birds, farm_animals",0.5,0,3
+51,pheasant,birds,1.5,0,4
+52,bear,north_american_animals,17.0,1,1
+53,flamingo,birds,12.0,1,1
+54,crocodile,reptiles_amphibians,1.0,1,1
+56,alligator,"reptiles_amphibians, water_animals",0.5,0,2

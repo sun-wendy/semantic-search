@@ -2,7 +2,7 @@ import pandas as pd
 import argparse
 
 
-def calculate_irt(csv_file_path):
+def get_irt(csv_file_path):
     df = pd.read_csv(csv_file_path)
     if 'step' not in df.columns or 'word' not in df.columns:
         raise ValueError("The CSV file must contain 'step' & 'word' columns.")
@@ -35,7 +35,7 @@ def calculate_irt(csv_file_path):
     return df
 
 
-def add_associative_patch_switch(csv_file_path):
+def get_patch_switch(csv_file_path):
     df = pd.read_csv(csv_file_path)
     if 'categories' not in df.columns or 'word' not in df.columns:
         raise ValueError("The CSV file must contain 'categories' & 'word' columns")
@@ -54,7 +54,7 @@ def add_associative_patch_switch(csv_file_path):
 
         if last_relevant_index == -1:
             # For the first relevant row, no previous row to compare
-            associative_patch_switch.append(0)
+            associative_patch_switch.append(int(0))
         else:
             last_categories = df.at[last_relevant_index, 'categories']
             current_categories_set = set(str(categories).split(', '))
@@ -62,9 +62,9 @@ def add_associative_patch_switch(csv_file_path):
 
             # Check if there is no intersection between the sets
             if current_categories_set.isdisjoint(last_categories_set):
-                associative_patch_switch.append(1)
+                associative_patch_switch.append(int(1))
             else:
-                associative_patch_switch.append(0)
+                associative_patch_switch.append(int(0))
 
         last_relevant_index = index
 
@@ -73,19 +73,15 @@ def add_associative_patch_switch(csv_file_path):
     return df
 
 
-def add_patch_entry_position(csv_file_path):
-    # Read the CSV file into a DataFrame
+def get_patch_entry_position(csv_file_path):
     df = pd.read_csv(csv_file_path)
-
     if 'associative_patch_switch' not in df.columns or 'word' not in df.columns:
         raise ValueError("The CSV file must contain 'associative_patch_switch' and 'Word' columns.")
 
-    # Initialize variables
     patch_entry_position = []
-    position = None  # Start with None
+    position = None
 
-    # Iterate through the rows of the DataFrame
-    for index, row in df.iterrows():
+    for _, row in df.iterrows():
         word = row['word']
         switch = row['associative_patch_switch']
 
@@ -101,15 +97,9 @@ def add_patch_entry_position(csv_file_path):
 
         patch_entry_position.append(position)
 
-    # Add the patch_entry_position column to the DataFrame
     df['patch_entry_position'] = patch_entry_position
-
     df.to_csv(csv_file_path, index=False)
-
     return df
-
-
-
 
 
 if __name__ == "__main__":
@@ -117,6 +107,6 @@ if __name__ == "__main__":
     parser.add_argument('--random_walk_file', type=str, required=True)
     args = parser.parse_args()
 
-    # updated_df = calculate_irt(args.random_walk_file)
-    # updated_df = add_associative_patch_switch(args.random_walk_file)
-    updated_df = add_patch_entry_position(args.random_walk_file)
+    updated_df = get_irt(args.random_walk_file)
+    updated_df = get_patch_switch(args.random_walk_file)
+    updated_df = get_patch_entry_position(args.random_walk_file)

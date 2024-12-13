@@ -1,79 +1,76 @@
-step,word,category,irt
-1,lion,,0
-2,tiger,,0.1
-3,elephant,,0.1
-4,zebra,,0.1
-5,whale,,0.1
-6,giraffe,,0.1
-7,flamingo,,0.1
-8,kangaroo,,0.1
-9,leopard,,1
-10,octopus,,0.5
-11,penguin,,1
-12,polar bear,,2
-13,ant,,1
-14,praying mantis,,0.5
-15,spider,,0.1
-16,scorpiaion,,0.1
-17,fire ant,,0.5
-18,dung battle,,1.5
-19,bettle,,1
-20,june beetle,,0.1
-21,earwig,,2
-22,mite,,2
-23,scorpion x2,,1
-24,centipede,,0.1
-25,milipede,,0.1
-26,spider x2,,1
-27,house fly,,1.5
-28,fruit fly,,1
-29,clownfish,,3
-30,sea anename,,1
-31,sea urchin,,0.1
-32,sand crab,,1
-33,crab,,0.1
-34,great pacific octopus,,0.5
-35,squid x2,,3
-36,snake,,7
-37,albino snake,,0.1
-38,python snake,,0.1
-39,balpython snake,,1
-40,viper,,0.5
-41,boa constrictor,,2
-42,tabby cat,,3
-43,russian gray cat,,1
-44,calico cat,,1.5
-45,black cat,,1
-46,orange cat,,0.5
-47,whtie cat,,1
-48,siamese cat,,0.5
-49,Maine Coon,,0.5
-50,abyssinian cat,,3
-51,himalayan cat,,0.5
-52,pomeranian,,6
-53,dalmation,,1
-54,greyhound,,2
-55,german shpard,,2.5
-56,golden retirber,,0.5
-57,labradoodle?,,0.1
-58,golden labradoodle retriever mix?,,0.5
-59,terrier,,2
-60,sphinx cat,,5
-61,caterpillar,,6
-62,butterfly,,0.5
-63,moth,,1
-64,ladybug,,2
-65,aphid,,0.1
-66,garra rufa,,5
-67,worm,,10
-68,slug,,1
-69,snail,,0.1
-70,termite,,4
-71,parrot,,3.5
-72,chicken,,2
-73,rooster,,0.1
-74,pig,,0.1
-75,cow,,0.1
-76,horse,,0.1
-77,sheep,,0.5
-78,goat,,0.1
+step,word,categories,irt,associative_patch_switch,patch_entry_position
+1,lion,"african_animals, feline",0.0,1,1
+2,tiger,"african_animals, feline",0.1,0,2
+3,elephant,african_animals,0.1,0,3
+4,zebra,african_animals,0.1,0,4
+5,whale,water_animals,0.1,1,1
+6,giraffe,african_animals,0.1,1,1
+7,flamingo,birds,0.1,1,1
+8,kangaroo,australian_animals,0.1,1,1
+9,leopard,"african_animals, feline",1.0,1,1
+10,octopus,water_animals,0.5,1,1
+11,penguin,"arctic_far_north_animals, birds, water_animals",1.0,0,2
+12,polar bear,arctic_far_north_animals,2.0,0,3
+13,ant,insects,1.0,1,1
+14,praying mantis,insects,0.5,0,2
+15,spider,farm_animals,0.1,1,1
+16,scorpion,insects,0.1,1,1
+17,fire ant,insects,0.5,0,2
+18,dung beetle,insects,1.5,0,3
+19,beetle,insects,1.0,0,4
+20,june beetle,insects,0.1,0,5
+21,earwig,insects,2.0,0,6
+22,mite,insects,2.0,0,7
+23,centipede,insects,0.1,0,8
+24,milipede,insects,0.1,0,9
+25,house fly,insects,1.5,0,10
+26,fruit fly,insects,1.0,0,11
+27,clownfish,fish,3.0,1,1
+28,sea anename,water_animals,1.0,1,1
+29,sea urchin,water_animals,0.1,0,2
+30,sand crab,water_animals,1.0,0,3
+31,crab,water_animals,0.1,0,4
+32,great pacific octopus,water_animals,0.5,0,5
+33,snake,"farm_animals, reptiles_amphibians",7.0,1,1
+34,albino snake,reptiles_amphibians,0.1,0,2
+35,python snake,reptiles_amphibians,0.1,0,3
+36,balpython snake,reptiles_amphibians,1.0,0,4
+37,viper,reptiles_amphibians,0.5,0,5
+38,boa constrictor,reptiles_amphibians,2.0,0,6
+39,tabby cat,feline,3.0,1,1
+40,russian gray cat,feline,1.0,0,2
+41,calico cat,feline,1.5,0,3
+42,black cat,feline,1.0,0,4
+43,orange cat,feline,0.5,0,5
+44,whtie cat,feline,1.0,0,6
+45,siamese cat,feline,0.5,0,7
+46,Maine Coon,feline,0.5,0,8
+47,abyssinian cat,feline,3.0,0,9
+48,himalayan cat,feline,0.5,0,10
+49,pomeranian,canine,6.0,1,1
+50,dalmation,canine,1.0,0,2
+51,greyhound,canine,2.0,0,3
+52,german shepard,canine,2.5,0,4
+53,golden retriever,"canine, pets",0.5,0,5
+54,labradoodle?,canine,0.1,0,6
+55,golden labradoodle retriever mix?,canine,0.5,0,7
+56,terrier,canine,2.0,0,8
+57,sphinx cat,feline,5.0,1,1
+58,caterpillar,insects,6.0,1,1
+59,butterfly,insects,0.5,0,2
+60,moth,insects,1.0,0,3
+61,ladybug,insects,2.0,0,4
+62,aphid,insects,0.1,0,5
+63,garra rufa,fish,5.0,1,1
+64,worm,insects,10.0,1,1
+65,slug,water_animals,1.0,1,1
+66,snail,water_animals,0.1,0,2
+67,termite,insects,4.0,1,1
+68,parrot,"birds, pets",3.5,1,1
+69,chicken,"birds, farm_animals",2.0,0,2
+70,rooster,farm_animals,0.1,0,3
+71,pig,farm_animals,0.1,0,4
+72,cow,"bovine, farm_animals",0.1,0,5
+73,horse,"beasts_of_burden, farm_animals",0.1,0,6
+74,sheep,farm_animals,0.5,0,7
+78,goat,farm_animals,0.1,0,8

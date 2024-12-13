@@ -1,63 +1,62 @@
-step,word,category,irt
-1,cat,,0
-2,dog,,1.5
-3,leopard,,1.5
-4,snow leopard,,0.5
-5,cheeta,,0.5
-6,jaguar,,0.3
-7,parrot,,1
-8,toucan,,0.5
-9,canary,,3
-10,bluejay,,1.5
-11,cardinal,,1
-12,sparrow,,1
-13,raven,,0.1
-14,vulture,,0.5
-15,crow,,1
-16,armadillo,,1
-17,rat,,2
-18,mouse,,0.5
-19,gerbil,,1
-20,hamster,,0.5
-21,marmoset,,0.5
-22,mantee,,0.5
-23,other monkeys,,1
-24,chimps,,3
-25,gorilla,,2
-25,lemurs,,2
-26,zebra,,0.5
-27,lions,,1
-28,kangaroos,,2
-29,mantee,,5.5
-30,beluga whale,,2
-31,grey whale,,0.5
-32,blue whale,,2.5
-33,orca,,2.5
-34,seal,,3
-35,polar bear,,0.5
-36,penguin,,0.5
-37,puffin,,0.5
-38,emperor penguin,,0.5
-39,squids,,9
-40,jellyfish,,2
-41,fish,,2
-42,minnows,,1
-43,giraffe,,24
-44,rred panda,,5
-45,panda,,0.5
-46,fox,,2.5
-47,cayote,,0.5
-48,cougar,,0.1
-49,wolf,,1
-50,Husky,,2
-51,mice,,N/A
-52,zebra fish,,24
-53,cricket,,2.5
-54,spider,,0.5
-55,roache,,0.5
-56,snake,,0.5
-57,mole rat,,1
-58,gopher,,5
-59,snail,,3.5
-60,duck,,1
-61,geese,,2
+step,word,categories,irt,associative_patch_switch,patch_entry_position
+1,cat,"feline, pets",0.0,1,1
+2,dog,"canine, pets",1.5,0,2
+3,leopard,"african_animals, feline",1.5,1,1
+4,snow leopard,feline,0.5,0,2
+5,cheeta,feline,0.5,0,3
+6,jaguar,feline,0.3,0,4
+7,parrot,"birds, pets",1.0,1,1
+8,toucan,birds,0.5,0,2
+9,canary,"birds, pets",3.0,0,3
+10,bluejay,birds,1.5,0,4
+11,cardinal,birds,1.0,0,5
+12,sparrow,birds,1.0,0,6
+13,raven,birds,0.1,0,7
+14,vulture,birds,0.5,0,8
+15,crow,birds,1.0,0,9
+16,armadillo,insectivores,1.0,1,1
+17,rat,rodents,2.0,1,1
+18,mouse,"birds, rodents",0.5,0,2
+19,gerbil,"pets, rodents",1.0,0,3
+20,hamster,"pets, rodents",0.5,0,4
+21,marmoset,primates,0.5,1,1
+22,mantee,water_animals,0.5,1,1
+23,other monkeys,primates,1.0,1,1
+24,chimps,primates,3.0,0,2
+25,gorilla,"african_animals, primates",2.0,0,3
+26,lemurs,primates,2.0,0,4
+27,zebra,african_animals,0.5,1,1
+28,lion,"african_animals, feline",1.0,0,2
+29,kangaroos,australian_animals,2.0,1,1
+30,beluga whale,water_animals,2.0,1,1
+31,grey whale,water_animals,0.5,0,2
+32,blue whale,water_animals,2.5,0,3
+33,orca,water_animals,2.5,0,4
+34,seal,"arctic_far_north_animals, water_animals",3.0,0,5
+35,polar bear,arctic_far_north_animals,0.5,0,6
+36,penguin,"arctic_far_north_animals, birds, water_animals",0.5,0,7
+37,puffin,birds,0.5,0,8
+38,emperor penguin,"arctic_far_north_animals, birds, water_animals",0.5,0,9
+39,squid,water_animals,9.0,0,10
+40,jellyfish,water_animals,2.0,0,11
+41,fish,"fish, water_animals",2.0,0,12
+42,minnow,fish,1.0,0,13
+43,giraffe,african_animals,24.0,1,1
+44,red panda,,5.0,1,1
+45,panda,,0.5,0,2
+46,fox,"animals_used_for_fur, canine, north_american_animals",2.5,1,1
+47,cayote,canine,0.5,0,2
+48,cougar,"feline, north_american_animals",0.1,1,1
+49,wolf,"canine, north_american_animals",1.0,0,2
+50,husky,canine,2.0,0,3
+51,mouse,rodents,,1,1
+52,zebra fish,fish,24.0,1,1
+53,cricket,insects,2.5,1,1
+54,spider,farm_animals,0.5,1,1
+55,cockroach,insects,0.5,1,1
+56,snake,"farm_animals, reptiles_amphibians",0.5,1,1
+57,mole rat,rodents,1.0,1,1
+58,gopher,rodents,5.0,0,2
+59,snail,water_animals,3.5,1,1
+60,duck,birds,1.0,1,1
+61,geese,,2.0,1,1

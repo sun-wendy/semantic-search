@@ -1,6 +1,6 @@
 #!/bin/bash
 
-DIRECTORY="results/random_walks_llm"
+DIRECTORY="results/random_walks_human"
 
 # Check if the provided directory exists
 if [ ! -d "$DIRECTORY" ]; then
