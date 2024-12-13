@@ -1,71 +1,71 @@
-Step,Word,Categories
-1,ray,water_animals
-2,whale,water_animals
-3,oyster,water_animals
-4,octopus,water_animals
-5,whale,water_animals
-6,hornet,insects
-7,flea,insects
-8,dove,birds
-9,beetle,insects
-10,owl,birds
-11,animal,
-12,parrot,"birds, pets"
-13,human,primates
-14,animal,
-15,doe,deers
-16,caterpillar,insects
-17,beetle,insects
-18,robin,birds
-19,sparrow,birds
-20,pigeon,birds
-21,ant,insects
-22,sparrow,birds
-23,tuna,fish
-24,kite,birds
-25,cardinal,birds
-26,raccoon,north_american_animals
-27,skunk,"north_american_animals, weasels"
-28,animal,
-29,buck,deers
-30,deer,"deers, north_american_animals"
-31,buck,deers
-32,cardinal,birds
-33,animal,
-34,insect,insects
-35,animal,
-36,serpent,reptiles_amphibians
-37,dinosaur,reptiles_amphibians
-38,cobra,"african_animals, reptiles_amphibians"
-39,dinosaur,reptiles_amphibians
-40,reptile,reptiles_amphibians
-41,dinosaur,reptiles_amphibians
-42,tortoise,reptiles_amphibians
-43,swallow,birds
-44,antelope,african_animals
-45,giraffe,african_animals
-46,tiger,"african_animals, feline"
-47,canary,"birds, pets"
-48,turkey,"birds, farm_animals"
-49,lamb,farm_animals
-50,panther,"african_animals, feline"
-51,antelope,african_animals
-52,quail,birds
-53,pike,fish
-54,trout,fish
-55,insect,insects
-56,barracuda,fish
-57,animal,
-58,buffalo,"african_animals, bovine"
-59,goat,farm_animals
-60,calf,"bovine, farm_animals"
-61,mussel,water_animals
-62,cobra,"african_animals, reptiles_amphibians"
-63,giraffe,african_animals
-64,zebra,african_animals
-65,anteater,insectivores
-66,antelope,african_animals
-67,giraffe,african_animals
-68,antelope,african_animals
-69,rail,
-70,quail,birds
+step,word,categories,irt,associative_patch_switch,patch_entry_position
+1,ray,water_animals,1.0,1.0,1.0
+2,whale,water_animals,1.0,0.0,2.0
+3,oyster,water_animals,1.0,0.0,3.0
+4,octopus,water_animals,1.0,0.0,4.0
+5,whale,water_animals,,0.0,5.0
+6,hornet,insects,2.0,1.0,1.0
+7,flea,insects,1.0,0.0,2.0
+8,dove,birds,1.0,1.0,1.0
+9,beetle,insects,1.0,1.0,1.0
+10,owl,birds,1.0,1.0,1.0
+11,animal,,,,
+12,parrot,"birds, pets",2.0,0.0,2.0
+13,human,primates,1.0,1.0,1.0
+14,animal,,,,
+15,doe,deers,2.0,1.0,1.0
+16,caterpillar,insects,1.0,1.0,1.0
+17,beetle,insects,,0.0,2.0
+18,robin,birds,2.0,1.0,1.0
+19,sparrow,birds,1.0,0.0,2.0
+20,pigeon,birds,1.0,0.0,3.0
+21,ant,insects,1.0,1.0,1.0
+22,sparrow,birds,,1.0,1.0
+23,tuna,fish,2.0,1.0,1.0
+24,kite,birds,1.0,1.0,1.0
+25,cardinal,birds,1.0,0.0,2.0
+26,raccoon,north_american_animals,1.0,1.0,1.0
+27,skunk,"north_american_animals, weasels",1.0,0.0,2.0
+28,animal,,,,
+29,buck,deers,2.0,1.0,1.0
+30,deer,"deers, north_american_animals",1.0,0.0,2.0
+31,buck,deers,,0.0,3.0
+32,cardinal,birds,,1.0,1.0
+33,animal,,,,
+34,insect,insects,4.0,1.0,1.0
+35,animal,,,,
+36,serpent,reptiles_amphibians,2.0,1.0,1.0
+37,dinosaur,reptiles_amphibians,1.0,0.0,2.0
+38,cobra,"african_animals, reptiles_amphibians",1.0,0.0,3.0
+39,dinosaur,reptiles_amphibians,,0.0,4.0
+40,reptile,reptiles_amphibians,2.0,0.0,5.0
+41,dinosaur,reptiles_amphibians,,0.0,6.0
+42,tortoise,reptiles_amphibians,2.0,0.0,7.0
+43,swallow,birds,1.0,1.0,1.0
+44,antelope,african_animals,1.0,1.0,1.0
+45,giraffe,african_animals,1.0,0.0,2.0
+46,tiger,"african_animals, feline",1.0,0.0,3.0
+47,canary,"birds, pets",1.0,1.0,1.0
+48,turkey,"birds, farm_animals",1.0,0.0,2.0
+49,lamb,farm_animals,1.0,0.0,3.0
+50,panther,"african_animals, feline",1.0,1.0,1.0
+51,antelope,african_animals,,0.0,2.0
+52,quail,birds,2.0,1.0,1.0
+53,pike,fish,1.0,1.0,1.0
+54,trout,fish,1.0,0.0,2.0
+55,insect,insects,,1.0,1.0
+56,barracuda,fish,2.0,1.0,1.0
+57,animal,,,,
+58,buffalo,"african_animals, bovine",2.0,1.0,1.0
+59,goat,farm_animals,1.0,1.0,1.0
+60,calf,"bovine, farm_animals",1.0,0.0,2.0
+61,mussel,water_animals,1.0,1.0,1.0
+62,cobra,"african_animals, reptiles_amphibians",,1.0,1.0
+63,giraffe,african_animals,,0.0,2.0
+64,zebra,african_animals,3.0,0.0,3.0
+65,anteater,insectivores,1.0,1.0,1.0
+66,antelope,african_animals,,1.0,1.0
+67,giraffe,african_animals,,0.0,2.0
+68,antelope,african_animals,,0.0,3.0
+69,rail,,4.0,1.0,1.0
+70,quail,birds,,1.0,1.0

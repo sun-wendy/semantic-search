@@ -1,0 +1,56 @@
+step,word,category,irt
+1,monkey,,0
+2,orangatan,,0.5
+3,bonobo,,0.5
+4,giraffe,,0.5
+5,elephant,,0.5
+6,zebra,,0.5
+7,dog,,0.5
+8,cat,,0.5
+9,mice,,1
+10,rat,,0.1
+11,bird,,4
+12,bluejay,,1.5
+13,flacon,,1
+14,eagle,,0.1
+15,hawk,,0.1
+16,fish,,3
+17,shark,,0.1
+18,whale,,0.5
+19,dolphin,,0.5
+20,narwhal,,0.5
+21,lion,,2.5
+22,cheetah,,0.5
+23,tiger,,0.5
+24,leopard,,1
+25,jaguar,,4
+26,horse,,1.5
+27,cow,,1
+28,pig,,0.1
+29,duck,,1
+30,goose,,0.5
+31,polar bear,,4.5
+32,penguin,,0.5
+33,brown bear,,1.5
+34,black bear,,0.1
+35,snake,,8
+36,iguana,,1.5
+37,lizard,,1
+38,chameleon,,2
+39,gazelle,,3
+40,donkey,,10
+41,mule,,0.5
+42,ox,,0.1
+43,panda,,3
+44,salmon,,7
+45,chimpanzee,,12.5
+46,rhinocerous,,7
+47,hippotomous,,1.5
+48,kangaroo,,9
+49,spider,,2
+50,beetle,,6
+51,flamingo,,8.5
+52,hyena,,7
+53,vulture,,3
+54,guinea pig,,11
+55,hamster,,2.5

@@ -1,0 +1,79 @@
+step,word,category,irt
+1,lion,,0
+2,tiger,,0.1
+3,elephant,,0.1
+4,zebra,,0.1
+5,whale,,0.1
+6,giraffe,,0.1
+7,flamingo,,0.1
+8,kangaroo,,0.1
+9,leopard,,1
+10,octopus,,0.5
+11,penguin,,1
+12,polar bear,,2
+13,ant,,1
+14,praying mantis,,0.5
+15,spider,,0.1
+16,scorpiaion,,0.1
+17,fire ant,,0.5
+18,dung battle,,1.5
+19,bettle,,1
+20,june beetle,,0.1
+21,earwig,,2
+22,mite,,2
+23,scorpion x2,,1
+24,centipede,,0.1
+25,milipede,,0.1
+26,spider x2,,1
+27,house fly,,1.5
+28,fruit fly,,1
+29,clownfish,,3
+30,sea anename,,1
+31,sea urchin,,0.1
+32,sand crab,,1
+33,crab,,0.1
+34,great pacific octopus,,0.5
+35,squid x2,,3
+36,snake,,7
+37,albino snake,,0.1
+38,python snake,,0.1
+39,balpython snake,,1
+40,viper,,0.5
+41,boa constrictor,,2
+42,tabby cat,,3
+43,russian gray cat,,1
+44,calico cat,,1.5
+45,black cat,,1
+46,orange cat,,0.5
+47,whtie cat,,1
+48,siamese cat,,0.5
+49,Maine Coon,,0.5
+50,abyssinian cat,,3
+51,himalayan cat,,0.5
+52,pomeranian,,6
+53,dalmation,,1
+54,greyhound,,2
+55,german shpard,,2.5
+56,golden retirber,,0.5
+57,labradoodle?,,0.1
+58,golden labradoodle retriever mix?,,0.5
+59,terrier,,2
+60,sphinx cat,,5
+61,caterpillar,,6
+62,butterfly,,0.5
+63,moth,,1
+64,ladybug,,2
+65,aphid,,0.1
+66,garra rufa,,5
+67,worm,,10
+68,slug,,1
+69,snail,,0.1
+70,termite,,4
+71,parrot,,3.5
+72,chicken,,2
+73,rooster,,0.1
+74,pig,,0.1
+75,cow,,0.1
+76,horse,,0.1
+77,sheep,,0.5
+78,goat,,0.1

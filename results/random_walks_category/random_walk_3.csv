@@ -1,71 +1,71 @@
-Step,Word,Categories
-1,squirrel,"north_american_animals, rodents"
-2,steer,bovine
-3,squirrel,"north_american_animals, rodents"
-4,rat,rodents
-5,swift,birds
-6,ant,insects
-7,hornet,insects
-8,animal,
-9,tick,insects
-10,mosquito,insects
-11,deer,"deers, north_american_animals"
-12,toad,"reptiles_amphibians, water_animals"
-13,reptile,reptiles_amphibians
-14,dinosaur,reptiles_amphibians
-15,serpent,reptiles_amphibians
-16,pigeon,birds
-17,hawk,birds
-18,quail,birds
-19,ewe,birds
-20,seagull,birds
-21,parrot,"birds, pets"
-22,canary,"birds, pets"
-23,turkey,"birds, farm_animals"
-24,panther,"african_animals, feline"
-25,lamb,farm_animals
-26,turkey,"birds, farm_animals"
-27,panther,"african_animals, feline"
-28,tiger,"african_animals, feline"
-29,wolf,"canine, north_american_animals"
-30,lamb,farm_animals
-31,turkey,"birds, farm_animals"
-32,tiger,"african_animals, feline"
-33,shrimp,fish
-34,crane,feline
-35,jack,fish
-36,bass,fish
-37,maggot,insects
-38,oyster,water_animals
-39,snail,water_animals
-40,reptile,reptiles_amphibians
-41,mussel,water_animals
-42,calf,"bovine, farm_animals"
-43,spider,farm_animals
-44,calf,"bovine, farm_animals"
-45,mussel,water_animals
-46,calf,"bovine, farm_animals"
-47,buffalo,"african_animals, bovine"
-48,goat,farm_animals
-49,buffalo,"african_animals, bovine"
-50,slug,water_animals
-51,buffalo,"african_animals, bovine"
-52,calf,"bovine, farm_animals"
-53,mussel,water_animals
-54,calf,"bovine, farm_animals"
-55,goat,farm_animals
-56,kid,farm_animals
-57,buffalo,"african_animals, bovine"
-58,calf,"bovine, farm_animals"
-59,spider,farm_animals
-60,calf,"bovine, farm_animals"
-61,mussel,water_animals
-62,reptile,reptiles_amphibians
-63,snail,water_animals
-64,octopus,water_animals
-65,ray,water_animals
-66,porpoise,water_animals
-67,oyster,water_animals
-68,octopus,water_animals
-69,snail,water_animals
-70,reptile,reptiles_amphibians
+step,word,categories,irt,associative_patch_switch,patch_entry_position
+1,squirrel,"north_american_animals, rodents",1.0,1.0,1.0
+2,steer,bovine,1.0,1.0,1.0
+3,squirrel,"north_american_animals, rodents",,1.0,1.0
+4,rat,rodents,2.0,0.0,2.0
+5,swift,birds,1.0,1.0,1.0
+6,ant,insects,1.0,1.0,1.0
+7,hornet,insects,1.0,0.0,2.0
+8,animal,,,,
+9,tick,insects,2.0,0.0,3.0
+10,mosquito,insects,1.0,0.0,4.0
+11,deer,"deers, north_american_animals",1.0,1.0,1.0
+12,toad,"reptiles_amphibians, water_animals",1.0,1.0,1.0
+13,reptile,reptiles_amphibians,1.0,0.0,2.0
+14,dinosaur,reptiles_amphibians,1.0,0.0,3.0
+15,serpent,reptiles_amphibians,1.0,0.0,4.0
+16,pigeon,birds,1.0,1.0,1.0
+17,hawk,birds,1.0,0.0,2.0
+18,quail,birds,1.0,0.0,3.0
+19,ewe,birds,1.0,0.0,4.0
+20,seagull,birds,1.0,0.0,5.0
+21,parrot,"birds, pets",1.0,0.0,6.0
+22,canary,"birds, pets",1.0,0.0,7.0
+23,turkey,"birds, farm_animals",1.0,0.0,8.0
+24,panther,"african_animals, feline",1.0,1.0,1.0
+25,lamb,farm_animals,1.0,1.0,1.0
+26,turkey,"birds, farm_animals",,0.0,2.0
+27,panther,"african_animals, feline",,1.0,1.0
+28,tiger,"african_animals, feline",3.0,0.0,2.0
+29,wolf,"canine, north_american_animals",1.0,1.0,1.0
+30,lamb,farm_animals,,1.0,1.0
+31,turkey,"birds, farm_animals",,0.0,2.0
+32,tiger,"african_animals, feline",,1.0,1.0
+33,shrimp,fish,4.0,1.0,1.0
+34,crane,feline,1.0,1.0,1.0
+35,jack,fish,1.0,1.0,1.0
+36,bass,fish,1.0,0.0,2.0
+37,maggot,insects,1.0,1.0,1.0
+38,oyster,water_animals,1.0,1.0,1.0
+39,snail,water_animals,1.0,0.0,2.0
+40,reptile,reptiles_amphibians,,1.0,1.0
+41,mussel,water_animals,2.0,1.0,1.0
+42,calf,"bovine, farm_animals",1.0,1.0,1.0
+43,spider,farm_animals,1.0,0.0,2.0
+44,calf,"bovine, farm_animals",,0.0,3.0
+45,mussel,water_animals,,1.0,1.0
+46,calf,"bovine, farm_animals",,1.0,1.0
+47,buffalo,"african_animals, bovine",4.0,0.0,2.0
+48,goat,farm_animals,1.0,1.0,1.0
+49,buffalo,"african_animals, bovine",,1.0,1.0
+50,slug,water_animals,2.0,1.0,1.0
+51,buffalo,"african_animals, bovine",,1.0,1.0
+52,calf,"bovine, farm_animals",,0.0,2.0
+53,mussel,water_animals,,1.0,1.0
+54,calf,"bovine, farm_animals",,1.0,1.0
+55,goat,farm_animals,,0.0,2.0
+56,kid,farm_animals,6.0,0.0,3.0
+57,buffalo,"african_animals, bovine",,1.0,1.0
+58,calf,"bovine, farm_animals",,0.0,2.0
+59,spider,farm_animals,,0.0,3.0
+60,calf,"bovine, farm_animals",,0.0,4.0
+61,mussel,water_animals,,1.0,1.0
+62,reptile,reptiles_amphibians,,1.0,1.0
+63,snail,water_animals,,1.0,1.0
+64,octopus,water_animals,8.0,0.0,2.0
+65,ray,water_animals,1.0,0.0,3.0
+66,porpoise,water_animals,1.0,0.0,4.0
+67,oyster,water_animals,,0.0,5.0
+68,octopus,water_animals,,0.0,6.0
+69,snail,water_animals,,0.0,7.0
+70,reptile,reptiles_amphibians,,1.0,1.0

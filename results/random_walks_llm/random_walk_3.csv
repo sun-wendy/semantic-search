@@ -1,71 +1,71 @@
-Step,Word,Categories
-1,ass,"beasts_of_burden, farm_animals"
-2,mare,"beasts_of_burden, farm_animals"
-3,buffalo,"african_animals, bovine"
-4,cow,"bovine, farm_animals"
-5,mare,"beasts_of_burden, farm_animals"
-6,ass,"beasts_of_burden, farm_animals"
-7,buffalo,"african_animals, bovine"
-8,ass,"beasts_of_burden, farm_animals"
-9,bison,"bovine, north_american_animals"
-10,ewe,birds
-11,elk,"deers, north_american_animals"
-12,reindeer,"arctic_far_north_animals, deers"
-13,steer,bovine
-14,ass,"beasts_of_burden, farm_animals"
-15,steer,bovine
-16,elk,"deers, north_american_animals"
-17,reindeer,"arctic_far_north_animals, deers"
-18,elk,"deers, north_american_animals"
-19,sheep,farm_animals
-20,cow,"bovine, farm_animals"
-21,bison,"bovine, north_american_animals"
-22,calf,"bovine, farm_animals"
-23,animal,
-24,bird,birds
-25,sparrow,birds
-26,dove,birds
-27,cardinal,birds
-28,robin,birds
-29,quail,birds
-30,mole,"insectivores, rodents"
-31,rodent,rodents
-32,mole,"insectivores, rodents"
-33,rodent,rodents
-34,animal,
-35,tiger,"african_animals, feline"
-36,animal,
-37,sparrow,birds
-38,grasshopper,insects
-39,beetle,insects
-40,caterpillar,insects
-41,maggot,insects
-42,caterpillar,insects
-43,beetle,insects
-44,grasshopper,insects
-45,rabbit,"animals_used_for_fur, north_american_animals, pets, rabbits"
-46,bunny,rabbits
-47,rabbit,"animals_used_for_fur, north_american_animals, pets, rabbits"
-48,frog,"reptiles_amphibians, water_animals"
-49,toad,"reptiles_amphibians, water_animals"
-50,frog,"reptiles_amphibians, water_animals"
-51,toad,"reptiles_amphibians, water_animals"
-52,crocodile,reptiles_amphibians
-53,pike,fish
-54,tuna,fish
-55,smelt,fish
-56,tuna,fish
-57,porpoise,water_animals
-58,trout,fish
-59,animal,
-60,mare,"beasts_of_burden, farm_animals"
-61,antelope,african_animals
-62,animal,
-63,chipmunk,"north_american_animals, rodents"
-64,animal,
-65,whale,water_animals
-66,dolphin,"insects, water_animals"
-67,porpoise,water_animals
-68,trout,fish
-69,pelican,birds
-70,animal,
+step,word,categories,irt,associative_patch_switch,patch_entry_position
+1,ass,"beasts_of_burden, farm_animals",1.0,1.0,1.0
+2,mare,"beasts_of_burden, farm_animals",1.0,0.0,2.0
+3,buffalo,"african_animals, bovine",1.0,1.0,1.0
+4,cow,"bovine, farm_animals",1.0,0.0,2.0
+5,mare,"beasts_of_burden, farm_animals",,0.0,3.0
+6,ass,"beasts_of_burden, farm_animals",,0.0,4.0
+7,buffalo,"african_animals, bovine",,1.0,1.0
+8,ass,"beasts_of_burden, farm_animals",,1.0,1.0
+9,bison,"bovine, north_american_animals",5.0,1.0,1.0
+10,ewe,birds,1.0,1.0,1.0
+11,elk,"deers, north_american_animals",1.0,1.0,1.0
+12,reindeer,"arctic_far_north_animals, deers",1.0,0.0,2.0
+13,steer,bovine,1.0,1.0,1.0
+14,ass,"beasts_of_burden, farm_animals",,1.0,1.0
+15,steer,bovine,,1.0,1.0
+16,elk,"deers, north_american_animals",,1.0,1.0
+17,reindeer,"arctic_far_north_animals, deers",,0.0,2.0
+18,elk,"deers, north_american_animals",,0.0,3.0
+19,sheep,farm_animals,6.0,1.0,1.0
+20,cow,"bovine, farm_animals",,0.0,2.0
+21,bison,"bovine, north_american_animals",,0.0,3.0
+22,calf,"bovine, farm_animals",3.0,0.0,4.0
+23,animal,,,,
+24,bird,birds,2.0,1.0,1.0
+25,sparrow,birds,1.0,0.0,2.0
+26,dove,birds,1.0,0.0,3.0
+27,cardinal,birds,1.0,0.0,4.0
+28,robin,birds,1.0,0.0,5.0
+29,quail,birds,1.0,0.0,6.0
+30,mole,"insectivores, rodents",1.0,1.0,1.0
+31,rodent,rodents,1.0,0.0,2.0
+32,mole,"insectivores, rodents",,0.0,3.0
+33,rodent,rodents,,0.0,4.0
+34,animal,,,,
+35,tiger,"african_animals, feline",4.0,1.0,1.0
+36,animal,,,,
+37,sparrow,birds,,1.0,1.0
+38,grasshopper,insects,3.0,1.0,1.0
+39,beetle,insects,1.0,0.0,2.0
+40,caterpillar,insects,1.0,0.0,3.0
+41,maggot,insects,1.0,0.0,4.0
+42,caterpillar,insects,,0.0,5.0
+43,beetle,insects,,0.0,6.0
+44,grasshopper,insects,,0.0,7.0
+45,rabbit,"animals_used_for_fur, north_american_animals, pets, rabbits",4.0,1.0,1.0
+46,bunny,rabbits,1.0,0.0,2.0
+47,rabbit,"animals_used_for_fur, north_american_animals, pets, rabbits",,0.0,3.0
+48,frog,"reptiles_amphibians, water_animals",2.0,1.0,1.0
+49,toad,"reptiles_amphibians, water_animals",1.0,0.0,2.0
+50,frog,"reptiles_amphibians, water_animals",,0.0,3.0
+51,toad,"reptiles_amphibians, water_animals",,0.0,4.0
+52,crocodile,reptiles_amphibians,3.0,0.0,5.0
+53,pike,fish,1.0,1.0,1.0
+54,tuna,fish,1.0,0.0,2.0
+55,smelt,fish,1.0,0.0,3.0
+56,tuna,fish,,0.0,4.0
+57,porpoise,water_animals,2.0,1.0,1.0
+58,trout,fish,1.0,1.0,1.0
+59,animal,,,,
+60,mare,"beasts_of_burden, farm_animals",,1.0,1.0
+61,antelope,african_animals,3.0,1.0,1.0
+62,animal,,,,
+63,chipmunk,"north_american_animals, rodents",2.0,1.0,1.0
+64,animal,,,,
+65,whale,water_animals,2.0,1.0,1.0
+66,dolphin,"insects, water_animals",1.0,0.0,2.0
+67,porpoise,water_animals,,0.0,3.0
+68,trout,fish,,1.0,1.0
+69,pelican,birds,3.0,1.0,1.0
+70,animal,,,,

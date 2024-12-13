@@ -1,0 +1,57 @@
+step,word,category,irt
+1,bear,,0
+2,lion,,0.5
+3,eagle,,0.5
+4,bird,,0.5
+5,fish,,0.5
+6,shark,,0.5
+7,whale,,0.5
+8,dolphin,,0.5
+9,dog,,6.5
+10,cat,,0.5
+11,rooster,,1
+12,chicken,,0.1
+13,cow,,0.5
+14,bull,,0.5
+15,horse,,2
+16,pony,,0.5
+17,elephant,,1.5
+18,cheetah,,1.5
+19,puma,,0.5
+20,wildabeast,,2
+21,ostrich,,1
+22,penguin,,2.5
+23,emperor penguin,,6
+24,caterpillar,,9
+25,spider,,0.5
+26,bats,,0.5
+27,pigs,,2
+28,sheep,,2
+29,donkey,,2
+30,polar bear,,3
+31,salmon,,2
+32,tuna,,0.5
+33,cod,,0.5
+34,mountain lion,,1.5
+35,goat,,1
+36,mountain goat,,0.5
+37,chihwawa,,1.5
+38,mice,,4.5
+39,rats,,1.5
+40,hen,,4
+41,chicken,,1.5
+42,bald eagle,,9.5
+43,colebrian,,4
+44,capybara,,0.5
+45,centipede,,11.5
+46,millpede,,0.5
+47,lionfish,,2.5
+48,ammonite,,4.5
+49,seagull,,4.5
+50,peacock,,4.5
+51,turkey,,0.5
+52,pheasants,,1.5
+53,bears,,17
+54,"flamingos ",,12
+55,crocadile,,1
+56,alligator,,0.5

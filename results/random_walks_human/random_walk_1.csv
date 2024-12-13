@@ -1,0 +1,63 @@
+step,word,category,irt
+1,cat,,0
+2,dog,,1.5
+3,leopard,,1.5
+4,snow leopard,,0.5
+5,cheeta,,0.5
+6,jaguar,,0.3
+7,parrot,,1
+8,toucan,,0.5
+9,canary,,3
+10,bluejay,,1.5
+11,cardinal,,1
+12,sparrow,,1
+13,raven,,0.1
+14,vulture,,0.5
+15,crow,,1
+16,armadillo,,1
+17,rat,,2
+18,mouse,,0.5
+19,gerbil,,1
+20,hamster,,0.5
+21,marmoset,,0.5
+22,mantee,,0.5
+23,other monkeys,,1
+24,chimps,,3
+25,gorilla,,2
+25,lemurs,,2
+26,zebra,,0.5
+27,lions,,1
+28,kangaroos,,2
+29,mantee,,5.5
+30,beluga whale,,2
+31,grey whale,,0.5
+32,blue whale,,2.5
+33,orca,,2.5
+34,seal,,3
+35,polar bear,,0.5
+36,penguin,,0.5
+37,puffin,,0.5
+38,emperor penguin,,0.5
+39,squids,,9
+40,jellyfish,,2
+41,fish,,2
+42,minnows,,1
+43,giraffe,,24
+44,rred panda,,5
+45,panda,,0.5
+46,fox,,2.5
+47,cayote,,0.5
+48,cougar,,0.1
+49,wolf,,1
+50,Husky,,2
+51,mice,,N/A
+52,zebra fish,,24
+53,cricket,,2.5
+54,spider,,0.5
+55,roache,,0.5
+56,snake,,0.5
+57,mole rat,,1
+58,gopher,,5
+59,snail,,3.5
+60,duck,,1
+61,geese,,2

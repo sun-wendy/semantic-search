@@ -1,71 +1,71 @@
-Step,Word,Categories
-1,dove,birds
-2,bird,birds
-3,robin,birds
-4,animal,
-5,anteater,insectivores
-6,aardvark,"african_animals, insectivores"
-7,anteater,insectivores
-8,aardvark,"african_animals, insectivores"
-9,animal,
-10,bee,insects
-11,grasshopper,insects
-12,animal,
-13,elephant,african_animals
-14,animal,
-15,bunny,rabbits
-16,lamb,farm_animals
-17,otter,"water_animals, weasels"
-18,lamb,farm_animals
-19,animal,
-20,raccoon,north_american_animals
-21,kiwi,"australian_animals, birds"
-22,raccoon,north_american_animals
-23,kiwi,"australian_animals, birds"
-24,raccoon,north_american_animals
-25,kiwi,"australian_animals, birds"
-26,ant,insects
-27,beetle,insects
-28,ant,insects
-29,robin,birds
-30,cardinal,birds
-31,bluejay,birds
-32,robin,birds
-33,ant,insects
-34,grasshopper,insects
-35,animal,
-36,butterfly,insects
-37,caterpillar,insects
-38,giraffe,african_animals
-39,caterpillar,insects
-40,animal,
-41,pike,fish
-42,tuna,fish
-43,porpoise,water_animals
-44,dolphin,"insects, water_animals"
-45,whale,water_animals
-46,dolphin,"insects, water_animals"
-47,whale,water_animals
-48,animal,
-49,pike,fish
-50,swan,birds
-51,pike,fish
-52,crocodile,reptiles_amphibians
-53,cougar,"feline, north_american_animals"
-54,leopard,"african_animals, feline"
-55,tiger,"african_animals, feline"
-56,animal,
-57,mule,"beasts_of_burden, farm_animals"
-58,animal,
-59,whale,water_animals
-60,dolphin,"insects, water_animals"
-61,porpoise,water_animals
-62,trout,fish
-63,porpoise,water_animals
-64,trout,fish
-65,animal,
-66,zebra,african_animals
-67,steer,bovine
-68,ass,"beasts_of_burden, farm_animals"
-69,buffalo,"african_animals, bovine"
-70,sheep,farm_animals
+step,word,categories,irt,associative_patch_switch,patch_entry_position
+1,dove,birds,1.0,1.0,1.0
+2,bird,birds,1.0,0.0,2.0
+3,robin,birds,1.0,0.0,3.0
+4,animal,,,,
+5,anteater,insectivores,2.0,1.0,1.0
+6,aardvark,"african_animals, insectivores",1.0,0.0,2.0
+7,anteater,insectivores,,0.0,3.0
+8,aardvark,"african_animals, insectivores",,0.0,4.0
+9,animal,,,,
+10,bee,insects,4.0,1.0,1.0
+11,grasshopper,insects,1.0,0.0,2.0
+12,animal,,,,
+13,elephant,african_animals,2.0,1.0,1.0
+14,animal,,,,
+15,bunny,rabbits,2.0,1.0,1.0
+16,lamb,farm_animals,1.0,1.0,1.0
+17,otter,"water_animals, weasels",1.0,1.0,1.0
+18,lamb,farm_animals,,1.0,1.0
+19,animal,,,,
+20,raccoon,north_american_animals,3.0,1.0,1.0
+21,kiwi,"australian_animals, birds",1.0,1.0,1.0
+22,raccoon,north_american_animals,,1.0,1.0
+23,kiwi,"australian_animals, birds",,1.0,1.0
+24,raccoon,north_american_animals,,1.0,1.0
+25,kiwi,"australian_animals, birds",,1.0,1.0
+26,ant,insects,5.0,1.0,1.0
+27,beetle,insects,1.0,0.0,2.0
+28,ant,insects,,0.0,3.0
+29,robin,birds,,1.0,1.0
+30,cardinal,birds,3.0,0.0,2.0
+31,bluejay,birds,1.0,0.0,3.0
+32,robin,birds,,0.0,4.0
+33,ant,insects,,1.0,1.0
+34,grasshopper,insects,,0.0,2.0
+35,animal,,,,
+36,butterfly,insects,5.0,0.0,3.0
+37,caterpillar,insects,1.0,0.0,4.0
+38,giraffe,african_animals,1.0,1.0,1.0
+39,caterpillar,insects,,1.0,1.0
+40,animal,,,,
+41,pike,fish,3.0,1.0,1.0
+42,tuna,fish,1.0,0.0,2.0
+43,porpoise,water_animals,1.0,1.0,1.0
+44,dolphin,"insects, water_animals",1.0,0.0,2.0
+45,whale,water_animals,1.0,0.0,3.0
+46,dolphin,"insects, water_animals",,0.0,4.0
+47,whale,water_animals,,0.0,5.0
+48,animal,,,,
+49,pike,fish,,1.0,1.0
+50,swan,birds,5.0,1.0,1.0
+51,pike,fish,,1.0,1.0
+52,crocodile,reptiles_amphibians,2.0,1.0,1.0
+53,cougar,"feline, north_american_animals",1.0,1.0,1.0
+54,leopard,"african_animals, feline",1.0,0.0,2.0
+55,tiger,"african_animals, feline",1.0,0.0,3.0
+56,animal,,,,
+57,mule,"beasts_of_burden, farm_animals",2.0,1.0,1.0
+58,animal,,,,
+59,whale,water_animals,,1.0,1.0
+60,dolphin,"insects, water_animals",,0.0,2.0
+61,porpoise,water_animals,,0.0,3.0
+62,trout,fish,5.0,1.0,1.0
+63,porpoise,water_animals,,1.0,1.0
+64,trout,fish,,1.0,1.0
+65,animal,,,,
+66,zebra,african_animals,4.0,1.0,1.0
+67,steer,bovine,1.0,1.0,1.0
+68,ass,"beasts_of_burden, farm_animals",1.0,1.0,1.0
+69,buffalo,"african_animals, bovine",1.0,1.0,1.0
+70,sheep,farm_animals,1.0,1.0,1.0

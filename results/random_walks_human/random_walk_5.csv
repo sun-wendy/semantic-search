@@ -1,0 +1,50 @@
+step,word,category,irt
+1,dog,,0
+2,cat,,0.1
+3,bird,,0.5
+4,lizard,,1
+5,alligator,,4
+6,crocadile,,1
+7,parrot,,1.5
+8,chimpanzee,,2
+9,crane,,2.5
+10,panda,,1
+11,polar bear,,1
+12,black bear,,0.1
+13,brown bear,,0.5
+14,penguin,,2.5
+15,deer,,4.5
+16,capybara,,1
+17,lion,,3.5
+18,tiger,,1
+19,hyena,,1.5
+20,pig,,3
+21,cow,,1
+22,horse,,0.1
+23,squirrel,,1.5
+24,bat,,0.5
+25,rat,,0.5
+26,mouse,,0.1
+27,cricket,,3.5
+28,"butterfly ",,1
+29,fruit fly,,1
+30,stink bug,,1
+31,stickbug,,1.5
+32,snake,,6
+33,sloth,,4.5
+34,monkey,,1
+35,gorilla,,0.5
+36,human,,9
+37,peacock,,4.5
+38,rooster,,4
+39,sheep,,11.5
+40,lamb,,1
+41,donkey,,1
+42,giraffe,,42
+43,rhinocerous,,2
+44,hippototomous,,1
+45,frogs,,3
+46,toads,,1.5
+47,chameleon,,6.5
+48,turkeys,,11.5
+49,leopards,,7.5
