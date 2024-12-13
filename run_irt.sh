@@ -12,7 +12,7 @@ fi
 for file in "$DIRECTORY"/*.csv; do
     if [ -f "$file" ]; then
         echo "Processing $file..."
-        python irt_analysis.py --random_walk_file "$file"
+        python calculate_irt.py --random_walk_file "$file"
     else
         echo "No CSV files found in $DIRECTORY"
     fi
