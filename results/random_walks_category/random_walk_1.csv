@@ -1,71 +1,71 @@
-Step,Word,Categories
-1,buck,"animal, deers"
-2,stag,"animal, deers"
-3,buck,"animal, deers"
-4,doe,"animal, deers"
-5,buck,"animal, deers"
-6,animal,animal
-7,cat,"DOMESTIC, FAMILY, animal, feline, pets"
-8,animal,animal
-9,dog,"DOMESTIC, FAMILY, animal, canine, pets"
-10,animal,animal
-11,fawn,"animal, deers"
-12,buck,"animal, deers"
-13,fawn,"animal, deers"
-14,doe,"animal, deers"
-15,stag,"animal, deers"
-16,buck,"animal, deers"
-17,stag,"animal, deers"
-18,fawn,"animal, deers"
-19,stag,"animal, deers"
-20,doe,"animal, deers"
-21,animal,animal
-22,bison,"FAMILY, REGION, animal, bovine, north_american_animals"
-23,animal,animal
-24,mink,"animal, animals_used_for_fur, weasels"
-25,animal,animal
-26,dolphin,"animal, insects, water_animals"
-27,clam,"animal, water_animals"
-28,crab,"animal, water_animals"
-29,turtle,"animal, reptiles_amphibians, water_animals"
-30,lobster,"animal, water_animals"
-31,shark,"animal, fish, water_animals"
-32,octopus,"animal, water_animals"
-33,whale,"animal, water_animals"
-34,clam,"animal, water_animals"
-35,shark,"animal, fish, water_animals"
-36,snail,"animal, water_animals"
-37,clam,"animal, water_animals"
-38,snail,"animal, water_animals"
-39,oyster,"animal, water_animals"
-40,squid,"animal, water_animals"
-41,animal,animal
-42,otter,"animal, water_animals, weasels"
-43,whale,"animal, water_animals"
-44,alligator,"animal, reptiles_amphibians, water_animals"
-45,serpent,"animal, reptiles_amphibians"
-46,crocodile,"animal, reptiles_amphibians"
-47,tortoise,"animal, reptiles_amphibians"
-48,dragon,"animal, reptiles_amphibians"
-49,animal,animal
-50,bee,"animal, insects"
-51,hornet,"animal, insects"
-52,caterpillar,"animal, insects"
-53,maggot,"animal, insects"
-54,bug,"animal, insects"
-55,ant,"animal, insects"
-56,bee,"animal, insects"
-57,maggot,"animal, insects"
-58,cricket,"animal, insects"
-59,fly,"animal, insects"
-60,wasp,"animal, insects"
-61,beetle,"animal, insects"
-62,bee,"animal, insects"
-63,fly,"animal, insects"
-64,mosquito,"animal, insects"
-65,dolphin,"animal, insects, water_animals"
-66,ant,"animal, insects"
-67,wasp,"animal, insects"
-68,moth,"animal, insects"
-69,hornet,"animal, insects"
-70,dolphin,"animal, insects, water_animals"
+step,word,categories,irt,associative_patch_switch,patch_entry_position
+1,cougar,"feline, north_american_animals",1.0,1.0,1.0
+2,leopard,"african_animals, feline",1.0,0.0,2.0
+3,wolf,"canine, north_american_animals",1.0,1.0,1.0
+4,cub,north_american_animals,1.0,0.0,2.0
+5,wolf,"canine, north_american_animals",,0.0,3.0
+6,bull,feline,2.0,1.0,1.0
+7,wolf,"canine, north_american_animals",,1.0,1.0
+8,tiger,"african_animals, feline",2.0,1.0,1.0
+9,porpoise,water_animals,1.0,1.0,1.0
+10,oyster,water_animals,1.0,0.0,2.0
+11,animal,,,,
+12,frog,"reptiles_amphibians, water_animals",2.0,0.0,3.0
+13,reptile,reptiles_amphibians,1.0,0.0,4.0
+14,mussel,water_animals,1.0,1.0,1.0
+15,reptile,reptiles_amphibians,,1.0,1.0
+16,mussel,water_animals,,1.0,1.0
+17,calf,"bovine, farm_animals",3.0,1.0,1.0
+18,goat,farm_animals,1.0,0.0,2.0
+19,calf,"bovine, farm_animals",,0.0,3.0
+20,buffalo,"african_animals, bovine",2.0,0.0,4.0
+21,calf,"bovine, farm_animals",,0.0,5.0
+22,spider,farm_animals,2.0,0.0,6.0
+23,calf,"bovine, farm_animals",,0.0,7.0
+24,mussel,water_animals,,1.0,1.0
+25,calf,"bovine, farm_animals",,1.0,1.0
+26,buffalo,"african_animals, bovine",,0.0,2.0
+27,calf,"bovine, farm_animals",,0.0,3.0
+28,goat,farm_animals,,0.0,4.0
+29,kid,farm_animals,7.0,0.0,5.0
+30,buffalo,"african_animals, bovine",,1.0,1.0
+31,goat,farm_animals,,1.0,1.0
+32,buffalo,"african_animals, bovine",,1.0,1.0
+33,calf,"bovine, farm_animals",,0.0,2.0
+34,buffalo,"african_animals, bovine",,0.0,3.0
+35,calf,"bovine, farm_animals",,0.0,4.0
+36,goat,farm_animals,,0.0,5.0
+37,kid,farm_animals,,0.0,6.0
+38,buffalo,"african_animals, bovine",,1.0,1.0
+39,animal,,,,
+40,crow,birds,11.0,1.0,1.0
+41,flea,insects,1.0,1.0,1.0
+42,insect,insects,1.0,0.0,2.0
+43,barracuda,fish,1.0,1.0,1.0
+44,insect,insects,,1.0,1.0
+45,flea,insects,,0.0,2.0
+46,animal,,,,
+47,bison,"bovine, north_american_animals",4.0,1.0,1.0
+48,gorilla,"african_animals, primates",1.0,1.0,1.0
+49,pelican,birds,1.0,1.0,1.0
+50,antelope,african_animals,1.0,1.0,1.0
+51,turkey,"birds, farm_animals",1.0,1.0,1.0
+52,tiger,"african_animals, feline",,1.0,1.0
+53,shrimp,fish,2.0,1.0,1.0
+54,tiger,"african_animals, feline",,1.0,1.0
+55,camel,"african_animals, beasts_of_burden",2.0,0.0,2.0
+56,tiger,"african_animals, feline",,0.0,3.0
+57,panther,"african_animals, feline",2.0,0.0,4.0
+58,canary,"birds, pets",1.0,1.0,1.0
+59,antelope,african_animals,,1.0,1.0
+60,robin,birds,2.0,1.0,1.0
+61,rail,,1.0,1.0,1.0
+62,beetle,insects,1.0,1.0,1.0
+63,human,primates,1.0,1.0,1.0
+64,flea,insects,,1.0,1.0
+65,hornet,insects,2.0,0.0,2.0
+66,ant,insects,1.0,0.0,3.0
+67,animal,,,,
+68,cougar,"feline, north_american_animals",,1.0,1.0
+69,leopard,"african_animals, feline",,0.0,2.0
+70,cougar,"feline, north_american_animals",,0.0,3.0

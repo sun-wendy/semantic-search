@@ -1,71 +1,71 @@
-Step,Word,Categories
-1,pony,"DOMESTIC, animal, beasts_of_burden, farm_animals"
-2,donkey,"DOMESTIC, animal, beasts_of_burden, farm_animals"
-3,sheep,"DOMESTIC, animal, farm_animals"
-4,spider,"DOMESTIC, animal, farm_animals"
-5,sheep,"DOMESTIC, animal, farm_animals"
-6,snake,"DOMESTIC, animal, farm_animals, reptiles_amphibians"
-7,rooster,"DOMESTIC, animal, farm_animals"
-8,sheep,"DOMESTIC, animal, farm_animals"
-9,spider,"DOMESTIC, animal, farm_animals"
-10,mule,"DOMESTIC, animal, beasts_of_burden, farm_animals"
-11,ass,"DOMESTIC, animal, beasts_of_burden, farm_animals"
-12,pig,"DOMESTIC, animal, farm_animals"
-13,ass,"DOMESTIC, animal, beasts_of_burden, farm_animals"
-14,spider,"DOMESTIC, animal, farm_animals"
-15,hog,"DOMESTIC, animal, farm_animals"
-16,sheep,"DOMESTIC, animal, farm_animals"
-17,chick,"DOMESTIC, animal, farm_animals"
-18,donkey,"DOMESTIC, animal, beasts_of_burden, farm_animals"
-19,pig,"DOMESTIC, animal, farm_animals"
-20,kid,"DOMESTIC, animal, farm_animals"
-21,snake,"DOMESTIC, animal, farm_animals, reptiles_amphibians"
-22,lamb,"DOMESTIC, animal, farm_animals"
-23,rooster,"DOMESTIC, animal, farm_animals"
-24,pony,"DOMESTIC, animal, beasts_of_burden, farm_animals"
-25,chick,"DOMESTIC, animal, farm_animals"
-26,ram,"DOMESTIC, animal, farm_animals"
-27,donkey,"DOMESTIC, animal, beasts_of_burden, farm_animals"
-28,mare,"DOMESTIC, animal, beasts_of_burden, farm_animals"
-29,mule,"DOMESTIC, animal, beasts_of_burden, farm_animals"
-30,kid,"DOMESTIC, animal, farm_animals"
-31,pony,"DOMESTIC, animal, beasts_of_burden, farm_animals"
-32,chick,"DOMESTIC, animal, farm_animals"
-33,sheep,"DOMESTIC, animal, farm_animals"
-34,hog,"DOMESTIC, animal, farm_animals"
-35,sheep,"DOMESTIC, animal, farm_animals"
-36,lamb,"DOMESTIC, animal, farm_animals"
-37,rooster,"DOMESTIC, animal, farm_animals"
-38,ram,"DOMESTIC, animal, farm_animals"
-39,sheep,"DOMESTIC, animal, farm_animals"
-40,mule,"DOMESTIC, animal, beasts_of_burden, farm_animals"
-41,stallion,"DOMESTIC, animal, farm_animals"
-42,chick,"DOMESTIC, animal, farm_animals"
-43,mule,"DOMESTIC, animal, beasts_of_burden, farm_animals"
-44,colt,"DOMESTIC, animal, beasts_of_burden, farm_animals"
-45,goat,"DOMESTIC, animal, farm_animals"
-46,animal,animal
-47,cougar,"FAMILY, REGION, animal, feline, north_american_animals"
-48,animal,animal
-49,smelt,"animal, fish"
-50,shark,"animal, fish, water_animals"
-51,mussel,"animal, water_animals"
-52,oyster,"animal, water_animals"
-53,goose,"animal, water_animals"
-54,snail,"animal, water_animals"
-55,coral,"animal, water_animals"
-56,scallop,"animal, water_animals"
-57,shark,"animal, fish, water_animals"
-58,jack,"animal, fish"
-59,bass,"animal, fish"
-60,shark,"animal, fish, water_animals"
-61,goose,"animal, water_animals"
-62,clam,"animal, water_animals"
-63,otter,"animal, water_animals, weasels"
-64,lobster,"animal, water_animals"
-65,fish,"animal, fish, water_animals"
-66,bass,"animal, fish"
-67,jack,"animal, fish"
-68,shark,"animal, fish, water_animals"
-69,scallop,"animal, water_animals"
-70,frog,"animal, reptiles_amphibians, water_animals"
+step,word,categories,irt,associative_patch_switch,patch_entry_position
+1,ray,water_animals,1.0,1.0,1.0
+2,whale,water_animals,1.0,0.0,2.0
+3,oyster,water_animals,1.0,0.0,3.0
+4,octopus,water_animals,1.0,0.0,4.0
+5,whale,water_animals,,0.0,5.0
+6,hornet,insects,2.0,1.0,1.0
+7,flea,insects,1.0,0.0,2.0
+8,dove,birds,1.0,1.0,1.0
+9,beetle,insects,1.0,1.0,1.0
+10,owl,birds,1.0,1.0,1.0
+11,animal,,,,
+12,parrot,"birds, pets",2.0,0.0,2.0
+13,human,primates,1.0,1.0,1.0
+14,animal,,,,
+15,doe,deers,2.0,1.0,1.0
+16,caterpillar,insects,1.0,1.0,1.0
+17,beetle,insects,,0.0,2.0
+18,robin,birds,2.0,1.0,1.0
+19,sparrow,birds,1.0,0.0,2.0
+20,pigeon,birds,1.0,0.0,3.0
+21,ant,insects,1.0,1.0,1.0
+22,sparrow,birds,,1.0,1.0
+23,tuna,fish,2.0,1.0,1.0
+24,kite,birds,1.0,1.0,1.0
+25,cardinal,birds,1.0,0.0,2.0
+26,raccoon,north_american_animals,1.0,1.0,1.0
+27,skunk,"north_american_animals, weasels",1.0,0.0,2.0
+28,animal,,,,
+29,buck,deers,2.0,1.0,1.0
+30,deer,"deers, north_american_animals",1.0,0.0,2.0
+31,buck,deers,,0.0,3.0
+32,cardinal,birds,,1.0,1.0
+33,animal,,,,
+34,insect,insects,4.0,1.0,1.0
+35,animal,,,,
+36,serpent,reptiles_amphibians,2.0,1.0,1.0
+37,dinosaur,reptiles_amphibians,1.0,0.0,2.0
+38,cobra,"african_animals, reptiles_amphibians",1.0,0.0,3.0
+39,dinosaur,reptiles_amphibians,,0.0,4.0
+40,reptile,reptiles_amphibians,2.0,0.0,5.0
+41,dinosaur,reptiles_amphibians,,0.0,6.0
+42,tortoise,reptiles_amphibians,2.0,0.0,7.0
+43,swallow,birds,1.0,1.0,1.0
+44,antelope,african_animals,1.0,1.0,1.0
+45,giraffe,african_animals,1.0,0.0,2.0
+46,tiger,"african_animals, feline",1.0,0.0,3.0
+47,canary,"birds, pets",1.0,1.0,1.0
+48,turkey,"birds, farm_animals",1.0,0.0,2.0
+49,lamb,farm_animals,1.0,0.0,3.0
+50,panther,"african_animals, feline",1.0,1.0,1.0
+51,antelope,african_animals,,0.0,2.0
+52,quail,birds,2.0,1.0,1.0
+53,pike,fish,1.0,1.0,1.0
+54,trout,fish,1.0,0.0,2.0
+55,insect,insects,,1.0,1.0
+56,barracuda,fish,2.0,1.0,1.0
+57,animal,,,,
+58,buffalo,"african_animals, bovine",2.0,1.0,1.0
+59,goat,farm_animals,1.0,1.0,1.0
+60,calf,"bovine, farm_animals",1.0,0.0,2.0
+61,mussel,water_animals,1.0,1.0,1.0
+62,cobra,"african_animals, reptiles_amphibians",,1.0,1.0
+63,giraffe,african_animals,,0.0,2.0
+64,zebra,african_animals,3.0,0.0,3.0
+65,anteater,insectivores,1.0,1.0,1.0
+66,antelope,african_animals,,1.0,1.0
+67,giraffe,african_animals,,0.0,2.0
+68,antelope,african_animals,,0.0,3.0
+69,rail,,4.0,1.0,1.0
+70,quail,birds,,1.0,1.0

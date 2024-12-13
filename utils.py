@@ -8,3 +8,12 @@ def get_word_categories(word: str):
         if word in category:
             word_categories.append(ALL_CATEG_NAMES[ALL_CATEG.index(category)])
     return word_categories
+
+
+def get_all_animal_words():
+    with open('data/animals.txt', 'r') as f:
+        return [word.strip().lower() for word in f.readlines()]
+
+
+def compute_irt(results_file):
+    pass

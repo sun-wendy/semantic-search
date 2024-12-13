@@ -1,71 +1,71 @@
-Step,Word,Categories
-1,fly,insects
-2,caterpillar,insects
-3,mosquito,insects
-4,swallow,birds
-5,gull,birds
-6,penguin,"arctic_far_north_animals, birds, water_animals"
-7,pike,fish
-8,shark,"fish, water_animals"
-9,swan,birds
-10,pike,fish
-11,shark,"fish, water_animals"
-12,barracuda,fish
-13,coral,water_animals
-14,barracuda,fish
-15,pike,fish
-16,smelt,fish
-17,bass,fish
-18,ray,water_animals
-19,tuna,fish
-20,barracuda,fish
-21,ray,water_animals
-22,salmon,fish
-23,tuna,fish
-24,smelt,fish
-25,pike,fish
-26,penguin,"arctic_far_north_animals, birds, water_animals"
-27,gull,birds
-28,gander,birds
-29,gull,birds
-30,bird,birds
-31,gull,birds
-32,bird,birds
-33,chicken,"birds, farm_animals"
-34,kiwi,"australian_animals, birds"
-35,chicken,"birds, farm_animals"
-36,bird,birds
-37,robin,birds
-38,sparrow,birds
-39,swallow,birds
-40,sparrow,birds
-41,cardinal,birds
-42,canary,"birds, pets"
-43,cardinal,birds
-44,canary,"birds, pets"
-45,cardinal,birds
-46,crow,birds
-47,swallow,birds
-48,mosquito,insects
-49,bird,birds
-50,bluejay,birds
-51,swallow,birds
-52,mosquito,insects
-53,swallow,birds
-54,hawk,birds
-55,swallow,birds
-56,cardinal,birds
-57,crow,birds
-58,canary,"birds, pets"
-59,crow,birds
-60,animal,
-61,pigeon,birds
-62,sparrow,birds
-63,pigeon,birds
-64,sparrow,birds
-65,swallow,birds
-66,animal,
-67,squid,water_animals
-68,animal,
-69,cricket,insects
-70,sugar,
+step,word,categories,irt,associative_patch_switch,patch_entry_position
+1,ass,"beasts_of_burden, farm_animals",1.0,1.0,1.0
+2,mare,"beasts_of_burden, farm_animals",1.0,0.0,2.0
+3,buffalo,"african_animals, bovine",1.0,1.0,1.0
+4,cow,"bovine, farm_animals",1.0,0.0,2.0
+5,mare,"beasts_of_burden, farm_animals",,0.0,3.0
+6,ass,"beasts_of_burden, farm_animals",,0.0,4.0
+7,buffalo,"african_animals, bovine",,1.0,1.0
+8,ass,"beasts_of_burden, farm_animals",,1.0,1.0
+9,bison,"bovine, north_american_animals",5.0,1.0,1.0
+10,ewe,birds,1.0,1.0,1.0
+11,elk,"deers, north_american_animals",1.0,1.0,1.0
+12,reindeer,"arctic_far_north_animals, deers",1.0,0.0,2.0
+13,steer,bovine,1.0,1.0,1.0
+14,ass,"beasts_of_burden, farm_animals",,1.0,1.0
+15,steer,bovine,,1.0,1.0
+16,elk,"deers, north_american_animals",,1.0,1.0
+17,reindeer,"arctic_far_north_animals, deers",,0.0,2.0
+18,elk,"deers, north_american_animals",,0.0,3.0
+19,sheep,farm_animals,6.0,1.0,1.0
+20,cow,"bovine, farm_animals",,0.0,2.0
+21,bison,"bovine, north_american_animals",,0.0,3.0
+22,calf,"bovine, farm_animals",3.0,0.0,4.0
+23,animal,,,,
+24,bird,birds,2.0,1.0,1.0
+25,sparrow,birds,1.0,0.0,2.0
+26,dove,birds,1.0,0.0,3.0
+27,cardinal,birds,1.0,0.0,4.0
+28,robin,birds,1.0,0.0,5.0
+29,quail,birds,1.0,0.0,6.0
+30,mole,"insectivores, rodents",1.0,1.0,1.0
+31,rodent,rodents,1.0,0.0,2.0
+32,mole,"insectivores, rodents",,0.0,3.0
+33,rodent,rodents,,0.0,4.0
+34,animal,,,,
+35,tiger,"african_animals, feline",4.0,1.0,1.0
+36,animal,,,,
+37,sparrow,birds,,1.0,1.0
+38,grasshopper,insects,3.0,1.0,1.0
+39,beetle,insects,1.0,0.0,2.0
+40,caterpillar,insects,1.0,0.0,3.0
+41,maggot,insects,1.0,0.0,4.0
+42,caterpillar,insects,,0.0,5.0
+43,beetle,insects,,0.0,6.0
+44,grasshopper,insects,,0.0,7.0
+45,rabbit,"animals_used_for_fur, north_american_animals, pets, rabbits",4.0,1.0,1.0
+46,bunny,rabbits,1.0,0.0,2.0
+47,rabbit,"animals_used_for_fur, north_american_animals, pets, rabbits",,0.0,3.0
+48,frog,"reptiles_amphibians, water_animals",2.0,1.0,1.0
+49,toad,"reptiles_amphibians, water_animals",1.0,0.0,2.0
+50,frog,"reptiles_amphibians, water_animals",,0.0,3.0
+51,toad,"reptiles_amphibians, water_animals",,0.0,4.0
+52,crocodile,reptiles_amphibians,3.0,0.0,5.0
+53,pike,fish,1.0,1.0,1.0
+54,tuna,fish,1.0,0.0,2.0
+55,smelt,fish,1.0,0.0,3.0
+56,tuna,fish,,0.0,4.0
+57,porpoise,water_animals,2.0,1.0,1.0
+58,trout,fish,1.0,1.0,1.0
+59,animal,,,,
+60,mare,"beasts_of_burden, farm_animals",,1.0,1.0
+61,antelope,african_animals,3.0,1.0,1.0
+62,animal,,,,
+63,chipmunk,"north_american_animals, rodents",2.0,1.0,1.0
+64,animal,,,,
+65,whale,water_animals,2.0,1.0,1.0
+66,dolphin,"insects, water_animals",1.0,0.0,2.0
+67,porpoise,water_animals,,0.0,3.0
+68,trout,fish,,1.0,1.0
+69,pelican,birds,3.0,1.0,1.0
+70,animal,,,,
