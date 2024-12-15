@@ -1,71 +1,71 @@
-step,word,categories,irt,associative_patch_switch,patch_entry_position
-1,moose,"deers, north_american_animals",1.0,1.0,1.0
-2,elephant,african_animals,1.0,1.0,1.0
-3,cow,"bovine, farm_animals",1.0,1.0,1.0
-4,steer,bovine,1.0,0.0,2.0
-5,ass,"beasts_of_burden, farm_animals",1.0,1.0,1.0
-6,sheep,farm_animals,1.0,0.0,2.0
-7,cow,"bovine, farm_animals",,0.0,3.0
-8,steer,bovine,,0.0,4.0
-9,lamb,farm_animals,3.0,1.0,1.0
-10,goat,farm_animals,1.0,0.0,2.0
-11,calf,"bovine, farm_animals",1.0,0.0,3.0
-12,steer,bovine,,0.0,4.0
-13,calf,"bovine, farm_animals",,0.0,5.0
-14,steer,bovine,,0.0,6.0
-15,ewe,birds,4.0,1.0,1.0
-16,sheep,farm_animals,,1.0,1.0
-17,goat,farm_animals,,0.0,2.0
-18,steer,bovine,,1.0,1.0
-19,elk,"deers, north_american_animals",4.0,1.0,1.0
-20,sheep,farm_animals,,1.0,1.0
-21,pony,"beasts_of_burden, farm_animals",2.0,0.0,2.0
-22,cow,"bovine, farm_animals",,0.0,3.0
-23,sheep,farm_animals,,0.0,4.0
-24,mare,"beasts_of_burden, farm_animals",3.0,0.0,5.0
-25,steer,bovine,,1.0,1.0
-26,cattle,bovine,2.0,0.0,2.0
-27,steer,bovine,,0.0,3.0
-28,zebra,african_animals,2.0,1.0,1.0
-29,ass,"beasts_of_burden, farm_animals",,1.0,1.0
-30,steer,bovine,,1.0,1.0
-31,pony,"beasts_of_burden, farm_animals",,1.0,1.0
-32,steer,bovine,,1.0,1.0
-33,pony,"beasts_of_burden, farm_animals",,1.0,1.0
-34,hare,rabbits,6.0,1.0,1.0
-35,stallion,farm_animals,1.0,1.0,1.0
-36,hare,rabbits,,1.0,1.0
-37,otter,"water_animals, weasels",2.0,1.0,1.0
-38,hare,rabbits,,1.0,1.0
-39,rabbit,"animals_used_for_fur, north_american_animals, pets, rabbits",2.0,0.0,2.0
-40,bunny,rabbits,1.0,0.0,3.0
-41,lamb,farm_animals,,1.0,1.0
-42,goat,farm_animals,,0.0,2.0
-43,calf,"bovine, farm_animals",,0.0,3.0
-44,sheep,farm_animals,,0.0,4.0
-45,calf,"bovine, farm_animals",,0.0,5.0
-46,cow,"bovine, farm_animals",,0.0,6.0
-47,lamb,farm_animals,,0.0,7.0
-48,steer,bovine,,1.0,1.0
-49,cattle,bovine,,0.0,2.0
-50,bison,"bovine, north_american_animals",10.0,0.0,3.0
-51,buffalo,"african_animals, bovine",1.0,0.0,4.0
-52,steer,bovine,,0.0,5.0
-53,reindeer,"arctic_far_north_animals, deers",2.0,1.0,1.0
-54,steer,bovine,,1.0,1.0
-55,bison,"bovine, north_american_animals",,0.0,2.0
-56,elk,"deers, north_american_animals",,0.0,3.0
-57,buffalo,"african_animals, bovine",,1.0,1.0
-58,steer,bovine,,0.0,2.0
-59,zebra,african_animals,,1.0,1.0
-60,animal,,,,
-61,bee,insects,8.0,1.0,1.0
-62,caterpillar,insects,1.0,0.0,2.0
-63,beetle,insects,1.0,0.0,3.0
-64,caterpillar,insects,,0.0,4.0
-65,bug,insects,2.0,0.0,5.0
-66,animal,,,,
-67,sugar,,2.0,1.0,1.0
-68,kite,birds,1.0,1.0,1.0
-69,sugar,,,1.0,1.0
-70,grasshopper,insects,2.0,1.0,1.0
+step,word,categories,irt,associative_patch_switch,categorical_patch_switch,patch_entry_position
+1,moose,"deers, north_american_animals",1.0,1.0,1.0,1.0
+2,elephant,african_animals,1.0,1.0,1.0,1.0
+3,cow,"bovine, farm_animals",1.0,1.0,1.0,1.0
+4,steer,bovine,1.0,0.0,0.0,2.0
+5,ass,"beasts_of_burden, farm_animals",1.0,1.0,1.0,1.0
+6,sheep,farm_animals,1.0,0.0,0.0,2.0
+7,cow,"bovine, farm_animals",,0.0,0.0,3.0
+8,steer,bovine,,0.0,1.0,4.0
+9,lamb,farm_animals,3.0,1.0,1.0,1.0
+10,goat,farm_animals,1.0,0.0,0.0,2.0
+11,calf,"bovine, farm_animals",1.0,0.0,0.0,3.0
+12,steer,bovine,,0.0,1.0,4.0
+13,calf,"bovine, farm_animals",,0.0,0.0,5.0
+14,steer,bovine,,0.0,0.0,6.0
+15,ewe,birds,4.0,1.0,1.0,1.0
+16,sheep,farm_animals,,1.0,1.0,1.0
+17,goat,farm_animals,,0.0,0.0,2.0
+18,steer,bovine,,1.0,1.0,1.0
+19,elk,"deers, north_american_animals",4.0,1.0,1.0,1.0
+20,sheep,farm_animals,,1.0,1.0,1.0
+21,pony,"beasts_of_burden, farm_animals",2.0,0.0,0.0,2.0
+22,cow,"bovine, farm_animals",,0.0,0.0,3.0
+23,sheep,farm_animals,,0.0,0.0,4.0
+24,mare,"beasts_of_burden, farm_animals",3.0,0.0,0.0,5.0
+25,steer,bovine,,1.0,1.0,1.0
+26,cattle,bovine,2.0,0.0,0.0,2.0
+27,steer,bovine,,0.0,0.0,3.0
+28,zebra,african_animals,2.0,1.0,1.0,1.0
+29,ass,"beasts_of_burden, farm_animals",,1.0,1.0,1.0
+30,steer,bovine,,1.0,1.0,1.0
+31,pony,"beasts_of_burden, farm_animals",,1.0,1.0,1.0
+32,steer,bovine,,1.0,1.0,1.0
+33,pony,"beasts_of_burden, farm_animals",,1.0,1.0,1.0
+34,hare,rabbits,6.0,1.0,1.0,1.0
+35,stallion,farm_animals,1.0,1.0,1.0,1.0
+36,hare,rabbits,,1.0,1.0,1.0
+37,otter,"water_animals, weasels",2.0,1.0,1.0,1.0
+38,hare,rabbits,,1.0,1.0,1.0
+39,rabbit,"animals_used_for_fur, north_american_animals, pets, rabbits",2.0,0.0,0.0,2.0
+40,bunny,rabbits,1.0,0.0,0.0,3.0
+41,lamb,farm_animals,,1.0,1.0,1.0
+42,goat,farm_animals,,0.0,0.0,2.0
+43,calf,"bovine, farm_animals",,0.0,0.0,3.0
+44,sheep,farm_animals,,0.0,0.0,4.0
+45,calf,"bovine, farm_animals",,0.0,0.0,5.0
+46,cow,"bovine, farm_animals",,0.0,0.0,6.0
+47,lamb,farm_animals,,0.0,0.0,7.0
+48,steer,bovine,,1.0,1.0,1.0
+49,cattle,bovine,,0.0,0.0,2.0
+50,bison,"bovine, north_american_animals",10.0,0.0,0.0,3.0
+51,buffalo,"african_animals, bovine",1.0,0.0,0.0,4.0
+52,steer,bovine,,0.0,0.0,5.0
+53,reindeer,"arctic_far_north_animals, deers",2.0,1.0,1.0,1.0
+54,steer,bovine,,1.0,1.0,1.0
+55,bison,"bovine, north_american_animals",,0.0,0.0,2.0
+56,elk,"deers, north_american_animals",,0.0,1.0,3.0
+57,buffalo,"african_animals, bovine",,1.0,1.0,1.0
+58,steer,bovine,,0.0,0.0,2.0
+59,zebra,african_animals,,1.0,1.0,1.0
+60,animal,,,,,
+61,bee,insects,8.0,1.0,1.0,1.0
+62,caterpillar,insects,1.0,0.0,0.0,2.0
+63,beetle,insects,1.0,0.0,0.0,3.0
+64,caterpillar,insects,,0.0,0.0,4.0
+65,bug,insects,2.0,0.0,0.0,5.0
+66,animal,,,,,
+67,sugar,,2.0,1.0,1.0,1.0
+68,kite,birds,1.0,1.0,1.0,1.0
+69,sugar,,,1.0,1.0,1.0
+70,grasshopper,insects,2.0,1.0,1.0,1.0

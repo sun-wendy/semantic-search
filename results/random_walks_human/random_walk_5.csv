@@ -1,50 +1,50 @@
-step,word,categories,irt,associative_patch_switch,patch_entry_position
-1,dog,"canine, pets",0.0,1,1
-2,cat,"feline, pets",0.1,0,2
-3,bird,birds,0.5,1,1
-4,lizard,reptiles_amphibians,1.0,1,1
-5,alligator,"reptiles_amphibians, water_animals",4.0,0,2
-6,crocodile,reptiles_amphibians,1.0,0,3
-7,parrot,"birds, pets",1.5,1,1
-8,chimpanzee,"african_animals, primates",2.0,1,1
-9,crane,feline,2.5,1,1
-10,panda,,1.0,1,1
-11,polar bear,arctic_far_north_animals,1.0,1,1
-12,black bear,north_american_animals,0.1,1,1
-13,brown bear,north_american_animals,0.5,0,2
-14,penguin,"arctic_far_north_animals, birds, water_animals",2.5,1,1
-15,deer,"deers, north_american_animals",4.5,1,1
-16,capybara,rodents,1.0,1,1
-17,lion,"african_animals, feline",3.5,1,1
-18,tiger,"african_animals, feline",1.0,0,2
-19,hyena,"african_animals, canine",1.5,0,3
-20,pig,farm_animals,3.0,1,1
-21,cow,"bovine, farm_animals",1.0,0,2
-22,horse,"beasts_of_burden, farm_animals",0.1,0,3
-23,squirrel,"north_american_animals, rodents",1.5,1,1
-24,bat,insectivores,0.5,1,1
-25,rat,rodents,0.5,1,1
-26,mouse,"birds, rodents",0.1,0,2
-27,cricket,insects,3.5,1,1
-28,butterfly ,insects,1.0,0,2
-29,fruit fly,insects,1.0,0,3
-30,stink bug,insects,1.0,0,4
-31,stick bug,insects,1.5,0,5
-32,snake,"farm_animals, reptiles_amphibians",6.0,1,1
-33,sloth,,4.5,1,1
-34,monkey,"african_animals, primates",1.0,1,1
-35,gorilla,"african_animals, primates",0.5,0,2
-36,human,primates,9.0,0,3
-37,peacock,birds,4.5,1,1
-38,rooster,farm_animals,4.0,1,1
-39,sheep,farm_animals,11.5,0,2
-40,lamb,farm_animals,1.0,0,3
-41,donkey,"beasts_of_burden, farm_animals",1.0,0,4
-42,giraffe,african_animals,42.0,1,1
-43,rhinoceros,african_animals,2.0,0,2
-44,hippototomous,water_animals,1.0,1,1
-45,frog,"water_animals, reptiles_amphibians",3.0,0,2
-46,toads,"water_animals, reptiles_amphibians",1.5,0,3
-47,chameleon,"african_animals, reptiles_amphibians",6.5,0,4
-48,turkey,"birds, farm_animals",11.5,1,1
-49,leopard,"african_animals, feline",7.5,1,1
+step,word,categories,irt,associative_patch_switch,categorical_patch_switch,patch_entry_position
+1,dog,"canine, pets",0.0,1,1,1
+2,cat,"feline, pets",0.1,0,0,2
+3,bird,birds,0.5,1,1,1
+4,lizard,reptiles_amphibians,1.0,1,1,1
+5,alligator,"reptiles_amphibians, water_animals",4.0,0,0,2
+6,crocodile,reptiles_amphibians,1.0,0,0,3
+7,parrot,"birds, pets",1.5,1,1,1
+8,chimpanzee,"african_animals, primates",2.0,1,1,1
+9,crane,feline,2.5,1,1,1
+10,panda,,1.0,1,1,1
+11,polar bear,arctic_far_north_animals,1.0,1,1,1
+12,black bear,north_american_animals,0.1,1,1,1
+13,brown bear,north_american_animals,0.5,0,0,2
+14,penguin,"arctic_far_north_animals, birds, water_animals",2.5,1,1,1
+15,deer,"deers, north_american_animals",4.5,1,1,1
+16,capybara,rodents,1.0,1,1,1
+17,lion,"african_animals, feline",3.5,1,1,1
+18,tiger,"african_animals, feline",1.0,0,0,2
+19,hyena,"african_animals, canine",1.5,0,0,3
+20,pig,farm_animals,3.0,1,1,1
+21,cow,"bovine, farm_animals",1.0,0,0,2
+22,horse,"beasts_of_burden, farm_animals",0.1,0,0,3
+23,squirrel,"north_american_animals, rodents",1.5,1,1,1
+24,bat,insectivores,0.5,1,1,1
+25,rat,rodents,0.5,1,1,1
+26,mouse,"birds, rodents",0.1,0,0,2
+27,cricket,insects,3.5,1,1,1
+28,"butterfly ",insects,1.0,0,0,2
+29,fruit fly,insects,1.0,0,0,3
+30,stink bug,insects,1.0,0,0,4
+31,stick bug,insects,1.5,0,0,5
+32,snake,"farm_animals, reptiles_amphibians",6.0,1,1,1
+33,sloth,,4.5,1,1,1
+34,monkey,"african_animals, primates",1.0,1,1,1
+35,gorilla,"african_animals, primates",0.5,0,0,2
+36,human,primates,9.0,0,0,3
+37,peacock,birds,4.5,1,1,1
+38,rooster,farm_animals,4.0,1,1,1
+39,sheep,farm_animals,11.5,0,0,2
+40,lamb,farm_animals,1.0,0,0,3
+41,donkey,"beasts_of_burden, farm_animals",1.0,0,0,4
+42,giraffe,african_animals,42.0,1,1,1
+43,rhinoceros,african_animals,2.0,0,0,2
+44,hippototomous,water_animals,1.0,1,1,1
+45,frog,"water_animals, reptiles_amphibians",3.0,0,0,2
+46,toads,"water_animals, reptiles_amphibians",1.5,0,0,3
+47,chameleon,"african_animals, reptiles_amphibians",6.5,0,1,4
+48,turkey,"birds, farm_animals",11.5,1,1,1
+49,leopard,"african_animals, feline",7.5,1,1,1

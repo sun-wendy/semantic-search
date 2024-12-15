@@ -1,71 +1,71 @@
-step,word,categories,irt,associative_patch_switch,patch_entry_position
-1,antelope,african_animals,1.0,1.0,1.0
-2,mare,"beasts_of_burden, farm_animals",1.0,1.0,1.0
-3,stallion,farm_animals,1.0,0.0,2.0
-4,hare,rabbits,1.0,1.0,1.0
-5,otter,"water_animals, weasels",1.0,1.0,1.0
-6,quail,birds,1.0,1.0,1.0
-7,grasshopper,insects,1.0,1.0,1.0
-8,beetle,insects,1.0,0.0,2.0
-9,caterpillar,insects,1.0,0.0,3.0
-10,bee,insects,1.0,0.0,4.0
-11,wasp,insects,1.0,0.0,5.0
-12,ant,insects,1.0,0.0,6.0
-13,bee,insects,,0.0,7.0
-14,fly,insects,2.0,0.0,8.0
-15,bee,insects,,0.0,9.0
-16,animal,,,,
-17,robin,birds,3.0,1.0,1.0
-18,quail,birds,,0.0,2.0
-19,mole,"insectivores, rodents",2.0,1.0,1.0
-20,hare,rabbits,,1.0,1.0
-21,beetle,insects,,1.0,1.0
-22,animal,,,,
-23,aardvark,"african_animals, insectivores",4.0,1.0,1.0
-24,anteater,insectivores,1.0,0.0,2.0
-25,aardvark,"african_animals, insectivores",,0.0,3.0
-26,animal,,,,
-27,otter,"water_animals, weasels",,1.0,1.0
-28,bunny,rabbits,4.0,1.0,1.0
-29,stallion,farm_animals,,1.0,1.0
-30,bunny,rabbits,,1.0,1.0
-31,hare,rabbits,,0.0,2.0
-32,otter,"water_animals, weasels",,1.0,1.0
-33,hare,rabbits,,1.0,1.0
-34,grasshopper,insects,,1.0,1.0
-35,snail,water_animals,7.0,1.0,1.0
-36,animal,,,,
-37,bee,insects,,1.0,1.0
-38,sugar,,3.0,1.0,1.0
-39,sparrow,birds,1.0,1.0,1.0
-40,butterfly,insects,1.0,1.0,1.0
-41,bee,insects,,0.0,2.0
-42,bug,insects,2.0,0.0,3.0
-43,ant,insects,,0.0,4.0
-44,wasp,insects,,0.0,5.0
-45,bee,insects,,0.0,6.0
-46,sparrow,birds,,1.0,1.0
-47,bird,birds,5.0,0.0,2.0
-48,dove,birds,1.0,0.0,3.0
-49,owl,birds,1.0,0.0,4.0
-50,crow,birds,1.0,0.0,5.0
-51,bluejay,birds,1.0,0.0,6.0
-52,robin,birds,,0.0,7.0
-53,crow,birds,,0.0,8.0
-54,dove,birds,,0.0,9.0
-55,animal,,,,
-56,flea,insects,5.0,1.0,1.0
-57,animal,,,,
-58,mongoose,"african_animals, weasels",2.0,1.0,1.0
-59,animal,,,,
-60,tick,insects,2.0,1.0,1.0
-61,animal,,,,
-62,porpoise,water_animals,2.0,1.0,1.0
-63,tuna,fish,1.0,1.0,1.0
-64,shrimp,fish,1.0,0.0,2.0
-65,smelt,fish,1.0,0.0,3.0
-66,shrimp,fish,,0.0,4.0
-67,tuna,fish,,0.0,5.0
-68,porpoise,water_animals,,1.0,1.0
-69,tuna,fish,,1.0,1.0
-70,animal,,,,
+step,word,categories,irt,associative_patch_switch,categorical_patch_switch,patch_entry_position
+1,antelope,african_animals,1.0,1.0,1.0,1.0
+2,mare,"beasts_of_burden, farm_animals",1.0,1.0,1.0,1.0
+3,stallion,farm_animals,1.0,0.0,0.0,2.0
+4,hare,rabbits,1.0,1.0,1.0,1.0
+5,otter,"water_animals, weasels",1.0,1.0,1.0,1.0
+6,quail,birds,1.0,1.0,1.0,1.0
+7,grasshopper,insects,1.0,1.0,1.0,1.0
+8,beetle,insects,1.0,0.0,0.0,2.0
+9,caterpillar,insects,1.0,0.0,0.0,3.0
+10,bee,insects,1.0,0.0,0.0,4.0
+11,wasp,insects,1.0,0.0,0.0,5.0
+12,ant,insects,1.0,0.0,0.0,6.0
+13,bee,insects,,0.0,0.0,7.0
+14,fly,insects,2.0,0.0,0.0,8.0
+15,bee,insects,,0.0,0.0,9.0
+16,animal,,,,,
+17,robin,birds,3.0,1.0,1.0,1.0
+18,quail,birds,,0.0,0.0,2.0
+19,mole,"insectivores, rodents",2.0,1.0,1.0,1.0
+20,hare,rabbits,,1.0,1.0,1.0
+21,beetle,insects,,1.0,1.0,1.0
+22,animal,,,,,
+23,aardvark,"african_animals, insectivores",4.0,1.0,1.0,1.0
+24,anteater,insectivores,1.0,0.0,0.0,2.0
+25,aardvark,"african_animals, insectivores",,0.0,0.0,3.0
+26,animal,,,,,
+27,otter,"water_animals, weasels",,1.0,1.0,1.0
+28,bunny,rabbits,4.0,1.0,1.0,1.0
+29,stallion,farm_animals,,1.0,1.0,1.0
+30,bunny,rabbits,,1.0,1.0,1.0
+31,hare,rabbits,,0.0,0.0,2.0
+32,otter,"water_animals, weasels",,1.0,1.0,1.0
+33,hare,rabbits,,1.0,1.0,1.0
+34,grasshopper,insects,,1.0,1.0,1.0
+35,snail,water_animals,7.0,1.0,1.0,1.0
+36,animal,,,,,
+37,bee,insects,,1.0,1.0,1.0
+38,sugar,,3.0,1.0,1.0,1.0
+39,sparrow,birds,1.0,1.0,1.0,1.0
+40,butterfly,insects,1.0,1.0,1.0,1.0
+41,bee,insects,,0.0,0.0,2.0
+42,bug,insects,2.0,0.0,0.0,3.0
+43,ant,insects,,0.0,0.0,4.0
+44,wasp,insects,,0.0,0.0,5.0
+45,bee,insects,,0.0,0.0,6.0
+46,sparrow,birds,,1.0,1.0,1.0
+47,bird,birds,5.0,0.0,0.0,2.0
+48,dove,birds,1.0,0.0,0.0,3.0
+49,owl,birds,1.0,0.0,0.0,4.0
+50,crow,birds,1.0,0.0,0.0,5.0
+51,bluejay,birds,1.0,0.0,0.0,6.0
+52,robin,birds,,0.0,0.0,7.0
+53,crow,birds,,0.0,0.0,8.0
+54,dove,birds,,0.0,0.0,9.0
+55,animal,,,,,
+56,flea,insects,5.0,1.0,1.0,1.0
+57,animal,,,,,
+58,mongoose,"african_animals, weasels",2.0,1.0,1.0,1.0
+59,animal,,,,,
+60,tick,insects,2.0,1.0,1.0,1.0
+61,animal,,,,,
+62,porpoise,water_animals,2.0,1.0,1.0,1.0
+63,tuna,fish,1.0,1.0,1.0,1.0
+64,shrimp,fish,1.0,0.0,0.0,2.0
+65,smelt,fish,1.0,0.0,0.0,3.0
+66,shrimp,fish,,0.0,0.0,4.0
+67,tuna,fish,,0.0,0.0,5.0
+68,porpoise,water_animals,,1.0,1.0,1.0
+69,tuna,fish,,1.0,1.0,1.0
+70,animal,,,,,
