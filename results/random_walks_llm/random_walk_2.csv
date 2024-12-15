@@ -1,71 +1,71 @@
-step,word,categories,irt,associative_patch_switch,patch_entry_position
-1,cub,north_american_animals,1.0,1.0,1.0
-2,animal,,,,
-3,tick,insects,2.0,1.0,1.0
-4,animal,,,,
-5,chipmunk,"north_american_animals, rodents",2.0,1.0,1.0
-6,rabbit,"animals_used_for_fur, north_american_animals, pets, rabbits",1.0,0.0,2.0
-7,deer,"deers, north_american_animals",1.0,0.0,3.0
-8,cow,"bovine, farm_animals",1.0,1.0,1.0
-9,elk,"deers, north_american_animals",1.0,1.0,1.0
-10,cow,"bovine, farm_animals",,1.0,1.0
-11,calf,"bovine, farm_animals",2.0,0.0,2.0
-12,animal,,,,
-13,moth,insects,2.0,1.0,1.0
-14,mosquito,insects,1.0,0.0,2.0
-15,moth,insects,,0.0,3.0
-16,animal,,,,
-17,rabbit,"animals_used_for_fur, north_american_animals, pets, rabbits",,1.0,1.0
-18,bunny,rabbits,4.0,0.0,2.0
-19,lamb,farm_animals,1.0,1.0,1.0
-20,ewe,birds,1.0,1.0,1.0
-21,ass,"beasts_of_burden, farm_animals",1.0,1.0,1.0
-22,cattle,bovine,1.0,1.0,1.0
-23,buffalo,"african_animals, bovine",1.0,0.0,2.0
-24,cow,"bovine, farm_animals",,0.0,3.0
-25,bison,"bovine, north_american_animals",2.0,0.0,4.0
-26,ass,"beasts_of_burden, farm_animals",,1.0,1.0
-27,bison,"bovine, north_american_animals",,1.0,1.0
-28,ewe,birds,,1.0,1.0
-29,cow,"bovine, farm_animals",,1.0,1.0
-30,animal,,,,
-31,bee,insects,6.0,1.0,1.0
-32,animal,,,,
-33,quail,birds,2.0,1.0,1.0
-34,otter,"water_animals, weasels",1.0,1.0,1.0
-35,lamb,farm_animals,,1.0,1.0
-36,steer,bovine,2.0,1.0,1.0
-37,elk,"deers, north_american_animals",,1.0,1.0
-38,steer,bovine,,1.0,1.0
-39,mare,"beasts_of_burden, farm_animals",3.0,1.0,1.0
-40,stallion,farm_animals,1.0,0.0,2.0
-41,hare,rabbits,1.0,1.0,1.0
-42,devil,australian_animals,1.0,1.0,1.0
-43,hare,rabbits,,1.0,1.0
-44,stallion,farm_animals,,1.0,1.0
-45,serpent,reptiles_amphibians,3.0,1.0,1.0
-46,stallion,farm_animals,,1.0,1.0
-47,bunny,rabbits,,1.0,1.0
-48,stallion,farm_animals,,1.0,1.0
-49,bunny,rabbits,,1.0,1.0
-50,lamb,farm_animals,,1.0,1.0
-51,ewe,birds,,1.0,1.0
-52,lamb,farm_animals,,1.0,1.0
-53,goat,farm_animals,8.0,0.0,2.0
-54,animal,,,,
-55,bird,birds,2.0,1.0,1.0
-56,dove,birds,1.0,0.0,2.0
-57,cardinal,birds,1.0,0.0,3.0
-58,dove,birds,,0.0,4.0
-59,bird,birds,,0.0,5.0
-60,dove,birds,,0.0,6.0
-61,cardinal,birds,,0.0,7.0
-62,robin,birds,5.0,0.0,8.0
-63,cardinal,birds,,0.0,9.0
-64,bluejay,birds,2.0,0.0,10.0
-65,dove,birds,,0.0,11.0
-66,sparrow,birds,2.0,0.0,12.0
-67,bluejay,birds,,0.0,13.0
-68,dove,birds,,0.0,14.0
-69,owl,birds,3.0,0.0,15.0
-70,dove,birds,,0.0,16.0
+step,word,categories,irt,associative_patch_switch,categorical_patch_switch,patch_entry_position
+1,cub,north_american_animals,1.0,1.0,1.0,1.0
+2,animal,,,,,
+3,tick,insects,2.0,1.0,1.0,1.0
+4,animal,,,,,
+5,chipmunk,"north_american_animals, rodents",2.0,1.0,1.0,1.0
+6,rabbit,"animals_used_for_fur, north_american_animals, pets, rabbits",1.0,0.0,0.0,2.0
+7,deer,"deers, north_american_animals",1.0,0.0,0.0,3.0
+8,cow,"bovine, farm_animals",1.0,1.0,1.0,1.0
+9,elk,"deers, north_american_animals",1.0,1.0,1.0,1.0
+10,cow,"bovine, farm_animals",,1.0,1.0,1.0
+11,calf,"bovine, farm_animals",2.0,0.0,0.0,2.0
+12,animal,,,,,
+13,moth,insects,2.0,1.0,1.0,1.0
+14,mosquito,insects,1.0,0.0,0.0,2.0
+15,moth,insects,,0.0,0.0,3.0
+16,animal,,,,,
+17,rabbit,"animals_used_for_fur, north_american_animals, pets, rabbits",,1.0,1.0,1.0
+18,bunny,rabbits,4.0,0.0,0.0,2.0
+19,lamb,farm_animals,1.0,1.0,1.0,1.0
+20,ewe,birds,1.0,1.0,1.0,1.0
+21,ass,"beasts_of_burden, farm_animals",1.0,1.0,1.0,1.0
+22,cattle,bovine,1.0,1.0,1.0,1.0
+23,buffalo,"african_animals, bovine",1.0,0.0,0.0,2.0
+24,cow,"bovine, farm_animals",,0.0,0.0,3.0
+25,bison,"bovine, north_american_animals",2.0,0.0,0.0,4.0
+26,ass,"beasts_of_burden, farm_animals",,1.0,1.0,1.0
+27,bison,"bovine, north_american_animals",,1.0,1.0,1.0
+28,ewe,birds,,1.0,1.0,1.0
+29,cow,"bovine, farm_animals",,1.0,1.0,1.0
+30,animal,,,,,
+31,bee,insects,6.0,1.0,1.0,1.0
+32,animal,,,,,
+33,quail,birds,2.0,1.0,1.0,1.0
+34,otter,"water_animals, weasels",1.0,1.0,1.0,1.0
+35,lamb,farm_animals,,1.0,1.0,1.0
+36,steer,bovine,2.0,1.0,1.0,1.0
+37,elk,"deers, north_american_animals",,1.0,1.0,1.0
+38,steer,bovine,,1.0,1.0,1.0
+39,mare,"beasts_of_burden, farm_animals",3.0,1.0,1.0,1.0
+40,stallion,farm_animals,1.0,0.0,0.0,2.0
+41,hare,rabbits,1.0,1.0,1.0,1.0
+42,devil,australian_animals,1.0,1.0,1.0,1.0
+43,hare,rabbits,,1.0,1.0,1.0
+44,stallion,farm_animals,,1.0,1.0,1.0
+45,serpent,reptiles_amphibians,3.0,1.0,1.0,1.0
+46,stallion,farm_animals,,1.0,1.0,1.0
+47,bunny,rabbits,,1.0,1.0,1.0
+48,stallion,farm_animals,,1.0,1.0,1.0
+49,bunny,rabbits,,1.0,1.0,1.0
+50,lamb,farm_animals,,1.0,1.0,1.0
+51,ewe,birds,,1.0,1.0,1.0
+52,lamb,farm_animals,,1.0,1.0,1.0
+53,goat,farm_animals,8.0,0.0,0.0,2.0
+54,animal,,,,,
+55,bird,birds,2.0,1.0,1.0,1.0
+56,dove,birds,1.0,0.0,0.0,2.0
+57,cardinal,birds,1.0,0.0,0.0,3.0
+58,dove,birds,,0.0,0.0,4.0
+59,bird,birds,,0.0,0.0,5.0
+60,dove,birds,,0.0,0.0,6.0
+61,cardinal,birds,,0.0,0.0,7.0
+62,robin,birds,5.0,0.0,0.0,8.0
+63,cardinal,birds,,0.0,0.0,9.0
+64,bluejay,birds,2.0,0.0,0.0,10.0
+65,dove,birds,,0.0,0.0,11.0
+66,sparrow,birds,2.0,0.0,0.0,12.0
+67,bluejay,birds,,0.0,0.0,13.0
+68,dove,birds,,0.0,0.0,14.0
+69,owl,birds,3.0,0.0,0.0,15.0
+70,dove,birds,,0.0,0.0,16.0
